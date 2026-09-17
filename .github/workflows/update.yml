@@ -1,21 +1,19 @@
 # The thing that makes this a radar rather than a snapshot.
 #
-# Every Monday morning it asks TMDB what is coming out, rebuilds the site and
-# publishes it. Nothing to host, nothing to pay for, nothing to remember.
+# Every Monday morning it asks TMDB what is coming out, rebuilds and commits.
+# That push is all it takes: Vercel is watching the repo and redeploys on its
+# own, so this workflow never needs Vercel credentials and there is no deploy
+# step here to go wrong.
 #
-# It also runs on every push, so a change to the markup or the source list goes
-# live without waiting for Monday - but a push only rebuilds from the data
-# already committed. Fetching is reserved for the schedule and for a manual run,
-# because a redesign should not spend anyone's API quota.
-name: Refresh and publish
+# It does not run on push. A push is already a deploy - Vercel handles it - and
+# re-fetching on every markup change would spend API quota for nothing.
+name: Refresh
 
 on:
   schedule:
     # 06:00 UTC every Monday. Weekly rather than monthly on purpose: release
     # dates move, and a date that shifted three weeks ago is worse than useless.
     - cron: '0 6 * * 1'
-  push:
-    branches: [main]
   workflow_dispatch:
     inputs:
       resolve:
@@ -25,21 +23,16 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
-# Never cancel a run mid-flight. A half-published calendar is the one outcome
+# Never cancel a run mid-flight. A half-written calendar is the one outcome
 # worse than a late one.
 concurrency:
-  group: doc-radar
+  group: doc-radar-refresh
   cancel-in-progress: false
 
 jobs:
-  publish:
+  refresh:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
 
     steps:
       - uses: actions/checkout@v4
@@ -47,6 +40,15 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+
+      - name: Check the key is there
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: |
+          if [ -z "$TMDB_API_KEY" ]; then
+            echo "::error::TMDB_API_KEY is not set. Add it under Settings -> Secrets and variables -> Actions."
+            exit 1
+          fi
 
       # Only when asked. Id resolution involves a judgement call about which
       # "Neon" is the right one, and that judgement belongs in a commit someone
@@ -58,38 +60,21 @@ jobs:
         run: node scripts/resolve-sources.mjs
 
       - name: Fetch releases
-        # Skipped on an ordinary push: that rebuilds from committed data.
-        if: github.event_name != 'push'
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-        run: |
-          if [ -z "$TMDB_API_KEY" ]; then
-            echo "::warning::TMDB_API_KEY is not set - publishing the data already committed."
-            exit 0
-          fi
-          node scripts/fetch.mjs
-
-      - name: Commit the refreshed data
-        if: github.event_name != 'push'
-        run: |
-          git config user.name  "doc-radar"
-          git config user.email "noreply@github.com"
-          git add data/releases.json data/sources.resolved.json 2>/dev/null || true
-          if git diff --staged --quiet; then
-            echo "Nothing changed this week."
-          else
-            git commit -m "Refresh releases for $(date -u +'%d %B %Y')"
-            git push
-          fi
+        run: node scripts/fetch.mjs
 
       - name: Build
         run: node build.mjs
 
-      - uses: actions/configure-pages@v5
-
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: dist
-
-      - id: deploy
-        uses: actions/deploy-pages@v4
+      - name: Commit, which is what triggers the deploy
+        run: |
+          git config user.name  "doc-radar"
+          git config user.email "noreply@github.com"
+          git add data/releases.json data/sources.resolved.json dist
+          if git diff --staged --quiet; then
+            echo "Nothing changed this week. No deploy needed."
+          else
+            git commit -m "Refresh releases for $(date -u +'%d %B %Y')"
+            git push
+          fi

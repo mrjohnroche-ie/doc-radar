@@ -29,8 +29,17 @@ node serve.mjs                     # http://localhost:4190
 ```
 
 And in the repo, so the weekly job can run: **Settings → Secrets and variables →
-Actions → New repository secret**, named `TMDB_API_KEY`. Then **Settings → Pages
-→ Source → GitHub Actions**.
+Actions → New repository secret**, named `TMDB_API_KEY`.
+
+## Hosting
+
+Vercel, connected to this repo. Import it at
+[vercel.com/new](https://vercel.com/new) and take every default - `vercel.json`
+already says to run `node build.mjs` and serve `dist/`. There is nothing to
+configure and no environment variable to set on Vercel: the key is only ever
+used by the GitHub job, never at build time.
+
+Once connected, every push deploys.
 
 Commit `data/sources.resolved.json` when you are happy with it. The weekly job
 never re-resolves ids on its own.
@@ -47,15 +56,16 @@ and the first real fetch wipes them.
 ## How it keeps itself up to date
 
 `.github/workflows/update.yml` runs at 06:00 UTC every Monday. It fetches,
-commits the new `data/releases.json`, rebuilds and publishes to GitHub Pages.
-You can also run it by hand from the Actions tab, and tick **resolve** there if
-you have edited the source list.
+rebuilds, and commits. That commit is the whole deploy mechanism - Vercel is
+watching the repo and republishes on its own, so the job never needs Vercel
+credentials. You can also run it by hand from the Actions tab, and tick
+**resolve** there if you have edited the source list.
 
 Weekly rather than monthly on purpose: release dates move constantly, and a date
 that shifted three weeks ago is worse than no date at all.
 
-A push to `main` rebuilds and republishes but does not fetch, so changing the
-markup costs no API calls.
+The job does not run on push. A push already deploys, and re-fetching on every
+markup change would spend API quota for nothing.
 
 ## What it can and cannot see
 
@@ -118,6 +128,7 @@ use the first of it.
 | `scripts/fetch.mjs` | The weekly job: collect, enrich, attribute |
 | `scripts/demo-data.mjs` | Invented data for looking at the layout |
 | `build.mjs` | Generates `dist/`, the calendar feed and the RSS feed |
+| `vercel.json` | Build command, output directory and cache headers |
 | `src/styles.css`, `src/app.js` | The stylesheet and the filtering |
 | `dist/` | Generated. Don't edit by hand - it gets wiped on every build |
 
