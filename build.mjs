@@ -12,6 +12,7 @@
 
 import { readFile, writeFile, mkdir, rm, cp } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
+import { createHash } from 'node:crypto';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -27,6 +28,18 @@ const SITE = {
 };
 
 const data = JSON.parse(await readFile(path.join(ROOT, 'data/releases.json'), 'utf8'));
+
+/* The stylesheet and the script are cached hard at the edge, so their URLs
+   carry a hash of their contents: a deploy that changes them changes the URL.
+   Without this a returning reader keeps the old stylesheet until their cache
+   expires, and a layout change appears to have silently not shipped. */
+const assets = {};
+for (const [name, file] of [['css', 'styles.css'], ['js', 'app.js']]) {
+  const body = await readFile(path.join(ROOT, 'src', file), 'utf8');
+  const hash = createHash('sha256').update(body).digest('hex').slice(0, 8);
+  const ext = path.extname(file);
+  assets[name] = { body, href: `${path.basename(file, ext)}.${hash}${ext}` };
+}
 
 const esc = (s) =>
   String(s ?? '')
@@ -198,7 +211,7 @@ const html = `<!doctype html>
 <meta property="og:title" content="${esc(SITE.title)}">
 <meta property="og:description" content="${esc(SITE.description)}">
 <link rel="alternate" type="application/rss+xml" title="${esc(SITE.title)}" href="feed.xml">
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="${assets.css.href}">
 </head>
 <body>
 
@@ -261,7 +274,7 @@ ${horizonSection}
   <p class="foot__when">Last run ${esc(data.generatedAt)}</p>
 </footer>
 
-<script src="app.js"></script>
+<script src="${assets.js.href}"></script>
 </body>
 </html>
 `;
@@ -370,8 +383,8 @@ await mkdir(DIST, { recursive: true });
 await writeFile(path.join(DIST, 'index.html'), html);
 await writeFile(path.join(DIST, 'feed.ics'), ics);
 await writeFile(path.join(DIST, 'feed.xml'), rss);
-if (existsSync(path.join(ROOT, 'src'))) {
-  await cp(path.join(ROOT, 'src'), DIST, { recursive: true });
+for (const asset of Object.values(assets)) {
+  await writeFile(path.join(DIST, asset.href), asset.body);
 }
 await writeFile(path.join(DIST, '.nojekyll'), '');
 
