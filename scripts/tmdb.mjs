@@ -8,7 +8,27 @@
  * is a miserable thing to debug, so we sniff the shape instead of asking.
  */
 
+import { readFileSync, existsSync } from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
 const BASE = 'https://api.themoviedb.org/3';
+
+/* Read a .env at the repo root if there is one, so the key can live in a file
+   instead of being exported into every shell that runs this. Node's own
+   --env-file would do the same, but it errors when the file is absent and CI
+   has no .env - a flag you must remember to drop is worse than eight lines.
+   Anything already in the environment wins, which is what makes CI work
+   unchanged. .env is in .gitignore; keep it that way. */
+const ENV_FILE = path.join(path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..'), '.env');
+if (existsSync(ENV_FILE)) {
+  for (const line of readFileSync(ENV_FILE, 'utf8').split('\n')) {
+    const match = /^\s*([A-Za-z_][A-Za-z0-9_]*)\s*=\s*(.*?)\s*$/.exec(line);
+    if (!match || line.trim().startsWith('#')) continue;
+    const [, key, raw] = match;
+    if (!(key in process.env)) process.env[key] = raw.replace(/^["']|["']$/g, '');
+  }
+}
 
 const credential = (process.env.TMDB_API_KEY || process.env.TMDB_TOKEN || '').trim();
 const isV4Token = credential.includes('.');
@@ -16,9 +36,11 @@ const isV4Token = credential.includes('.');
 export function assertCredential() {
   if (credential) return;
   throw new Error(
-    'No TMDB credential. Set TMDB_API_KEY (or TMDB_TOKEN) in the environment.\n' +
-      '  Locally:  export TMDB_API_KEY="your-key"\n' +
-      '  In CI:    add it as the repository secret TMDB_API_KEY'
+    'No TMDB credential.\n' +
+      '  Locally:  put TMDB_API_KEY=your-key in a .env file at the repo root\n' +
+      '            (copy .env.example), or export it in your shell\n' +
+      '  In CI:    add it as the repository secret TMDB_API_KEY\n' +
+      '  Get one:  https://www.themoviedb.org/settings/api'
   );
 }
 

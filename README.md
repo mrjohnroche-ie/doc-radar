@@ -18,15 +18,23 @@ You need a TMDB key. It is free, takes two minutes, and no card is involved.
 3. Copy either credential it gives you. The short **API Key (v3 auth)** and the
    long **API Read Access Token** both work; the code sniffs which one you gave it.
 
-Then, locally:
+Then put it in a `.env` at the repo root:
 
 ```bash
-export TMDB_API_KEY="paste-it-here"
+cp .env.example .env     # then paste the key in after the =
+```
+
+`.env` is gitignored and never leaves your machine. Every script reads it, so
+there is nothing to export and nothing to remember.
+
+```bash
 node scripts/resolve-sources.mjs   # once: turns names into TMDB ids
 node scripts/fetch.mjs             # asks TMDB what is coming out
 node build.mjs                     # writes dist/
 node serve.mjs                     # http://localhost:4190
 ```
+
+Then commit and push. That push is the deploy.
 
 And in the repo, so the weekly job can run: **Settings → Secrets and variables →
 Actions → New repository secret**, named `TMDB_API_KEY`.
@@ -123,6 +131,7 @@ use the first of it.
 | `data/sources.resolved.json` | Generated once. TMDB ids for each source |
 | `data/manual.json` | Hand-added releases the automation cannot see |
 | `data/releases.json` | Generated weekly. The only thing the site is built from |
+| `.env` | Your TMDB key. Gitignored, never committed |
 | `scripts/tmdb.mjs` | TMDB client: auth, rate limiting, retries |
 | `scripts/resolve-sources.mjs` | Names to TMDB ids, printed for a human to check |
 | `scripts/fetch.mjs` | The weekly job: collect, enrich, attribute |
