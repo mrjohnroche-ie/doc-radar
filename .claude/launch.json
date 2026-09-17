@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "doc-radar",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["serve.mjs", "4190"],
+      "port": 4190
+    }
+  ]
+}

@@ -1,0 +1,738 @@
+{
+  "generatedAt": "2026-09-17T19:48:34.434Z",
+  "demo": true,
+  "window": {
+    "from": "2026-09-01",
+    "to": "2026-12-31"
+  },
+  "months": [
+    "2026-09",
+    "2026-10",
+    "2026-11",
+    "2026-12"
+  ],
+  "sources": [
+    {
+      "id": "dogwoof",
+      "name": "Dogwoof",
+      "kind": "theatrical",
+      "country": "UK",
+      "blurb": "The premier international documentary specialist: distributing, financing and selling titles like Free Solo and The Cave.",
+      "site": "https://www.dogwoof.com",
+      "slate": "https://www.dogwoof.com/films",
+      "docsOnly": true,
+      "health": {
+        "status": "ok",
+        "covered": true,
+        "notes": [],
+        "count": 1
+      }
+    },
+    {
+      "id": "magnolia",
+      "name": "Magnolia Pictures",
+      "kind": "theatrical",
+      "country": "US",
+      "blurb": "Major indie distributor behind prominent theatrical docs including RBG, Blackfish and Food, Inc.",
+      "site": "https://www.magpictures.com",
+      "slate": "https://www.magpictures.com/films/",
+      "health": {
+        "status": "ok",
+        "covered": true,
+        "notes": [],
+        "count": 0
+      }
+    },
+    {
+      "id": "kino-lorber",
+      "name": "Kino Lorber",
+      "kind": "theatrical",
+      "country": "US",
+      "blurb": "Art-house distributor with a deep non-fiction catalogue, including Fire at Sea and classic film restorations.",
+      "site": "https://www.kinolorber.com",
+      "slate": "https://www.kinolorber.com/films/comingsoon",
+      "health": {
+        "status": "ok",
+        "covered": true,
+        "notes": [],
+        "count": 0
+      }
+    },
+    {
+      "id": "neon",
+      "name": "NEON",
+      "kind": "theatrical",
+      "country": "US",
+      "blurb": "High-profile theatrical distributor known for prestige, festival-favourite docs such as Flee, All the Beauty and the Bloodshed and Moonage Daydream.",
+      "site": "https://www.neonrated.com",
+      "slate": "https://www.neonrated.com/films",
+      "health": {
+        "status": "ok",
+        "covered": true,
+        "notes": [],
+        "count": 2
+      }
+    },
+    {
+      "id": "oscilloscope",
+      "name": "Oscilloscope Laboratories",
+      "kind": "theatrical",
+      "country": "US",
+      "blurb": "Independent distributor founded by Adam Yauch, releasing eclectic films like Exit Through the Gift Shop.",
+      "site": "https://www.oscilloscope.net",
+      "slate": "https://www.oscilloscope.net/films",
+      "health": {
+        "status": "ok",
+        "covered": true,
+        "notes": [],
+        "count": 0
+      }
+    },
+    {
+      "id": "greenwich",
+      "name": "Greenwich Entertainment",
+      "kind": "theatrical",
+      "country": "US",
+      "blurb": "Boutique company focusing on culture, music and social issues (The Booksellers, Echo in the Canyon).",
+      "site": "https://greenwichentertainment.com",
+      "slate": "https://greenwichentertainment.com/films/",
+      "health": {
+        "status": "ok",
+        "covered": true,
+        "notes": [],
+        "count": 1
+      }
+    },
+    {
+      "id": "icarus",
+      "name": "Icarus Films",
+      "kind": "theatrical",
+      "country": "US",
+      "blurb": "Focuses on social, political and historical documentaries from international filmmakers.",
+      "site": "https://icarusfilms.com",
+      "slate": "https://icarusfilms.com/new-releases",
+      "docsOnly": true,
+      "health": {
+        "status": "ok",
+        "covered": true,
+        "notes": [],
+        "count": 0
+      }
+    },
+    {
+      "id": "sideshow-janus",
+      "name": "Sideshow / Janus Films",
+      "kind": "theatrical",
+      "country": "US",
+      "blurb": "Art-house partners handling theatrical releases for major festival docs like EO and All the Beauty and the Bloodshed.",
+      "site": "https://www.janusfilms.com",
+      "slate": "https://www.janusfilms.com/films",
+      "health": {
+        "status": "ok",
+        "covered": true,
+        "notes": [],
+        "count": 0
+      }
+    },
+    {
+      "id": "first-run",
+      "name": "First Run Features",
+      "kind": "theatrical",
+      "country": "US",
+      "blurb": "One of America's oldest indie distributors, specialising in human rights, LGBTQ+ and social justice topics.",
+      "site": "https://www.firstrunfeatures.com",
+      "slate": "https://www.firstrunfeatures.com/newreleases.html",
+      "docsOnly": true,
+      "health": {
+        "status": "ok",
+        "covered": true,
+        "notes": [],
+        "count": 0
+      }
+    },
+    {
+      "id": "cinema-guild",
+      "name": "Cinema Guild",
+      "kind": "theatrical",
+      "country": "US",
+      "blurb": "Distributes festival-driven, international and avant-garde non-fiction films.",
+      "site": "https://www.cinemaguild.com",
+      "slate": "https://www.cinemaguild.com/theatrical/",
+      "docsOnly": true,
+      "health": {
+        "status": "ok",
+        "covered": true,
+        "notes": [],
+        "count": 1
+      }
+    },
+    {
+      "id": "hbo-docs",
+      "name": "HBO Documentary Films",
+      "kind": "broadcast",
+      "country": "US",
+      "blurb": "Industry giant funding and distributing prestige non-fiction like The Jinx, Going Clear and Welcome to Chechnya.",
+      "site": "https://www.hbo.com/documentaries",
+      "slate": "https://www.hbo.com/documentaries",
+      "docsOnly": true,
+      "health": {
+        "status": "ok",
+        "covered": true,
+        "notes": [],
+        "count": 2
+      }
+    },
+    {
+      "id": "pbs-indie",
+      "name": "PBS (POV & Independent Lens)",
+      "kind": "broadcast",
+      "country": "US",
+      "blurb": "The primary US public broadcasting home for independent non-fiction filmmaking.",
+      "site": "https://www.pbs.org",
+      "slate": "https://www.pbs.org/pov/films/",
+      "docsOnly": true,
+      "health": {
+        "status": "ok",
+        "covered": true,
+        "notes": [],
+        "count": 0
+      }
+    },
+    {
+      "id": "cnn-films",
+      "name": "CNN Films",
+      "kind": "broadcast",
+      "country": "US",
+      "blurb": "Acquisition and co-production arm behind commercial hits like Navalny, Apollo 11 and Blackfish.",
+      "site": "https://www.cnn.com/specials/films",
+      "slate": "https://www.cnn.com/specials/films",
+      "docsOnly": true,
+      "health": {
+        "status": "ok",
+        "covered": true,
+        "notes": [],
+        "count": 0
+      }
+    },
+    {
+      "id": "espn-films",
+      "name": "ESPN Films / 30 for 30",
+      "kind": "broadcast",
+      "country": "US",
+      "blurb": "Premier producer and distributor of sports and cultural documentaries (O.J.: Made in America).",
+      "site": "https://www.espn.com/30for30/",
+      "slate": "https://www.espn.com/30for30/",
+      "docsOnly": true,
+      "health": {
+        "status": "ok",
+        "covered": true,
+        "notes": [],
+        "count": 1
+      }
+    },
+    {
+      "id": "natgeo-docs",
+      "name": "National Geographic Documentary Films",
+      "kind": "broadcast",
+      "country": "US",
+      "blurb": "Focuses on science, nature and high-stakes human endurance (Free Solo, Fire of Love, Sugarcane).",
+      "site": "https://films.nationalgeographic.com",
+      "slate": "https://films.nationalgeographic.com",
+      "docsOnly": true,
+      "health": {
+        "status": "ok",
+        "covered": true,
+        "notes": [],
+        "count": 1
+      }
+    },
+    {
+      "id": "bbc-storyville",
+      "name": "BBC Storyville",
+      "kind": "broadcast",
+      "country": "UK",
+      "blurb": "The BBC's flagship international documentary strand, commissioning world non-fiction cinema.",
+      "site": "https://www.bbc.co.uk/programmes/b006mgy9",
+      "slate": "https://www.bbc.co.uk/iplayer/categories/documentaries/a-z",
+      "docsOnly": true,
+      "health": {
+        "status": "ok",
+        "covered": true,
+        "notes": [],
+        "count": 1
+      }
+    },
+    {
+      "id": "arte",
+      "name": "ARTE",
+      "kind": "broadcast",
+      "country": "FR/DE",
+      "blurb": "European public service channel that heavily co-produces and distributes creative documentaries worldwide.",
+      "site": "https://www.arte.tv",
+      "slate": "https://www.arte.tv/en/videos/documentaries-and-reportage/",
+      "health": {
+        "status": "ok",
+        "covered": true,
+        "notes": [],
+        "count": 0
+      }
+    },
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "kind": "streaming",
+      "country": "Global",
+      "blurb": "Global leader in true crime, feature-length docs and limited series (13th, My Octopus Teacher, The Elephant Whisperers).",
+      "site": "https://www.netflix.com",
+      "slate": "https://www.netflix.com/browse/genre/6839",
+      "health": {
+        "status": "ok",
+        "covered": true,
+        "notes": [],
+        "count": 1
+      }
+    },
+    {
+      "id": "apple",
+      "name": "Apple Original Films",
+      "kind": "streaming",
+      "country": "Global",
+      "blurb": "Focuses on high-budget prestige non-fiction like Boys State and Still: A Michael J. Fox Movie.",
+      "site": "https://tv.apple.com",
+      "slate": "https://tv.apple.com/channel/tvs.sbd.4000",
+      "health": {
+        "status": "ok",
+        "covered": true,
+        "notes": [],
+        "count": 0
+      }
+    },
+    {
+      "id": "mubi",
+      "name": "MUBI",
+      "kind": "streaming",
+      "country": "Global",
+      "blurb": "Curated global platform acquiring festival, foreign and experimental non-fiction.",
+      "site": "https://mubi.com",
+      "slate": "https://mubi.com/showing",
+      "health": {
+        "status": "ok",
+        "covered": true,
+        "notes": [],
+        "count": 1
+      }
+    },
+    {
+      "id": "hulu-onyx",
+      "name": "Hulu / Onyx Collective",
+      "kind": "streaming",
+      "country": "US",
+      "blurb": "Focuses on culture, music and investigative docuseries.",
+      "site": "https://www.hulu.com",
+      "slate": "https://www.hulu.com/hub/documentaries",
+      "health": {
+        "status": "ok",
+        "covered": true,
+        "notes": [],
+        "count": 1
+      }
+    },
+    {
+      "id": "cinephil",
+      "name": "Cinephil",
+      "kind": "sales",
+      "country": "Israel / Global",
+      "blurb": "Premier sales agency specialising in international festival docs like Collective and Gunda.",
+      "site": "https://cinephil.com",
+      "slate": "https://cinephil.com/films/",
+      "docsOnly": true,
+      "health": {
+        "status": "ok",
+        "covered": true,
+        "notes": [],
+        "count": 0
+      }
+    },
+    {
+      "id": "submarine",
+      "name": "Submarine Entertainment",
+      "kind": "sales",
+      "country": "US",
+      "blurb": "Major sales agent and production company representing Oscar winners like Summer of Soul and Citizen K.",
+      "site": "https://www.submarine.com",
+      "slate": "https://www.submarine.com",
+      "docsOnly": true,
+      "health": {
+        "status": "ok",
+        "covered": true,
+        "notes": [],
+        "count": 0
+      }
+    },
+    {
+      "id": "autlook",
+      "name": "Autlook Filmsales",
+      "kind": "sales",
+      "country": "Austria",
+      "blurb": "Global sales boutique for festival-driven docs like The Painter and the Thief.",
+      "site": "https://autlookfilms.com",
+      "slate": "https://autlookfilms.com/films/",
+      "docsOnly": true,
+      "health": {
+        "status": "ok",
+        "covered": true,
+        "notes": [],
+        "count": 0
+      }
+    },
+    {
+      "id": "deckert",
+      "name": "Deckert Distribution",
+      "kind": "sales",
+      "country": "Germany",
+      "blurb": "Specialises in creative documentaries with a strong focus on Central and Eastern Europe.",
+      "site": "https://deckert-distribution.com",
+      "slate": "https://deckert-distribution.com/film-catalogue/",
+      "docsOnly": true,
+      "health": {
+        "status": "ok",
+        "covered": true,
+        "notes": [],
+        "count": 0
+      }
+    }
+  ],
+  "releases": [
+    {
+      "id": "demo-0",
+      "kind": "film",
+      "title": "The Last Lighthouse Keeper",
+      "year": 2026,
+      "overview": "Forty years alone on a rock in the Atlantic, and the month the light finally goes automatic.",
+      "poster": null,
+      "runtime": 84,
+      "director": "Aoife Brennan",
+      "date": "2026-09-01",
+      "dateRegion": "IE",
+      "dateType": "theatrical",
+      "otherDates": [
+        {
+          "region": "US",
+          "date": "2026-09-01",
+          "type": "theatrical"
+        }
+      ],
+      "providers": [],
+      "tmdbUrl": null,
+      "imdbUrl": null,
+      "homepage": null,
+      "sources": [
+        "dogwoof",
+        "neon"
+      ],
+      "unattributed": false,
+      "popularity": 100,
+      "demo": true
+    },
+    {
+      "id": "demo-11",
+      "kind": "series",
+      "title": "The Seed Vault Opens",
+      "year": 2026,
+      "overview": "Svalbard makes its first significant withdrawal, and the reasons are not the ones anyone planned for.",
+      "poster": null,
+      "runtime": 107,
+      "director": "Kristin Vang",
+      "date": "2026-09-09",
+      "dateRegion": null,
+      "dateType": "tv",
+      "otherDates": [],
+      "providers": [],
+      "tmdbUrl": null,
+      "imdbUrl": null,
+      "homepage": null,
+      "sources": [
+        "espn-films"
+      ],
+      "unattributed": false,
+      "popularity": 89,
+      "demo": true
+    },
+    {
+      "id": "demo-3",
+      "kind": "film",
+      "title": "Everything We Threw Away",
+      "year": 2026,
+      "overview": "A landfill archaeologist reads the twentieth century out of a hundred metres of compacted rubbish.",
+      "poster": null,
+      "runtime": 123,
+      "director": "Marcus Vale",
+      "date": "2026-09-14",
+      "dateRegion": null,
+      "dateType": "tv",
+      "otherDates": [
+        {
+          "region": "US",
+          "date": "2026-09-14",
+          "type": "theatrical"
+        }
+      ],
+      "providers": [],
+      "tmdbUrl": null,
+      "imdbUrl": null,
+      "homepage": null,
+      "sources": [
+        "bbc-storyville"
+      ],
+      "unattributed": false,
+      "popularity": 97,
+      "demo": true
+    },
+    {
+      "id": "demo-6",
+      "kind": "film",
+      "title": "Quiet Car",
+      "year": 2026,
+      "overview": "Filmed entirely in the silent carriage of the 06:12, over four years of commuters.",
+      "poster": null,
+      "runtime": 122,
+      "director": "Danny Okonjo",
+      "date": "2026-09-27",
+      "dateRegion": "US",
+      "dateType": "digital",
+      "otherDates": [
+        {
+          "region": "US",
+          "date": "2026-09-27",
+          "type": "theatrical"
+        }
+      ],
+      "providers": [],
+      "tmdbUrl": null,
+      "imdbUrl": null,
+      "homepage": null,
+      "sources": [
+        "cinema-guild"
+      ],
+      "unattributed": false,
+      "popularity": 94,
+      "demo": true
+    },
+    {
+      "id": "demo-9",
+      "kind": "film",
+      "title": "Hold Music",
+      "year": 2026,
+      "overview": "The composers who write the loops you hear on hold, and what they think about all day.",
+      "poster": null,
+      "runtime": 121,
+      "director": "Tom Devereux",
+      "date": "2026-10-10",
+      "dateRegion": "GB",
+      "dateType": "limited",
+      "otherDates": [
+        {
+          "region": "US",
+          "date": "2026-10-10",
+          "type": "theatrical"
+        }
+      ],
+      "providers": [],
+      "tmdbUrl": null,
+      "imdbUrl": null,
+      "homepage": null,
+      "sources": [
+        "neon"
+      ],
+      "unattributed": false,
+      "popularity": 91,
+      "demo": true
+    },
+    {
+      "id": "demo-1",
+      "kind": "film",
+      "title": "Cobalt",
+      "year": 2026,
+      "overview": "The supply chain behind every battery on earth, traced backwards from a Dublin car park to a hillside in Katanga.",
+      "poster": null,
+      "runtime": 97,
+      "director": "Jean-Luc Mbeki",
+      "date": "2026-10-15",
+      "dateRegion": "GB",
+      "dateType": "limited",
+      "otherDates": [],
+      "providers": [
+        {
+          "name": "MUBI",
+          "logo": null
+        }
+      ],
+      "tmdbUrl": null,
+      "imdbUrl": null,
+      "homepage": null,
+      "sources": [
+        "greenwich"
+      ],
+      "unattributed": false,
+      "popularity": 99,
+      "demo": true
+    },
+    {
+      "id": "demo-4",
+      "kind": "film",
+      "title": "The Understudy",
+      "year": 2026,
+      "overview": "She covered the role for nineteen years and went on twice. This is about the other nights.",
+      "poster": null,
+      "runtime": 96,
+      "director": "Petra Lang",
+      "date": "2026-10-29",
+      "dateRegion": "IE",
+      "dateType": "theatrical",
+      "otherDates": [],
+      "providers": [
+        {
+          "name": "MUBI",
+          "logo": null
+        }
+      ],
+      "tmdbUrl": null,
+      "imdbUrl": null,
+      "homepage": null,
+      "sources": [
+        "hulu-onyx",
+        "hbo-docs"
+      ],
+      "unattributed": false,
+      "popularity": 96,
+      "demo": true
+    },
+    {
+      "id": "demo-7",
+      "kind": "film",
+      "title": "The Forger Who Confessed",
+      "year": 2026,
+      "overview": "He fooled six museums, then spent thirty years trying to prove it, and nobody wanted to hear.",
+      "poster": null,
+      "runtime": 95,
+      "director": "Elke Brandt",
+      "date": "2026-11-11",
+      "dateRegion": null,
+      "dateType": "tv",
+      "otherDates": [],
+      "providers": [
+        {
+          "name": "MUBI",
+          "logo": null
+        }
+      ],
+      "tmdbUrl": null,
+      "imdbUrl": null,
+      "homepage": null,
+      "sources": [
+        "natgeo-docs"
+      ],
+      "unattributed": false,
+      "popularity": 93,
+      "demo": true
+    },
+    {
+      "id": "demo-10",
+      "kind": "film",
+      "title": "Weight Class",
+      "year": 2026,
+      "overview": "Three fighters, one scale, and the eleven hours between the weigh-in and the bell.",
+      "poster": null,
+      "runtime": 94,
+      "director": "Nadia Haddad",
+      "date": "2026-11-24",
+      "dateRegion": "US",
+      "dateType": "digital",
+      "otherDates": [],
+      "providers": [
+        {
+          "name": "MUBI",
+          "logo": null
+        }
+      ],
+      "tmdbUrl": null,
+      "imdbUrl": null,
+      "homepage": null,
+      "sources": [],
+      "unattributed": true,
+      "popularity": 90,
+      "demo": true
+    },
+    {
+      "id": "demo-2",
+      "kind": "film",
+      "title": "Notes on a Vanishing Language",
+      "year": 2026,
+      "overview": "Three of the last eleven fluent speakers agree to be recorded. Two change their minds.",
+      "poster": null,
+      "runtime": 110,
+      "director": "Sile Ni Chonaill",
+      "date": "2026-11-29",
+      "dateRegion": "US",
+      "dateType": "digital",
+      "otherDates": [],
+      "providers": [],
+      "tmdbUrl": null,
+      "imdbUrl": null,
+      "homepage": null,
+      "sources": [
+        "hbo-docs"
+      ],
+      "unattributed": false,
+      "popularity": 98,
+      "demo": true
+    },
+    {
+      "id": "demo-5",
+      "kind": "series",
+      "title": "Salt Road",
+      "year": 2026,
+      "overview": "A caravan crossing that has run for eight hundred years makes what may be its final journey.",
+      "poster": null,
+      "runtime": 109,
+      "director": "Ibrahim Toure",
+      "date": "2026-12-12",
+      "dateRegion": "GB",
+      "dateType": "limited",
+      "otherDates": [],
+      "providers": [],
+      "tmdbUrl": null,
+      "imdbUrl": null,
+      "homepage": null,
+      "sources": [],
+      "unattributed": true,
+      "popularity": 95,
+      "demo": true
+    },
+    {
+      "id": "demo-8",
+      "kind": "film",
+      "title": "After the Flood Came the Map",
+      "year": 2026,
+      "overview": "A village redraws its own boundaries after the water refuses to leave.",
+      "poster": null,
+      "runtime": 108,
+      "director": "Rosa Iglesias",
+      "date": "2026-12-26",
+      "dateRegion": "IE",
+      "dateType": "theatrical",
+      "otherDates": [],
+      "providers": [],
+      "tmdbUrl": null,
+      "imdbUrl": null,
+      "homepage": null,
+      "sources": [
+        "mubi",
+        "netflix"
+      ],
+      "unattributed": false,
+      "popularity": 92,
+      "demo": true
+    }
+  ]
+}

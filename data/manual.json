@@ -1,0 +1,28 @@
+{
+  "comment": [
+    "Anything the automation cannot see. Sales agents announce slates in trade",
+    "press months before TMDB has a record, and a few distributors block scrapers",
+    "outright, so this is the escape hatch.",
+    "",
+    "Entries here win over anything TMDB found with the same title.",
+    "",
+    "Only `title`, `date` and `sources` are required. `date` is ISO (YYYY-MM-DD);",
+    "use the first of the month if all you know is the month."
+  ],
+
+  "releases": [
+    {
+      "title": "Example: delete this one",
+      "kind": "film",
+      "date": "2099-01-01",
+      "dateRegion": "IE",
+      "dateType": "theatrical",
+      "sources": ["dogwoof"],
+      "director": "A Filmmaker",
+      "overview": "A placeholder showing the shape of a hand-added entry. Delete it.",
+      "poster": null,
+      "homepage": "https://www.dogwoof.com",
+      "popularity": 0
+    }
+  ]
+}

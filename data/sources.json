@@ -1,0 +1,308 @@
+{
+  "comment": [
+    "The catalogue of who we watch. Edit this by hand; everything downstream is generated.",
+    "",
+    "Each source carries one or more `tmdb` specs. A spec is resolved to a TMDB id once by",
+    "scripts/resolve-sources.mjs (written to sources.resolved.json) and then used every run.",
+    "",
+    "  { type: 'company',  query }  A production/distribution company. Resolved via /search/company.",
+    "  { type: 'provider', query }  A streaming service. Resolved from /watch/providers/movie.",
+    "  { type: 'strand',   query }  A recurring documentary strand that TMDB models as a TV",
+    "                               series (Storyville, POV, 30 for 30). Its episodes are the films.",
+    "",
+    "`docsOnly: true` means this outfit releases nothing but non-fiction, so we skip the",
+    "documentary genre filter and take everything. That matters: TMDB's genre data on",
+    "unreleased titles is thin, and a genre filter would silently drop half their slate."
+  ],
+
+  "sources": [
+    {
+      "id": "dogwoof",
+      "name": "Dogwoof",
+      "kind": "theatrical",
+      "country": "UK",
+      "blurb": "The premier international documentary specialist: distributing, financing and selling titles like Free Solo and The Cave.",
+      "site": "https://www.dogwoof.com",
+      "slate": "https://www.dogwoof.com/films",
+      "docsOnly": true,
+      "tmdb": [{ "type": "company", "query": "Dogwoof" }]
+    },
+    {
+      "id": "magnolia",
+      "name": "Magnolia Pictures",
+      "kind": "theatrical",
+      "country": "US",
+      "blurb": "Major indie distributor behind prominent theatrical docs including RBG, Blackfish and Food, Inc.",
+      "site": "https://www.magpictures.com",
+      "slate": "https://www.magpictures.com/films/",
+      "tmdb": [{ "type": "company", "query": "Magnolia Pictures" }]
+    },
+    {
+      "id": "kino-lorber",
+      "name": "Kino Lorber",
+      "kind": "theatrical",
+      "country": "US",
+      "blurb": "Art-house distributor with a deep non-fiction catalogue, including Fire at Sea and classic film restorations.",
+      "site": "https://www.kinolorber.com",
+      "slate": "https://www.kinolorber.com/films/comingsoon",
+      "tmdb": [{ "type": "company", "query": "Kino Lorber" }]
+    },
+    {
+      "id": "neon",
+      "name": "NEON",
+      "kind": "theatrical",
+      "country": "US",
+      "blurb": "High-profile theatrical distributor known for prestige, festival-favourite docs such as Flee, All the Beauty and the Bloodshed and Moonage Daydream.",
+      "site": "https://www.neonrated.com",
+      "slate": "https://www.neonrated.com/films",
+      "tmdb": [{ "type": "company", "query": "Neon" }]
+    },
+    {
+      "id": "oscilloscope",
+      "name": "Oscilloscope Laboratories",
+      "kind": "theatrical",
+      "country": "US",
+      "blurb": "Independent distributor founded by Adam Yauch, releasing eclectic films like Exit Through the Gift Shop.",
+      "site": "https://www.oscilloscope.net",
+      "slate": "https://www.oscilloscope.net/films",
+      "tmdb": [{ "type": "company", "query": "Oscilloscope Laboratories" }]
+    },
+    {
+      "id": "greenwich",
+      "name": "Greenwich Entertainment",
+      "kind": "theatrical",
+      "country": "US",
+      "blurb": "Boutique company focusing on culture, music and social issues (The Booksellers, Echo in the Canyon).",
+      "site": "https://greenwichentertainment.com",
+      "slate": "https://greenwichentertainment.com/films/",
+      "tmdb": [{ "type": "company", "query": "Greenwich Entertainment" }]
+    },
+    {
+      "id": "icarus",
+      "name": "Icarus Films",
+      "kind": "theatrical",
+      "country": "US",
+      "blurb": "Focuses on social, political and historical documentaries from international filmmakers.",
+      "site": "https://icarusfilms.com",
+      "slate": "https://icarusfilms.com/new-releases",
+      "docsOnly": true,
+      "tmdb": [{ "type": "company", "query": "Icarus Films" }]
+    },
+    {
+      "id": "sideshow-janus",
+      "name": "Sideshow / Janus Films",
+      "kind": "theatrical",
+      "country": "US",
+      "blurb": "Art-house partners handling theatrical releases for major festival docs like EO and All the Beauty and the Bloodshed.",
+      "site": "https://www.janusfilms.com",
+      "slate": "https://www.janusfilms.com/films",
+      "tmdb": [
+        { "type": "company", "query": "Sideshow" },
+        { "type": "company", "query": "Janus Films" }
+      ]
+    },
+    {
+      "id": "first-run",
+      "name": "First Run Features",
+      "kind": "theatrical",
+      "country": "US",
+      "blurb": "One of America's oldest indie distributors, specialising in human rights, LGBTQ+ and social justice topics.",
+      "site": "https://www.firstrunfeatures.com",
+      "slate": "https://www.firstrunfeatures.com/newreleases.html",
+      "docsOnly": true,
+      "tmdb": [{ "type": "company", "query": "First Run Features" }]
+    },
+    {
+      "id": "cinema-guild",
+      "name": "Cinema Guild",
+      "kind": "theatrical",
+      "country": "US",
+      "blurb": "Distributes festival-driven, international and avant-garde non-fiction films.",
+      "site": "https://www.cinemaguild.com",
+      "slate": "https://www.cinemaguild.com/theatrical/",
+      "docsOnly": true,
+      "tmdb": [{ "type": "company", "query": "The Cinema Guild" }]
+    },
+
+    {
+      "id": "hbo-docs",
+      "name": "HBO Documentary Films",
+      "kind": "broadcast",
+      "country": "US",
+      "blurb": "Industry giant funding and distributing prestige non-fiction like The Jinx, Going Clear and Welcome to Chechnya.",
+      "site": "https://www.hbo.com/documentaries",
+      "slate": "https://www.hbo.com/documentaries",
+      "docsOnly": true,
+      "tmdb": [{ "type": "company", "query": "HBO Documentary Films" }]
+    },
+    {
+      "id": "pbs-indie",
+      "name": "PBS (POV & Independent Lens)",
+      "kind": "broadcast",
+      "country": "US",
+      "blurb": "The primary US public broadcasting home for independent non-fiction filmmaking.",
+      "site": "https://www.pbs.org",
+      "slate": "https://www.pbs.org/pov/films/",
+      "docsOnly": true,
+      "tmdb": [
+        { "type": "strand", "query": "POV" },
+        { "type": "strand", "query": "Independent Lens" }
+      ]
+    },
+    {
+      "id": "cnn-films",
+      "name": "CNN Films",
+      "kind": "broadcast",
+      "country": "US",
+      "blurb": "Acquisition and co-production arm behind commercial hits like Navalny, Apollo 11 and Blackfish.",
+      "site": "https://www.cnn.com/specials/films",
+      "slate": "https://www.cnn.com/specials/films",
+      "docsOnly": true,
+      "tmdb": [{ "type": "company", "query": "CNN Films" }]
+    },
+    {
+      "id": "espn-films",
+      "name": "ESPN Films / 30 for 30",
+      "kind": "broadcast",
+      "country": "US",
+      "blurb": "Premier producer and distributor of sports and cultural documentaries (O.J.: Made in America).",
+      "site": "https://www.espn.com/30for30/",
+      "slate": "https://www.espn.com/30for30/",
+      "docsOnly": true,
+      "tmdb": [
+        { "type": "company", "query": "ESPN Films" },
+        { "type": "strand", "query": "30 for 30" }
+      ]
+    },
+    {
+      "id": "natgeo-docs",
+      "name": "National Geographic Documentary Films",
+      "kind": "broadcast",
+      "country": "US",
+      "blurb": "Focuses on science, nature and high-stakes human endurance (Free Solo, Fire of Love, Sugarcane).",
+      "site": "https://films.nationalgeographic.com",
+      "slate": "https://films.nationalgeographic.com",
+      "docsOnly": true,
+      "tmdb": [{ "type": "company", "query": "National Geographic Documentary Films" }]
+    },
+    {
+      "id": "bbc-storyville",
+      "name": "BBC Storyville",
+      "kind": "broadcast",
+      "country": "UK",
+      "blurb": "The BBC's flagship international documentary strand, commissioning world non-fiction cinema.",
+      "site": "https://www.bbc.co.uk/programmes/b006mgy9",
+      "slate": "https://www.bbc.co.uk/iplayer/categories/documentaries/a-z",
+      "docsOnly": true,
+      "tmdb": [{ "type": "strand", "query": "Storyville" }]
+    },
+    {
+      "id": "arte",
+      "name": "ARTE",
+      "kind": "broadcast",
+      "country": "FR/DE",
+      "blurb": "European public service channel that heavily co-produces and distributes creative documentaries worldwide.",
+      "site": "https://www.arte.tv",
+      "slate": "https://www.arte.tv/en/videos/documentaries-and-reportage/",
+      "tmdb": [{ "type": "company", "query": "ARTE" }]
+    },
+
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "kind": "streaming",
+      "country": "Global",
+      "blurb": "Global leader in true crime, feature-length docs and limited series (13th, My Octopus Teacher, The Elephant Whisperers).",
+      "site": "https://www.netflix.com",
+      "slate": "https://www.netflix.com/browse/genre/6839",
+      "tmdb": [
+        { "type": "company", "query": "Netflix" },
+        { "type": "provider", "query": "Netflix" }
+      ]
+    },
+    {
+      "id": "apple",
+      "name": "Apple Original Films",
+      "kind": "streaming",
+      "country": "Global",
+      "blurb": "Focuses on high-budget prestige non-fiction like Boys State and Still: A Michael J. Fox Movie.",
+      "site": "https://tv.apple.com",
+      "slate": "https://tv.apple.com/channel/tvs.sbd.4000",
+      "tmdb": [
+        { "type": "company", "query": "Apple Original Films" },
+        { "type": "provider", "query": "Apple TV+" }
+      ]
+    },
+    {
+      "id": "mubi",
+      "name": "MUBI",
+      "kind": "streaming",
+      "country": "Global",
+      "blurb": "Curated global platform acquiring festival, foreign and experimental non-fiction.",
+      "site": "https://mubi.com",
+      "slate": "https://mubi.com/showing",
+      "tmdb": [
+        { "type": "company", "query": "MUBI" },
+        { "type": "provider", "query": "MUBI" }
+      ]
+    },
+    {
+      "id": "hulu-onyx",
+      "name": "Hulu / Onyx Collective",
+      "kind": "streaming",
+      "country": "US",
+      "blurb": "Focuses on culture, music and investigative docuseries.",
+      "site": "https://www.hulu.com",
+      "slate": "https://www.hulu.com/hub/documentaries",
+      "tmdb": [
+        { "type": "company", "query": "Onyx Collective" },
+        { "type": "provider", "query": "Hulu" }
+      ]
+    },
+
+    {
+      "id": "cinephil",
+      "name": "Cinephil",
+      "kind": "sales",
+      "country": "Israel / Global",
+      "blurb": "Premier sales agency specialising in international festival docs like Collective and Gunda.",
+      "site": "https://cinephil.com",
+      "slate": "https://cinephil.com/films/",
+      "docsOnly": true,
+      "tmdb": [{ "type": "company", "query": "Cinephil" }]
+    },
+    {
+      "id": "submarine",
+      "name": "Submarine Entertainment",
+      "kind": "sales",
+      "country": "US",
+      "blurb": "Major sales agent and production company representing Oscar winners like Summer of Soul and Citizen K.",
+      "site": "https://www.submarine.com",
+      "slate": "https://www.submarine.com",
+      "docsOnly": true,
+      "tmdb": [{ "type": "company", "query": "Submarine Entertainment" }]
+    },
+    {
+      "id": "autlook",
+      "name": "Autlook Filmsales",
+      "kind": "sales",
+      "country": "Austria",
+      "blurb": "Global sales boutique for festival-driven docs like The Painter and the Thief.",
+      "site": "https://autlookfilms.com",
+      "slate": "https://autlookfilms.com/films/",
+      "docsOnly": true,
+      "tmdb": [{ "type": "company", "query": "Autlook Filmsales" }]
+    },
+    {
+      "id": "deckert",
+      "name": "Deckert Distribution",
+      "kind": "sales",
+      "country": "Germany",
+      "blurb": "Specialises in creative documentaries with a strong focus on Central and Eastern Europe.",
+      "site": "https://deckert-distribution.com",
+      "slate": "https://deckert-distribution.com/film-catalogue/",
+      "docsOnly": true,
+      "tmdb": [{ "type": "company", "query": "Deckert Distribution" }]
+    }
+  ]
+}

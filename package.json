@@ -1,0 +1,16 @@
+{
+  "name": "doc-radar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Upcoming documentary releases from 25 distributors, broadcasters, streamers and sales agents.",
+  "scripts": {
+    "resolve": "node scripts/resolve-sources.mjs",
+    "fetch": "node scripts/fetch.mjs",
+    "build": "node build.mjs",
+    "demo": "node scripts/demo-data.mjs && node build.mjs",
+    "update": "node scripts/fetch.mjs && node build.mjs",
+    "serve": "node serve.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

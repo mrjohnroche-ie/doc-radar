@@ -1,0 +1,137 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Doc Radar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Doc Radar
+X-WR-TIMEZONE:Europe/Dublin
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:demo-0@doc-radar
+DTSTAMP:20260917T194834Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:The Last Lighthouse Keeper (Dogwoof\, NEON)
+DESCRIPTION:Directed by Aoife Brennan\n\nFrom Dogwoof\, NEON\n\nForty yea
+ rs alone on a rock in the Atlantic\, and the month the light finally goe
+ s automatic.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:demo-11@doc-radar
+DTSTAMP:20260917T194834Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:The Seed Vault Opens (ESPN Films / 30 for 30)
+DESCRIPTION:Directed by Kristin Vang\n\nFrom ESPN Films / 30 for 30\n\nSv
+ albard makes its first significant withdrawal\, and the reasons are not 
+ the ones anyone planned for.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:demo-3@doc-radar
+DTSTAMP:20260917T194834Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Everything We Threw Away (BBC Storyville)
+DESCRIPTION:Directed by Marcus Vale\n\nFrom BBC Storyville\n\nA landfill 
+ archaeologist reads the twentieth century out of a hundred metres of com
+ pacted rubbish.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:demo-6@doc-radar
+DTSTAMP:20260917T194834Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Quiet Car (Cinema Guild)
+DESCRIPTION:Directed by Danny Okonjo\n\nFrom Cinema Guild\n\nFilmed entir
+ ely in the silent carriage of the 06:12\, over four years of commuters.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:demo-9@doc-radar
+DTSTAMP:20260917T194834Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Hold Music (NEON)
+DESCRIPTION:Directed by Tom Devereux\n\nFrom NEON\n\nThe composers who wr
+ ite the loops you hear on hold\, and what they think about all day.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:demo-1@doc-radar
+DTSTAMP:20260917T194834Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Cobalt (Greenwich Entertainment)
+DESCRIPTION:Directed by Jean-Luc Mbeki\n\nFrom Greenwich Entertainment\n\
+ nThe supply chain behind every battery on earth\, traced backwards from 
+ a Dublin car park to a hillside in Katanga.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:demo-4@doc-radar
+DTSTAMP:20260917T194834Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:The Understudy (Hulu / Onyx Collective\, HBO Documentary Films)
+DESCRIPTION:Directed by Petra Lang\n\nFrom Hulu / Onyx Collective\, HBO D
+ ocumentary Films\n\nShe covered the role for nineteen years and went on 
+ twice. This is about the other nights.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:demo-7@doc-radar
+DTSTAMP:20260917T194834Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:The Forger Who Confessed (National Geographic Documentary Films)
+DESCRIPTION:Directed by Elke Brandt\n\nFrom National Geographic Documenta
+ ry Films\n\nHe fooled six museums\, then spent thirty years trying to pr
+ ove it\, and nobody wanted to hear.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:demo-10@doc-radar
+DTSTAMP:20260917T194834Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Weight Class
+DESCRIPTION:Directed by Nadia Haddad\n\nThree fighters\, one scale\, and 
+ the eleven hours between the weigh-in and the bell.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:demo-2@doc-radar
+DTSTAMP:20260917T194834Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Notes on a Vanishing Language (HBO Documentary Films)
+DESCRIPTION:Directed by Sile Ni Chonaill\n\nFrom HBO Documentary Films\n\
+ nThree of the last eleven fluent speakers agree to be recorded. Two chan
+ ge their minds.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:demo-5@doc-radar
+DTSTAMP:20260917T194834Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Salt Road
+DESCRIPTION:Directed by Ibrahim Toure\n\nA caravan crossing that has run 
+ for eight hundred years makes what may be its final journey.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:demo-8@doc-radar
+DTSTAMP:20260917T194834Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:After the Flood Came the Map (MUBI\, Netflix)
+DESCRIPTION:Directed by Rosa Iglesias\n\nFrom MUBI\, Netflix\n\nA village
+  redraws its own boundaries after the water refuses to leave.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
