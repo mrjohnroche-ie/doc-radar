@@ -36,6 +36,7 @@
 
   function apply() {
     var shown = 0;
+    var sectionsShown = 0;
 
     months.forEach(function (section) {
       var wanted = state.month === 'all' || section.dataset.month === state.month;
@@ -52,6 +53,7 @@
          November" is an answer worth showing. */
       var keep = wanted && (visibleHere > 0 || (!state.q && !state.kinds.length));
       section.hidden = !keep;
+      if (keep) sectionsShown++;
 
       var count = section.querySelector('.month__count');
       if (count) count.textContent = visibleHere;
@@ -59,7 +61,10 @@
       shown += visibleHere;
     });
 
-    noresults.hidden = shown > 0;
+    /* Only when there is nothing on screen at all. A month that is visible and
+       empty already explains itself, and saying "nothing matches that" beside
+       "nothing dated yet" tells the reader two different things at once. */
+    noresults.hidden = shown > 0 || sectionsShown > 0;
   }
 
   tabs.forEach(function (tab) {

@@ -21,6 +21,7 @@
   --gap: 1rem;
   --radius: 10px;
   --shell: 1180px;
+  --list: 900px;
 }
 
 *, *::before, *::after { box-sizing: border-box; }
@@ -180,7 +181,7 @@ a { color: inherit; }
 /* ------------------------------------------------------------------ months */
 
 main {
-  max-width: var(--shell);
+  max-width: var(--list);
   margin: 0 auto;
   padding: 2rem 1.25rem 4rem;
 }
@@ -214,7 +215,7 @@ main {
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(min(100%, 30rem), 1fr));
+  grid-template-columns: 1fr;
   gap: var(--gap);
 }
 
@@ -222,9 +223,9 @@ main {
 
 .card {
   display: grid;
-  grid-template-columns: 3.6rem 5.2rem 1fr;
-  gap: 0 0.9rem;
-  padding: 0.9rem;
+  grid-template-columns: 4rem 11rem 1fr;
+  gap: 0 1.4rem;
+  padding: 1.25rem;
   background: var(--bg-raised);
   border: 1px solid var(--line);
   border-radius: var(--radius);
@@ -274,9 +275,9 @@ main {
 
 .card__title {
   margin: 0;
-  font-size: 1.0625rem;
-  line-height: 1.25;
-  letter-spacing: -0.015em;
+  font-size: 1.25rem;
+  line-height: 1.22;
+  letter-spacing: -0.02em;
   font-weight: 660;
 }
 .card__year { color: var(--ink-faint); font-weight: 500; font-size: 0.875rem; }
@@ -306,14 +307,11 @@ main {
 .badge--manual     { color: var(--accent);     border-color: color-mix(in srgb, var(--accent) 35%, transparent); }
 
 .card__blurb {
-  margin: 0.55rem 0 0;
-  font-size: 0.875rem;
+  margin: 0.65rem 0 0;
+  font-size: 0.9375rem;
+  line-height: 1.6;
   color: var(--ink-soft);
-  display: -webkit-box;
-  -webkit-line-clamp: 3;
-  line-clamp: 3;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
+  max-width: 64ch;
 }
 
 .card__foot {
@@ -391,10 +389,12 @@ main {
 
 @media (max-width: 40rem) {
   .card {
-    grid-template-columns: 4rem 1fr;
-    gap: 0 0.75rem;
+    grid-template-columns: 3.5rem 1fr;
+    gap: 0 0.9rem;
+    padding: 1rem;
   }
-  .card__art { grid-row: span 1; }
+  .card__art { grid-row: span 1; max-width: 8.5rem; }
+  .card__title { font-size: 1.125rem; }
   .card__body { grid-column: 1 / -1; margin-top: 0.7rem; }
   .filters__inner { padding: 0.6rem 1rem; }
   .top__inner { padding: 2.4rem 1rem 1.8rem; }
