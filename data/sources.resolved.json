@@ -1,0 +1,398 @@
+{
+  "resolvedAt": "2026-09-17T20:43:29.403Z",
+  "sources": {
+    "dogwoof": {
+      "name": "Dogwoof",
+      "tmdb": [
+        {
+          "type": "company",
+          "query": "Dogwoof",
+          "id": 8191,
+          "matchedName": "Dogwoof",
+          "confidence": "exact"
+        }
+      ]
+    },
+    "magnolia": {
+      "name": "Magnolia Pictures",
+      "tmdb": [
+        {
+          "type": "company",
+          "query": "Magnolia Pictures",
+          "id": 1030,
+          "matchedName": "Magnolia Pictures",
+          "confidence": "exact"
+        }
+      ]
+    },
+    "kino-lorber": {
+      "name": "Kino Lorber",
+      "tmdb": [
+        {
+          "type": "company",
+          "query": "Kino Lorber",
+          "id": 39134,
+          "matchedName": "Kino Lorber",
+          "confidence": "exact",
+          "catalogue": 51,
+          "alternatives": [
+            "Kino Lorber (#181503, 1 films)"
+          ]
+        }
+      ]
+    },
+    "neon": {
+      "name": "NEON",
+      "tmdb": [
+        {
+          "type": "company",
+          "query": "Neon",
+          "id": 90733,
+          "matchedName": "NEON",
+          "confidence": "exact",
+          "catalogue": 31,
+          "alternatives": [
+            "Neon (#307597, 0 films)"
+          ]
+        }
+      ]
+    },
+    "oscilloscope": {
+      "name": "Oscilloscope Laboratories",
+      "tmdb": [
+        {
+          "type": "company",
+          "query": "Oscilloscope",
+          "id": 4748,
+          "matchedName": "Oscilloscope",
+          "confidence": "exact"
+        }
+      ]
+    },
+    "greenwich": {
+      "name": "Greenwich Entertainment",
+      "tmdb": [
+        {
+          "type": "company",
+          "query": "Greenwich Entertainment",
+          "id": 149326,
+          "matchedName": "Greenwich Entertainment",
+          "confidence": "exact"
+        }
+      ]
+    },
+    "icarus": {
+      "name": "Icarus Films",
+      "tmdb": [
+        {
+          "type": "company",
+          "query": "Icarus Films",
+          "id": 76975,
+          "matchedName": "Icarus Films",
+          "confidence": "exact"
+        }
+      ]
+    },
+    "sideshow-janus": {
+      "name": "Sideshow / Janus Films",
+      "tmdb": [
+        {
+          "type": "company",
+          "query": "Janus Films",
+          "id": 533,
+          "matchedName": "Janus Films",
+          "confidence": "exact",
+          "catalogue": 9,
+          "alternatives": [
+            "Janus Films (#198828, 2 films)",
+            "Janus Films (#200279, 2 films)"
+          ]
+        }
+      ]
+    },
+    "first-run": {
+      "name": "First Run Features",
+      "tmdb": [
+        {
+          "type": "company",
+          "query": "First Run Features",
+          "id": 4095,
+          "matchedName": "First Run Features",
+          "confidence": "exact"
+        }
+      ]
+    },
+    "cinema-guild": {
+      "name": "Cinema Guild",
+      "tmdb": [
+        {
+          "type": "company",
+          "query": "Cinema Guild",
+          "id": 262610,
+          "matchedName": "Cinema Guild",
+          "confidence": "exact",
+          "catalogue": 5,
+          "alternatives": [
+            "Cinema Guild (#257368, 2 films)"
+          ]
+        }
+      ]
+    },
+    "hbo-docs": {
+      "name": "HBO Documentary Films",
+      "tmdb": [
+        {
+          "type": "company",
+          "query": "HBO Documentary Films",
+          "id": 14914,
+          "matchedName": "HBO Documentary Films",
+          "confidence": "exact"
+        }
+      ]
+    },
+    "pbs-indie": {
+      "name": "PBS (POV & Independent Lens)",
+      "tmdb": [
+        {
+          "type": "strand",
+          "query": "Point of View",
+          "id": 14955,
+          "matchedName": "Point of View",
+          "confidence": "pinned",
+          "seasons": 39
+        },
+        {
+          "type": "strand",
+          "query": "Independent Lens",
+          "id": 14976,
+          "matchedName": "Independent Lens",
+          "confidence": "exact",
+          "seasons": 27,
+          "lastAirDate": "2026-07-13"
+        }
+      ]
+    },
+    "cnn-films": {
+      "name": "CNN Films",
+      "tmdb": [
+        {
+          "type": "company",
+          "query": "CNN Films",
+          "id": 29605,
+          "matchedName": "CNN Films",
+          "confidence": "exact"
+        }
+      ]
+    },
+    "espn-films": {
+      "name": "ESPN Films / 30 for 30",
+      "tmdb": [
+        {
+          "type": "company",
+          "query": "ESPN Films",
+          "id": 18595,
+          "matchedName": "ESPN Films",
+          "confidence": "exact"
+        },
+        {
+          "type": "strand",
+          "query": "30 for 30",
+          "id": 31677,
+          "matchedName": "30 for 30",
+          "confidence": "exact",
+          "seasons": 4,
+          "lastAirDate": "2026-02-06"
+        }
+      ]
+    },
+    "natgeo-docs": {
+      "name": "National Geographic Documentary Films",
+      "tmdb": [
+        {
+          "type": "company",
+          "query": "National Geographic Documentary Films",
+          "id": 189457,
+          "matchedName": "National Geographic Documentary Films",
+          "confidence": "exact"
+        }
+      ]
+    },
+    "bbc-storyville": {
+      "name": "BBC Storyville",
+      "tmdb": [
+        {
+          "type": "strand",
+          "query": "Storyville",
+          "id": 36695,
+          "matchedName": "Storyville",
+          "confidence": "exact",
+          "seasons": 30,
+          "lastAirDate": "2026-04-21"
+        }
+      ]
+    },
+    "arte": {
+      "name": "ARTE",
+      "tmdb": [
+        {
+          "type": "company",
+          "query": "ARTE",
+          "id": 201,
+          "matchedName": "ARTE",
+          "confidence": "exact",
+          "catalogue": 2209,
+          "alternatives": [
+            "ARTE (#587, 1450 films)",
+            "ARTE (#262618, 5 films)",
+            "arte (#264188, 1 films)",
+            "ARTE (#260189, 1 films)"
+          ]
+        },
+        {
+          "type": "company",
+          "query": "ARTE France",
+          "id": 587,
+          "matchedName": "ARTE",
+          "confidence": "pinned"
+        }
+      ]
+    },
+    "netflix": {
+      "name": "Netflix",
+      "tmdb": [
+        {
+          "type": "company",
+          "query": "Netflix",
+          "id": 178464,
+          "matchedName": "Netflix",
+          "confidence": "exact",
+          "catalogue": 32,
+          "alternatives": [
+            "Netflix (#185004, 14 films)",
+            "Netflix (#198834, 0 films)"
+          ]
+        },
+        {
+          "type": "provider",
+          "query": "Netflix",
+          "id": 8,
+          "matchedName": "Netflix",
+          "confidence": "exact"
+        }
+      ]
+    },
+    "apple": {
+      "name": "Apple Original Films",
+      "tmdb": [
+        {
+          "type": "company",
+          "query": "Apple Studios",
+          "id": 194232,
+          "matchedName": "Apple Studios",
+          "confidence": "exact"
+        },
+        {
+          "type": "provider",
+          "query": "Apple TV+",
+          "id": 350,
+          "matchedName": "Apple TV",
+          "confidence": "exact"
+        }
+      ]
+    },
+    "mubi": {
+      "name": "MUBI",
+      "tmdb": [
+        {
+          "type": "company",
+          "query": "MUBI",
+          "id": 204957,
+          "matchedName": "MUBI",
+          "confidence": "exact",
+          "catalogue": 25,
+          "alternatives": [
+            "MUBI (#288516, 0 films)"
+          ]
+        },
+        {
+          "type": "provider",
+          "query": "MUBI",
+          "id": 11,
+          "matchedName": "MUBI",
+          "confidence": "exact"
+        }
+      ]
+    },
+    "hulu-onyx": {
+      "name": "Hulu / Onyx Collective",
+      "tmdb": [
+        {
+          "type": "company",
+          "query": "Onyx Collective",
+          "id": 156742,
+          "matchedName": "Onyx Collective",
+          "confidence": "exact"
+        },
+        {
+          "type": "provider",
+          "query": "Hulu",
+          "id": 15,
+          "matchedName": "Hulu",
+          "confidence": "exact"
+        }
+      ]
+    },
+    "cinephil": {
+      "name": "Cinephil",
+      "tmdb": [
+        {
+          "type": "company",
+          "query": "Cinephil",
+          "id": 2632,
+          "matchedName": "Cinephil",
+          "confidence": "exact",
+          "catalogue": 15,
+          "alternatives": [
+            "# CINEPHIL (#6816, 0 films)"
+          ]
+        }
+      ]
+    },
+    "submarine": {
+      "name": "Submarine Entertainment",
+      "tmdb": [
+        {
+          "type": "company",
+          "query": "Submarine Entertainment",
+          "id": 8185,
+          "matchedName": "Submarine Entertainment",
+          "confidence": "exact"
+        }
+      ]
+    },
+    "autlook": {
+      "name": "Autlook Filmsales",
+      "tmdb": [
+        {
+          "type": "company",
+          "query": "Autlook Filmsales",
+          "id": 255233,
+          "matchedName": "Autlook Filmsales",
+          "confidence": "exact"
+        }
+      ]
+    },
+    "deckert": {
+      "name": "Deckert Distribution",
+      "tmdb": [
+        {
+          "type": "company",
+          "query": "Deckert Distribution",
+          "id": 86032,
+          "matchedName": "Deckert Distribution",
+          "confidence": "exact"
+        }
+      ]
+    }
+  }
+}

@@ -123,6 +123,24 @@ async function resolveStrand(query) {
 
 const resolvers = { company: resolveCompany, provider: resolveProvider, strand: resolveStrand };
 
+/** Confirm a hand-pinned id is real, and record what it actually points at. */
+async function verifyPinned(spec) {
+  if (spec.type === 'company') {
+    const c = await get(`/company/${spec.id}`);
+    if (!c) return { error: `pinned company id ${spec.id} does not exist` };
+    return { id: c.id, matchedName: c.name, confidence: 'pinned' };
+  }
+  if (spec.type === 'strand') {
+    const t = await get(`/tv/${spec.id}`);
+    if (!t) return { error: `pinned series id ${spec.id} does not exist` };
+    return { id: t.id, matchedName: t.name, confidence: 'pinned', seasons: t.number_of_seasons ?? 1 };
+  }
+  const all = await providerList();
+  const hit = all.find((p) => p.provider_id === spec.id);
+  if (!hit) return { error: `pinned provider id ${spec.id} is not a TMDB provider` };
+  return { id: hit.provider_id, matchedName: hit.provider_name, confidence: 'pinned' };
+}
+
 async function main() {
   assertCredential();
 
@@ -139,7 +157,12 @@ async function main() {
         continue;
       }
 
-      const outcome = await resolver(spec.query);
+      /* A spec can pin its own id, for the case a name search cannot settle:
+         TMDB has two companies both called exactly "ARTE", with two thousand
+         and fourteen hundred films behind them, and both are the real ARTE.
+         A pinned id is still verified, so a typo fails loudly here rather
+         than silently matching nothing every week. */
+      const outcome = spec.id ? await verifyPinned(spec) : await resolver(spec.query);
       if (outcome.error) {
         problems.push(`${source.id}: ${outcome.error}`);
         /* Keep the unresolved spec in the file so the fetcher can report the
@@ -150,7 +173,7 @@ async function main() {
 
       specs.push({ ...spec, ...outcome });
 
-      const flag = outcome.confidence === 'exact' ? ' ' : '?';
+      const flag = outcome.confidence === 'exact' ? ' ' : outcome.confidence === 'pinned' ? '=' : '?';
       const extra = outcome.alternatives?.length ? `  (also matched: ${outcome.alternatives.join('; ')})` : '';
       console.log(`${flag} ${source.name.padEnd(38)} ${spec.type.padEnd(9)} ${String(outcome.id).padEnd(8)} ${outcome.matchedName}${extra}`);
     }
@@ -170,6 +193,7 @@ async function main() {
     console.log('Add them by hand in data/manual.json instead.');
   }
   console.log('\nLines marked ? were a best guess rather than an exact name match - worth an eye.');
+  console.log('Lines marked = were pinned by hand in data/sources.json.');
 }
 
 main().catch((err) => {

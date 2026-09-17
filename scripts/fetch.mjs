@@ -86,12 +86,17 @@ const candidates = new Map();
 
 function note(key, patch) {
   const existing = candidates.get(key);
-  if (!existing) {
-    candidates.set(key, { foundBy: new Set(), ...patch });
-    return candidates.get(key);
+  if (existing) {
+    for (const f of patch.foundBy || []) existing.foundBy.add(f);
+    return existing;
   }
-  if (patch.foundBy) for (const f of patch.foundBy) existing.foundBy.add(f);
-  return existing;
+  /* foundBy arrives as an array and is held as a Set. Destructure rather than
+     spreading over a default, or the array overwrites the Set and every later
+     sighting of the same title throws. */
+  const { foundBy = [], ...rest } = patch;
+  const record = { ...rest, foundBy: new Set(foundBy) };
+  candidates.set(key, record);
+  return record;
 }
 
 async function collectCompany(sourceId, companyId, docsOnly, win, horizon) {
@@ -233,27 +238,35 @@ async function collectWideNet(win) {
       )
     );
   }
-  queries.push(
-    getAllPages(
-      '/discover/tv',
-      {
-        with_genres: DOCUMENTARY_GENRE,
-        'first_air_date.gte': win.from,
-        'first_air_date.lte': win.to,
-        sort_by: 'popularity.desc',
-        include_adult: false
-      },
-      { maxPages: 5 }
-    )
-  );
+  /* Television needs a watch region or the net catches the whole world:
+     without one this returned a hundred series, ninety-five of them Danish,
+     German and Chinese programmes with no way to see them here. Constraining
+     by where a thing can actually be watched is what makes it a local net. */
+  for (const region of WIDE_NET_REGIONS) {
+    queries.push(
+      getAllPages(
+        '/discover/tv',
+        {
+          with_genres: DOCUMENTARY_GENRE,
+          watch_region: region,
+          with_watch_monetization_types: 'flatrate|free|ads',
+          'first_air_date.gte': win.from,
+          'first_air_date.lte': win.to,
+          sort_by: 'popularity.desc',
+          include_adult: false
+        },
+        { maxPages: 5 }
+      )
+    );
+  }
 
   const pages = await Promise.all(queries);
-  const [movieSets, tvSet] = [pages.slice(0, -1), pages[pages.length - 1]];
+  const split = WIDE_NET_REGIONS.length;
 
-  for (const movie of movieSets.flat()) {
+  for (const movie of pages.slice(0, split).flat()) {
     note(`movie-${movie.id}`, { type: 'movie', tmdbId: movie.id, foundBy: ['_wide'] });
   }
-  for (const show of tvSet) {
+  for (const show of pages.slice(split).flat()) {
     note(`tv-${show.id}`, { type: 'tv', tmdbId: show.id, foundBy: ['_wide'] });
   }
 }
@@ -291,7 +304,7 @@ function chooseDate(releaseDates, win) {
   return { lead: perRegion[0] || null, all: perRegion };
 }
 
-async function enrichMovie(tmdbId, win) {
+async function enrichMovie(tmdbId, win, targeted) {
   const m = await get(`/movie/${tmdbId}`, {
     append_to_response: 'release_dates,watch/providers,credits,external_ids'
   });
@@ -299,10 +312,13 @@ async function enrichMovie(tmdbId, win) {
 
   const { lead, all } = chooseDate(m.release_dates, win);
 
-  /* No local date, but TMDB has a headline release date in the window: use it
-     and be honest that we do not know which country it refers to. */
+  /* No local date, but TMDB has a headline release date in the window. Trust it
+     only for a title a named source vouched for - ARTE's European slate lands
+     here legitimately. From the wide net alone it means nothing: the net asked
+     for Irish and British dates, so a title without one is not a local release.
+     The card says the region is unknown rather than implying a local date. */
   const fallback =
-    !lead && m.release_date && m.release_date >= win.from && m.release_date <= win.to
+    targeted && !lead && m.release_date && m.release_date >= win.from && m.release_date <= win.to
       ? { region: null, date: m.release_date, type: 'unknown' }
       : null;
 
@@ -337,13 +353,16 @@ async function enrichMovie(tmdbId, win) {
   };
 }
 
-async function enrichTv(tmdbId, win) {
+async function enrichTv(tmdbId, win, targeted) {
   const t = await get(`/tv/${tmdbId}`, { append_to_response: 'watch/providers,external_ids,credits' });
   if (!t) return null;
   if (!t.first_air_date || t.first_air_date < win.from || t.first_air_date > win.to) return null;
 
   const providers = t['watch/providers']?.results?.IE || t['watch/providers']?.results?.GB || {};
   const flat = [...(providers.flatrate || []), ...(providers.rent || [])];
+
+  /* A series nobody named, that nobody here can watch, is not news. */
+  if (!targeted && !flat.length) return null;
 
   return {
     id: `tv-${t.id}`,
@@ -438,7 +457,14 @@ async function main() {
   }
 
   const enriched = await Promise.allSettled(
-    toEnrich.map(([, c]) => (c.type === 'movie' ? enrichMovie(c.tmdbId, win) : enrichTv(c.tmdbId, win)))
+    toEnrich.map(([, c]) => {
+      /* Found by a named source, or only by the wide net? It decides how much
+         benefit of the doubt a thin record gets. */
+      const targeted = [...c.foundBy].some((f) => f !== '_wide');
+      return c.type === 'movie'
+        ? enrichMovie(c.tmdbId, win, targeted)
+        : enrichTv(c.tmdbId, win, targeted);
+    })
   );
 
   enriched.forEach((o, i) => {

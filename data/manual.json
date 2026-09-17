@@ -9,20 +9,5 @@
     "Only `title`, `date` and `sources` are required. `date` is ISO (YYYY-MM-DD);",
     "use the first of the month if all you know is the month."
   ],
-
-  "releases": [
-    {
-      "title": "Example: delete this one",
-      "kind": "film",
-      "date": "2099-01-01",
-      "dateRegion": "IE",
-      "dateType": "theatrical",
-      "sources": ["dogwoof"],
-      "director": "A Filmmaker",
-      "overview": "A placeholder showing the shape of a hand-added entry. Delete it.",
-      "poster": null,
-      "homepage": "https://www.dogwoof.com",
-      "popularity": 0
-    }
-  ]
+  "releases": []
 }
