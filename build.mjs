@@ -23,7 +23,7 @@ const SITE = {
   tagline: 'Every documentary worth knowing about, month by month.',
   description:
     'Upcoming documentary releases from the distributors, broadcasters, streamers and sales agents that matter. Updated weekly.',
-  url: 'https://doc-radar.vercel.app'
+  url: 'https://doc-radar-weld.vercel.app'
 };
 
 const data = JSON.parse(await readFile(path.join(ROOT, 'data/releases.json'), 'utf8'));
