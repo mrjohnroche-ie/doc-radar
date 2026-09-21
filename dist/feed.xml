@@ -5,7 +5,7 @@
     <link>https://doc-radar-weld.vercel.app</link>
     <description>Upcoming documentary releases from the distributors, broadcasters, streamers and sales agents that matter. Updated weekly.</description>
     <language>en-ie</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:45:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 06:08:57 GMT</lastBuildDate>
     <item>
       <title>Welcome to the Family: The Murder of Dan Markel</title>
       <link>https://www.themoviedb.org/tv/333058</link>
@@ -63,13 +63,6 @@
       <description>Directed by Matías Gueilburt. A documentary film that observes, listens to, and interacts with Fito Páez from a place of profound intimacy. The camera, almost invisible, witnesses his every move, accompanying him for over a year during recordings, rehearsals, tours, and performances in major cities across Latin America, Europe, and the United States. It is also a journey through the life of one of the greatest Spanish-language artists: his loves and heartbreaks, children and friendships, excesses, tragedies, failures, and successes.</description>
     </item>
     <item>
-      <title>Super Nature</title>
-      <link>https://www.themoviedb.org/movie/1540865</link>
-      <guid isPermaLink="false">movie-1540865</guid>
-      <pubDate>Fri, 04 Sep 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Ed Sayers. We’re invited on a journey across 25 different countries, with people embracing both abundance and loss, to feel a sense of togetherness with our fellow dwellers on earth, human and non-human. Celebrating all we have and reflecting on all we have to lose, Super Nature proposes a new way of seeing.</description>
-    </item>
-    <item>
       <title>Celtic Utopia</title>
       <link>https://www.themoviedb.org/movie/1510435</link>
       <guid isPermaLink="false">movie-1510435</guid>
@@ -77,11 +70,11 @@
       <description>Directed by Dennis Harvey. The story of a new Ireland and its vibrant music scene, but also that of a postcolonial society wrestling with its heritage. A society where folk music carries both the oppression of the past and the dream of a bright future.</description>
     </item>
     <item>
-      <title>Famous Last Words: Gloria Steinem (Netflix)</title>
-      <link>https://www.themoviedb.org/movie/1762763</link>
-      <guid isPermaLink="false">movie-1762763</guid>
+      <title>Super Nature</title>
+      <link>https://www.themoviedb.org/movie/1540865</link>
+      <guid isPermaLink="false">movie-1540865</guid>
       <pubDate>Fri, 04 Sep 2026 09:00:00 GMT</pubDate>
-      <description>Before her death, activist Gloria Steinem shared her final, heartfelt message with the world, knowing this interview would not air until she was gone.</description>
+      <description>Directed by Ed Sayers. We’re invited on a journey across 25 different countries, with people embracing both abundance and loss, to feel a sense of togetherness with our fellow dwellers on earth, human and non-human. Celebrating all we have and reflecting on all we have to lose, Super Nature proposes a new way of seeing.</description>
     </item>
     <item>
       <title>Fragments of Paradise</title>
@@ -89,6 +82,13 @@
       <guid isPermaLink="false">movie-1005402</guid>
       <pubDate>Fri, 04 Sep 2026 09:00:00 GMT</pubDate>
       <description>Directed by KD Davison. For over 70 years, Jonas Mekas, internationally known as the &quot;godfather&quot; of avant-garde cinema, documented his life in what came to be known as his diary films. From his arrival in New York City as a displaced person in 1949 to his death in 2019, he chronicled the trauma and loss of exile while pioneering institutions to support the growth of independent film in the United States. Fragments of Paradise is an intimate look at his life and work constructed from thousands of hours of his own video and film diaries-including never-before-seen tapes and unpublished audio recordings. It is a story about finding beauty amidst profound loss, and a man who tried to make sense of it all... with a camera.</description>
+    </item>
+    <item>
+      <title>Famous Last Words: Gloria Steinem (Netflix)</title>
+      <link>https://www.themoviedb.org/movie/1762763</link>
+      <guid isPermaLink="false">movie-1762763</guid>
+      <pubDate>Fri, 04 Sep 2026 09:00:00 GMT</pubDate>
+      <description>Before her death, activist Gloria Steinem shared her final, heartfelt message with the world, knowing this interview would not air until she was gone.</description>
     </item>
     <item>
       <title>Instadocs: The Decoy Plane (Netflix)</title>
@@ -147,18 +147,18 @@
       <description>In July 2024, the discovery of the two suitcases containing human remains on Bristol’s Clifton Suspension Bridge shocked the nation and sparked one of the UK’s most disturbing murder investigations in recent memory.</description>
     </item>
     <item>
-      <title>They're Here (ARTE)</title>
-      <link>https://www.themoviedb.org/movie/1736525</link>
-      <guid isPermaLink="false">movie-1736525</guid>
-      <pubDate>Mon, 07 Sep 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Laura Poitras. Edén Villa (pseudonym) and anonymous Minneapolis residents evade and resist the paramilitary occupation of their city, in a winter landscape where masked agents abduct children, residents travel in trunks, shackled prisoners are loaded onto airplanes within eyesight of vacationers, and bicyclists track the movements of an invading force.</description>
-    </item>
-    <item>
       <title>Filling the void</title>
       <link>https://www.themoviedb.org/movie/1636323</link>
       <guid isPermaLink="false">movie-1636323</guid>
       <pubDate>Mon, 07 Sep 2026 09:00:00 GMT</pubDate>
       <description>Directed by Aaron Lecoublet. A portrait of Magali Garçon, a professor at the Cherbourg School of Arts, whose convictions, feminist vision, and committed personality challenge the traditional art academy, bringing a unique and transformative perspective to her teaching.</description>
+    </item>
+    <item>
+      <title>They're Here (ARTE)</title>
+      <link>https://www.themoviedb.org/movie/1736525</link>
+      <guid isPermaLink="false">movie-1736525</guid>
+      <pubDate>Mon, 07 Sep 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Laura Poitras. Edén Villa (pseudonym) and anonymous Minneapolis residents evade and resist the paramilitary occupation of their city, in a winter landscape where masked agents abduct children, residents travel in trunks, shackled prisoners are loaded onto airplanes within eyesight of vacationers, and bicyclists track the movements of an invading force.</description>
     </item>
     <item>
       <title>Untold Mr. T: I Pity the Fool (Netflix)</title>
@@ -245,11 +245,11 @@
       <description>Directed by David Bickerstaff. Tate Britain is now holding the first major retrospective of Whistler in three decades. This blockbuster exhibition promises to reawaken the world to just how important Whistler is to art history, uniting world-famous masterpieces with rarely seen works. Exhibition on Screen will bring these stunning works and the incredible story behind them to cinemas around the world while the exhibition is still running, bringing this truly global artist to a global audience. This will be an unmissable chance to get to know this visually spectacular artist and the influence he has had on those who followed.</description>
     </item>
     <item>
-      <title>Liberté, la statue qui voulait changer le monde (ARTE)</title>
+      <title>Lady Liberty: Secrets of an Icon (ARTE)</title>
       <link>https://www.themoviedb.org/movie/1771719</link>
       <guid isPermaLink="false">movie-1771719</guid>
       <pubDate>Wed, 16 Sep 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Julien Johan.</description>
+      <description>Directed by Julien Johan. This iconic statue was a gift from France to the new-born American Republic and was the first crowd-funded monument of all time. A symbol of emancipation and freedom, which took two decades to be completed. The film features original 3D virtual reconstitutions of Auguste Bartholdi’s Atelier in Paris and travels back in time to bring viewers at the heart of the Statue’s original construction, revealing the founding ideals of our democracies.</description>
     </item>
     <item>
       <title>Everything Happens All the Time</title>
@@ -257,6 +257,20 @@
       <guid isPermaLink="false">movie-1772387</guid>
       <pubDate>Thu, 17 Sep 2026 09:00:00 GMT</pubDate>
       <description>Directed by Simon King. Through twenty-seven interviews, street footage, and photographs, this film explores the relationship between street photographers, their practice, and one another in the community that has formed around the genre in London.</description>
+    </item>
+    <item>
+      <title>JAŸ-Z in 8 (HBO Documentary Films, MUBI)</title>
+      <link>https://www.themoviedb.org/tv/326440</link>
+      <guid isPermaLink="false">tv-326440</guid>
+      <pubDate>Fri, 18 Sep 2026 09:00:00 GMT</pubDate>
+      <description>Thirty years after his landmark debut album, artist, icon, philanthropist, and entrepreneur JAŸ-Z sits down with longtime friend, producer, and director Rick Rubin for an intimate reflection on his storied career.</description>
+    </item>
+    <item>
+      <title>General Mayhem: The Killing of Brigadier J (Netflix)</title>
+      <link>https://www.themoviedb.org/movie/1773587</link>
+      <guid isPermaLink="false">movie-1773587</guid>
+      <pubDate>Fri, 18 Sep 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Rob Sixsmith. A young officer is killed inside a general's home. The investigation that followed revealed a cover-up at the highest ranks of the National Police.</description>
     </item>
     <item>
       <title>You Had to Be There: How the Toronto Godspell Ignited the Comedy Revolution... (Greenwich Entertainment)</title>
@@ -273,7 +287,7 @@
       <description>Directed by Garth Jennings. A fusion of the brilliantly choreographed stage spectacle of Pulp’s biggest ever arena show — part of the global tour for More, the band’s first album in 24 years — with four decades of colorful, never-seen-before archival material.</description>
     </item>
     <item>
-      <title>George Clarke’s Amazing Spaces: First Homes</title>
+      <title>George Clarke's Amazing Spaces: First Home</title>
       <link>https://www.themoviedb.org/tv/330805</link>
       <guid isPermaLink="false">tv-330805</guid>
       <pubDate>Fri, 18 Sep 2026 09:00:00 GMT</pubDate>
@@ -287,11 +301,25 @@
       <description>Directed by Orlando von Einsiedel. Explores the romantic journey of PK Mahanandia, a Delhi street artist who trekked 6,000 miles by bicycle in 1977, venturing across continents to reunite with the woman he loved.</description>
     </item>
     <item>
-      <title>Dead Wife Cult</title>
-      <link>https://www.themoviedb.org/movie/1767219</link>
-      <guid isPermaLink="false">movie-1767219</guid>
-      <pubDate>Sat, 19 Sep 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Josh Heaps. The life of cult icon Zoë Lund, through the eyes of her widower and an avid fan.</description>
+      <title>The Watergate Caper: Richard Nixon and the Death of the American Dream</title>
+      <link>https://www.themoviedb.org/movie/1773855</link>
+      <guid isPermaLink="false">movie-1773855</guid>
+      <pubDate>Fri, 18 Sep 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Shane O'Sullivan. The Watergate Caper is an archival documentary, narrated by Harry Shearer (This is Spinal Tap), tracing the rise and fall of Nixon from the presidential primaries of 1968 through the Watergate break-in of June 1972 to his resignation two years later, killing trust in the political process and the American presidency in the wake of the Vietnam War.  The film draws on hundreds of hours of TV news taped off-air by the Nixon White House to tell the untold story of the Watergate burglars. How did tapping the wrong phone with a bug that didn't work lead to their arrests and Nixon's resignation?  It also explores representations of the Nixon years in popular culture, using the music, commercials, and cinema of the era to evoke a fevered political landscape of culture wars, dirty tricks, paranoia and assassination.</description>
+    </item>
+    <item>
+      <title>Falco Mon Amour</title>
+      <link>https://www.themoviedb.org/movie/1773886</link>
+      <guid isPermaLink="false">movie-1773886</guid>
+      <pubDate>Fri, 18 Sep 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Hannes Rossacher. Falco is the only German-language singer to reach number one in the US billboard chart. This documentary looks back at the life and work of the 1980s Austrian cultural phenomenon who took the world by storm with hits like &quot;Rock Me Amadeus&quot;, &quot;Vienna Calling&quot; and &quot;Der Kommissar&quot;. With contributions from his last girlfriend, Caroline Perron.</description>
+    </item>
+    <item>
+      <title>The Com: Online, Sadistic and Deadly.</title>
+      <link>https://www.themoviedb.org/movie/1774562</link>
+      <guid isPermaLink="false">movie-1774562</guid>
+      <pubDate>Fri, 18 Sep 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Hannah Congdon. Parents are being warned of the dangers of ‘The Com’ or ‘764’, a sadistic online network that targets often vulnerable young people, destroying their lives. Sky's Adele Robinson reports using testimony from survivors, parents, law enforcement investigators and journalists, as they try to understand this new global grooming terror.</description>
     </item>
     <item>
       <title>Schloss Schönbrunn - Hinter der Fassade der Macht (ARTE)</title>
@@ -299,6 +327,13 @@
       <guid isPermaLink="false">movie-1768355</guid>
       <pubDate>Sat, 19 Sep 2026 09:00:00 GMT</pubDate>
       <description>Directed by Klaus T. Steindl.</description>
+    </item>
+    <item>
+      <title>Dead Wife Cult</title>
+      <link>https://www.themoviedb.org/movie/1767219</link>
+      <guid isPermaLink="false">movie-1767219</guid>
+      <pubDate>Sat, 19 Sep 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Josh Heaps. The life of cult icon Zoë Lund, through the eyes of her widower and an avid fan.</description>
     </item>
     <item>
       <title>English Ultraviolence</title>
@@ -336,18 +371,18 @@
       <description>Directed by David Kittredge. Featuring commentary from surviving participants, as well as other filmmakers and critics, this documentary chronicles the career of director John Boorman and the tumultuous production of his film Exorcist II: The Heretic, exploring its critical and commercial failure, how it changed the industry, and the importance of risk-taking in art.</description>
     </item>
     <item>
-      <title>Out of Breath</title>
-      <link>https://www.themoviedb.org/movie/1756742</link>
-      <guid isPermaLink="false">movie-1756742</guid>
-      <pubDate>Tue, 29 Sep 2026 09:00:00 GMT</pubDate>
-      <description>Directed by George T. Nierenberg. OUT OF BREATH shines the spotlight on the human cost paid by people living with sleep apnea and their loved ones. Yet, for all the darkness they face there is also light at the end of the tunnel as their hope, courage, and perseverance brings them closer to the promise of successful treatment.</description>
-    </item>
-    <item>
       <title>The Hammer (Submarine Entertainment)</title>
       <link>https://www.themoviedb.org/movie/1766442</link>
       <guid isPermaLink="false">movie-1766442</guid>
       <pubDate>Tue, 29 Sep 2026 09:00:00 GMT</pubDate>
       <description>Directed by Simon Wallon. Simon de Pury is a familiar face in the art world. The former chairman of Sotheby’s has a larger-than-life personality and is known as the «Mick Jagger of auctions.»</description>
+    </item>
+    <item>
+      <title>Out of Breath</title>
+      <link>https://www.themoviedb.org/movie/1756742</link>
+      <guid isPermaLink="false">movie-1756742</guid>
+      <pubDate>Tue, 29 Sep 2026 09:00:00 GMT</pubDate>
+      <description>Directed by George T. Nierenberg. OUT OF BREATH shines the spotlight on the human cost paid by people living with sleep apnea and their loved ones. Yet, for all the darkness they face there is also light at the end of the tunnel as their hope, courage, and perseverance brings them closer to the promise of successful treatment.</description>
     </item>
     <item>
       <title>LINKIN PARK: UNSHATTER</title>
@@ -378,6 +413,13 @@
       <description>Directed by Alex Gibney. In 2022, Salman Rushdie was preparing to deliver a lecture on the United States as a safe haven for writers when a man rushed the stage and, in 27 seconds, stabbed him 15 times. Airlifted to hospital, Rushdie survived, barely, and his wife Rachel Eliza Griffiths began filming immediately, capturing an unfiltered view of his recovery, return to life and how he regained his spirit and hope for the future.</description>
     </item>
     <item>
+      <title>Secrets of the Southwest</title>
+      <link>https://www.themoviedb.org/movie/1438874</link>
+      <guid isPermaLink="false">movie-1438874</guid>
+      <pubDate>Fri, 02 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Discover the hidden stories Britain's southwest has to offer. From Foxes fighting on the streets of Bristol to Puffins looking for love on Skomer Island.</description>
+    </item>
+    <item>
       <title>Secrets of the Southwest: Science Behind the Secrets</title>
       <link>https://www.themoviedb.org/movie/1438857</link>
       <guid isPermaLink="false">movie-1438857</guid>
@@ -390,13 +432,6 @@
       <guid isPermaLink="false">movie-1632638</guid>
       <pubDate>Fri, 02 Oct 2026 09:00:00 GMT</pubDate>
       <description>Directed by Oisín Mistéil. Four Irish Rugby teams who defy stereotypes tackle their way to the Mixed Ability Rugby World Cup, where full-contact sport meets joyful belonging.</description>
-    </item>
-    <item>
-      <title>Secrets of the Southwest</title>
-      <link>https://www.themoviedb.org/movie/1438874</link>
-      <guid isPermaLink="false">movie-1438874</guid>
-      <pubDate>Fri, 02 Oct 2026 09:00:00 GMT</pubDate>
-      <description>Discover the hidden stories Britain's southwest has to offer. From Foxes fighting on the streets of Bristol to Puffins looking for love on Skomer Island.</description>
     </item>
     <item>
       <title>Travel Reminiscence</title>
@@ -413,11 +448,11 @@
       <description>Directed by Elio B Cunampio. A Wounaan teenager and a leader of their community venture into the Darién in search of a sacred bird. Along the way, they will face the dangers that threaten their territory and their culture.</description>
     </item>
     <item>
-      <title>Musk (HBO Documentary Films)</title>
-      <link>https://www.themoviedb.org/movie/1096228</link>
-      <guid isPermaLink="false">movie-1096228</guid>
+      <title>Lesbian Lines</title>
+      <link>https://www.themoviedb.org/movie/1678239</link>
+      <guid isPermaLink="false">movie-1678239</guid>
       <pubDate>Fri, 09 Oct 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Alex Gibney. An incisive look behind the legend of Elon Musk, the world’s most heralded 'inventor-entrepreneur' who has enormous influence on the world in which we all live.</description>
+      <description>Directed by Cara Holmes. In a silenced Ireland, a community of lesbians builds an underground network of helplines - offering connection, survival, and defiance through the simple act of answering the phone.</description>
     </item>
     <item>
       <title>André Leon Talley — Style is Forever (Greenwich Entertainment)</title>
@@ -425,13 +460,6 @@
       <guid isPermaLink="false">movie-1557817</guid>
       <pubDate>Fri, 09 Oct 2026 09:00:00 GMT</pubDate>
       <description>Directed by Zach Stafford. André Leon Talley was a trailblazing fashion icon whose influence spanned nearly five decades. This documentary explores his legacy of inclusivity, elegance, and the fearless pursuit of authenticity. Interviews with Anna Wintour, Tom Ford and Diane von Furstenberg, among others, as well as never-before-seen footage, reveal Talley’s personal and professional challenges and remarkable triumphs.</description>
-    </item>
-    <item>
-      <title>Lesbian Lines</title>
-      <link>https://www.themoviedb.org/movie/1678239</link>
-      <guid isPermaLink="false">movie-1678239</guid>
-      <pubDate>Fri, 09 Oct 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Cara Holmes. In a silenced Ireland, a community of lesbians builds an underground network of helplines - offering connection, survival, and defiance through the simple act of answering the phone.</description>
     </item>
     <item>
       <title>Everest: The Other Side (National Geographic Documentary Films)</title>
@@ -455,11 +483,25 @@
       <description>Directed by Nanette Burstein. Serving as an intimate and cinematic portrait of Sagan, the Untitled Carl Sagan Documentary will explore his love story with partner Ann Druyan and with science. The film will include exclusive audio recordings, archival clips and animation, along with interviews with his family, friends and colleagues. With the full support of Sagan’s family and friends, the film will present a fascinating look into the life and career of one of the world’s most inspiring and revolutionizing scientists of our time.</description>
     </item>
     <item>
+      <title>Duckweed</title>
+      <link>https://www.themoviedb.org/movie/1506696</link>
+      <guid isPermaLink="false">movie-1506696</guid>
+      <pubDate>Fri, 16 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Matthew Berka. Obscure, aging, and living on the outskirts of London, writer of supernatural fiction Quentin Crisp asks himself a fundamental existential question: ‘Who am I?' This feature-length film-essay is structured around readings of Crisp’s own zuihitsu of the same name, which, in essence, is the story of his life. As we follow Crisp on a walk deeper into the ‘‘little wood’’ of his private landscape, the binaries of success and failure begin to fade away.</description>
+    </item>
+    <item>
       <title>Forza on the Run</title>
       <link>https://www.themoviedb.org/movie/1749734</link>
       <guid isPermaLink="false">movie-1749734</guid>
       <pubDate>Tue, 20 Oct 2026 09:00:00 GMT</pubDate>
       <description>Directed by Jake Hanrahan. Heavy Weekend 02: The French police have put the illegal drift racers of Paris on final notice, so they've took off on the run across the border into Belgium. Hanrahan rides along with the crew as they dodge police and takeover Brussels.</description>
+    </item>
+    <item>
+      <title>Enter the Television</title>
+      <link>https://www.themoviedb.org/movie/1775096</link>
+      <guid isPermaLink="false">movie-1775096</guid>
+      <pubDate>Tue, 20 Oct 2026 09:00:00 GMT</pubDate>
+      <description>From Tom Seymour creator of the VHS Massacre Trilogy. Enter the Television is a feature-length documentary exploring the dark corners of television from obscure commercials to unconventional cable programming. It examines the evolution of media through an underground lens, revealing how independent voices survive within systems controlled by powerful media corporations.</description>
     </item>
     <item>
       <title>Back to the Beginning: Ozzy's Final Bow</title>
@@ -476,13 +518,6 @@
       <description>Directed by Christoph Farwig. &quot;Don't Let The Bastards Grind You Down&quot; is a documentary film about British social policy. The focus is on the political struggle against neoliberal austerity policies, which have their origins in the hated Thatcher government.  The film features the former socialist MP Dave Nellist, who is now the national chair of the Trade Unionist &amp; Socialist Coalition and Hannah Sell, the general secretary of the Socialist Party. The film features a local election campaign in the miners' town of Nuneaton, students campaigning against an increase in tuition fees and refuse workers from Birmingham striking against massive cuts to their wages.</description>
     </item>
     <item>
-      <title>Finding Faith</title>
-      <link>https://www.themoviedb.org/movie/1652192</link>
-      <guid isPermaLink="false">movie-1652192</guid>
-      <pubDate>Fri, 06 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Mary McCartney. A short film contextualising the cultural significance of George Michael's Faith Tour via unheard interview voice-over, unseen images by Herb Ritts, and behind-the-scenes footage of the Faith music video.</description>
-    </item>
-    <item>
       <title>George Michael: The Faith Tour</title>
       <link>https://www.themoviedb.org/movie/1649403</link>
       <guid isPermaLink="false">movie-1649403</guid>
@@ -495,6 +530,13 @@
       <guid isPermaLink="false">movie-1754364</guid>
       <pubDate>Fri, 06 Nov 2026 09:00:00 GMT</pubDate>
       <description>Directed by Eleanor Coppola. Eleanor Coppola's behind-the-scenes documentation of her daughter Sofia Coppola directing the 2006 film Marie Antoinette, capturing the craftsmanship and challenges of being a young female director.</description>
+    </item>
+    <item>
+      <title>Finding Faith</title>
+      <link>https://www.themoviedb.org/movie/1652192</link>
+      <guid isPermaLink="false">movie-1652192</guid>
+      <pubDate>Fri, 06 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Mary McCartney. A short film contextualising the cultural significance of George Michael's Faith Tour via unheard interview voice-over, unseen images by Herb Ritts, and behind-the-scenes footage of the Faith music video.</description>
     </item>
     <item>
       <title>Whiddy (ARTE)</title>
