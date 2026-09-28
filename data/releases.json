@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T06:08:57.948Z",
+  "generatedAt": "2026-09-28T06:09:15.946Z",
   "window": {
     "from": "2026-09-01",
     "to": "2026-12-31"
@@ -194,7 +194,7 @@
         "status": "ok",
         "covered": true,
         "notes": [],
-        "count": 1
+        "count": 2
       }
     },
     {
@@ -273,7 +273,7 @@
         "status": "ok",
         "covered": true,
         "notes": [],
-        "count": 6
+        "count": 9
       }
     },
     {
@@ -288,7 +288,7 @@
         "status": "ok",
         "covered": true,
         "notes": [],
-        "count": 9
+        "count": 10
       }
     },
     {
@@ -430,7 +430,7 @@
       "tmdbUrl": "https://www.themoviedb.org/tv/333058",
       "imdbUrl": "https://www.imdb.com/title/tt44842745/",
       "homepage": "https://www.hulu.com/series/77fa109a-7f84-4e84-8a1c-f48cee4a5671",
-      "popularity": 2.8788,
+      "popularity": 3.3464,
       "sources": [],
       "unattributed": true
     },
@@ -455,7 +455,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1761013",
       "imdbUrl": "https://www.imdb.com/title/tt44999734/",
       "homepage": "https://www.youtube.com/watch?v=rq_1H-0twgA",
-      "popularity": 1.7093,
+      "popularity": 2.598,
       "sources": [],
       "unattributed": true
     },
@@ -493,11 +493,43 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1739202",
       "imdbUrl": "https://www.imdb.com/title/tt43700441/",
       "homepage": "https://www.netflix.com/title/82048542",
-      "popularity": 6.1352,
+      "popularity": 6.3562,
       "sources": [
         "netflix"
       ],
       "unattributed": false
+    },
+    {
+      "id": "tv-333348",
+      "kind": "series",
+      "title": "Britain's TikTok Murder",
+      "originalTitle": null,
+      "year": 2026,
+      "overview": "Britain's TikTok Murder is a two-part true crime documentary series that investigates the murder of 62-year-old army veteran Stuart Crocker. Through exclusive interviews, police evidence, and extensive TikTok footage, the series explores how social media fame, manipulation, coercive control, and the exploitation of vulnerable people became central to one of the UK's most disturbing recent murder cases, uncovering the events that led to Crocker's death and the shocking investigation that followed.",
+      "poster": "https://image.tmdb.org/t/p/w342/ofNiJruhCwh8SuZm1zgw28hlRmG.jpg",
+      "runtime": null,
+      "episodes": 2,
+      "director": null,
+      "date": "2026-09-02",
+      "dateRegion": null,
+      "dateType": "tv",
+      "otherDates": [],
+      "providers": [
+        {
+          "name": "Amazon Prime Video",
+          "logo": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+        }
+      ],
+      "genres": [
+        80,
+        99
+      ],
+      "tmdbUrl": "https://www.themoviedb.org/tv/333348",
+      "imdbUrl": null,
+      "homepage": null,
+      "popularity": 0.735,
+      "sources": [],
+      "unattributed": true
     },
     {
       "id": "movie-1769590",
@@ -521,7 +553,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1769590",
       "imdbUrl": null,
       "homepage": null,
-      "popularity": 0.4447,
+      "popularity": 0.5623,
       "sources": [],
       "unattributed": true
     },
@@ -559,7 +591,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1752159",
       "imdbUrl": "https://www.imdb.com/title/tt44322266/",
       "homepage": "https://www.netflix.com/title/82091553",
-      "popularity": 9.8371,
+      "popularity": 7.9915,
       "sources": [
         "netflix"
       ],
@@ -586,7 +618,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1736493",
       "imdbUrl": "https://www.imdb.com/title/tt43704156/",
       "homepage": null,
-      "popularity": 1.8259,
+      "popularity": 1.7337,
       "sources": [
         "espn-films"
       ],
@@ -623,7 +655,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1686683",
       "imdbUrl": "https://www.imdb.com/title/tt43338336/",
       "homepage": null,
-      "popularity": 1.3641,
+      "popularity": 1.5641,
       "sources": [],
       "unattributed": true
     },
@@ -662,11 +694,36 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1744876",
       "imdbUrl": "https://www.imdb.com/title/tt41559858/",
       "homepage": null,
-      "popularity": 4.2208,
+      "popularity": 4.4592,
       "sources": [
         "netflix"
       ],
       "unattributed": false
+    },
+    {
+      "id": "movie-1540865",
+      "kind": "film",
+      "title": "Super Nature",
+      "originalTitle": null,
+      "year": 2026,
+      "overview": "We’re invited on a journey across 25 different countries, with people embracing both abundance and loss, to feel a sense of togetherness with our fellow dwellers on earth, human and non-human. Celebrating all we have and reflecting on all we have to lose, Super Nature proposes a new way of seeing.",
+      "poster": "https://image.tmdb.org/t/p/w342/4cKhmq8TuSkyhwMJAriszAjvfFp.jpg",
+      "runtime": 82,
+      "director": "Ed Sayers",
+      "date": "2026-09-04",
+      "dateRegion": "GB",
+      "dateType": "theatrical",
+      "otherDates": [],
+      "providers": [],
+      "genres": [
+        99
+      ],
+      "tmdbUrl": "https://www.themoviedb.org/movie/1540865",
+      "imdbUrl": "https://www.imdb.com/title/tt38120423/",
+      "homepage": "https://www.supernaturefilm.com/",
+      "popularity": 2.5047,
+      "sources": [],
+      "unattributed": true
     },
     {
       "id": "movie-1510435",
@@ -690,32 +747,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1510435",
       "imdbUrl": "https://www.imdb.com/title/tt37539108/",
       "homepage": "https://www.mdemc.se/celtic-utopia",
-      "popularity": 3.0487,
-      "sources": [],
-      "unattributed": true
-    },
-    {
-      "id": "movie-1540865",
-      "kind": "film",
-      "title": "Super Nature",
-      "originalTitle": null,
-      "year": 2026,
-      "overview": "We’re invited on a journey across 25 different countries, with people embracing both abundance and loss, to feel a sense of togetherness with our fellow dwellers on earth, human and non-human. Celebrating all we have and reflecting on all we have to lose, Super Nature proposes a new way of seeing.",
-      "poster": "https://image.tmdb.org/t/p/w342/4cKhmq8TuSkyhwMJAriszAjvfFp.jpg",
-      "runtime": 82,
-      "director": "Ed Sayers",
-      "date": "2026-09-04",
-      "dateRegion": "GB",
-      "dateType": "theatrical",
-      "otherDates": [],
-      "providers": [],
-      "genres": [
-        99
-      ],
-      "tmdbUrl": "https://www.themoviedb.org/movie/1540865",
-      "imdbUrl": "https://www.imdb.com/title/tt38120423/",
-      "homepage": "https://www.supernaturefilm.com/",
-      "popularity": 2.2963,
+      "popularity": 2.3953,
       "sources": [],
       "unattributed": true
     },
@@ -757,7 +789,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1005402",
       "imdbUrl": "https://www.imdb.com/title/tt21381730/",
       "homepage": null,
-      "popularity": 1.2964,
+      "popularity": 1.8025,
       "sources": [],
       "unattributed": true
     },
@@ -795,7 +827,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1762763",
       "imdbUrl": "https://www.imdb.com/title/tt45120348/",
       "homepage": "https://www.netflix.com/title/81731428",
-      "popularity": 1.1046,
+      "popularity": 1.4478,
       "sources": [
         "netflix"
       ],
@@ -835,7 +867,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1760262",
       "imdbUrl": "https://www.imdb.com/title/tt44942157/",
       "homepage": "https://www.netflix.com/title/82772144",
-      "popularity": 4.7841,
+      "popularity": 4.3039,
       "sources": [
         "netflix"
       ],
@@ -867,7 +899,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1400383",
       "imdbUrl": "https://www.imdb.com/title/tt34966955/",
       "homepage": null,
-      "popularity": 1.9201,
+      "popularity": 1.8881,
       "sources": [
         "netflix"
       ],
@@ -895,7 +927,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1630401",
       "imdbUrl": "https://www.imdb.com/title/tt13282742/",
       "homepage": "https://nobodyherefilm.com/",
-      "popularity": 1.2525,
+      "popularity": 1.5501,
       "sources": [],
       "unattributed": true
     },
@@ -920,7 +952,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1765427",
       "imdbUrl": null,
       "homepage": "https://www.skysports.com/football/video/12606/13581650/teaser-the-club-that-conquered-the-premier-league",
-      "popularity": 1.2962,
+      "popularity": 1.1475,
       "sources": [],
       "unattributed": true
     },
@@ -928,7 +960,7 @@
       "id": "ep-14955-7668423",
       "kind": "strand",
       "title": "Remake",
-      "strand": "Point of View",
+      "strand": "POV",
       "overview": "For nearly forty years, Ross McElwee has made autobiographical documentaries about how his personal life intersects with the wider world. After his son Adrian died of a fentanyl overdose in 2016, McElwee abandoned a planned Hollywood dramatic remake of his own 1986 breakthrough film Sherman's March, and instead used decades of home-movie footage — including Adrian's own camera work — to reckon with his son's life, his addiction, and what the camera did and did not capture.",
       "poster": "https://image.tmdb.org/t/p/w342/fHFSd0lEWBbhFuLp3LX3e2HBoet.jpg",
       "date": "2026-09-07",
@@ -981,7 +1013,7 @@
       "tmdbUrl": "https://www.themoviedb.org/tv/330968",
       "imdbUrl": "https://www.imdb.com/title/tt43746863/",
       "homepage": null,
-      "popularity": 4.4819,
+      "popularity": 3.0155,
       "sources": [],
       "unattributed": true
     },
@@ -1014,7 +1046,57 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1624363",
       "imdbUrl": "https://www.imdb.com/title/tt21990160/",
       "homepage": null,
-      "popularity": 1.969,
+      "popularity": 1.4385,
+      "sources": [],
+      "unattributed": true
+    },
+    {
+      "id": "movie-1759508",
+      "kind": "film",
+      "title": "The Hooters Murders: Deadly Shift",
+      "originalTitle": null,
+      "year": 2026,
+      "overview": "Between 2001 and 2010, separated by thousands of miles, the victims shared one connection: they were all associated with Hooters. The Hooters Murders: Deadly Shift is a two-hour documentary that unravels these tragic murders, exposing how young women who were linked to the iconic restaurant chain were preyed upon.",
+      "poster": "https://image.tmdb.org/t/p/w342/uzcayVYMePJcj4hUsgJNmueWh5r.jpg",
+      "runtime": 85,
+      "director": null,
+      "date": "2026-09-07",
+      "dateRegion": "GB",
+      "dateType": "theatrical",
+      "otherDates": [],
+      "providers": [],
+      "genres": [
+        99
+      ],
+      "tmdbUrl": "https://www.themoviedb.org/movie/1759508",
+      "imdbUrl": "https://www.imdb.com/title/tt44925495/",
+      "homepage": "https://www.oxygen.com/the-hooters-murders-deadly-shift/watch/videos",
+      "popularity": 1.0584,
+      "sources": [],
+      "unattributed": true
+    },
+    {
+      "id": "movie-1636323",
+      "kind": "film",
+      "title": "Filling the void",
+      "originalTitle": "Remplir le Vide",
+      "year": 2026,
+      "overview": "A portrait of Magali Garçon, a professor at the Cherbourg School of Arts, whose convictions, feminist vision, and committed personality challenge the traditional art academy, bringing a unique and transformative perspective to her teaching.",
+      "poster": "https://image.tmdb.org/t/p/w342/tF0gJX2oJt7r0QYIpLs1qQX1ya9.jpg",
+      "runtime": 7,
+      "director": "Aaron Lecoublet",
+      "date": "2026-09-07",
+      "dateRegion": "GB",
+      "dateType": "digital",
+      "otherDates": [],
+      "providers": [],
+      "genres": [
+        99
+      ],
+      "tmdbUrl": "https://www.themoviedb.org/movie/1636323",
+      "imdbUrl": null,
+      "homepage": null,
+      "popularity": 0.9637,
       "sources": [],
       "unattributed": true
     },
@@ -1046,32 +1128,7 @@
       "tmdbUrl": "https://www.themoviedb.org/tv/329995",
       "imdbUrl": null,
       "homepage": null,
-      "popularity": 1.3795,
-      "sources": [],
-      "unattributed": true
-    },
-    {
-      "id": "movie-1636323",
-      "kind": "film",
-      "title": "Filling the void",
-      "originalTitle": "Remplir le Vide",
-      "year": 2026,
-      "overview": "A portrait of Magali Garçon, a professor at the Cherbourg School of Arts, whose convictions, feminist vision, and committed personality challenge the traditional art academy, bringing a unique and transformative perspective to her teaching.",
-      "poster": "https://image.tmdb.org/t/p/w342/tF0gJX2oJt7r0QYIpLs1qQX1ya9.jpg",
-      "runtime": 7,
-      "director": "Aaron Lecoublet",
-      "date": "2026-09-07",
-      "dateRegion": "GB",
-      "dateType": "digital",
-      "otherDates": [],
-      "providers": [],
-      "genres": [
-        99
-      ],
-      "tmdbUrl": "https://www.themoviedb.org/movie/1636323",
-      "imdbUrl": null,
-      "homepage": null,
-      "popularity": 1.0797,
+      "popularity": 0.9461,
       "sources": [],
       "unattributed": true
     },
@@ -1097,7 +1154,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1736525",
       "imdbUrl": "https://www.imdb.com/title/tt43704183/",
       "homepage": null,
-      "popularity": 0.9682,
+      "popularity": 0.8377,
       "sources": [
         "arte"
       ],
@@ -1129,9 +1186,36 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1739206",
       "imdbUrl": "https://www.imdb.com/title/tt43700444/",
       "homepage": null,
-      "popularity": 8.8447,
+      "popularity": 7.6562,
       "sources": [
         "netflix"
+      ],
+      "unattributed": false
+    },
+    {
+      "id": "movie-1778681",
+      "kind": "film",
+      "title": "Yémen, carrefour de toutes les guerres",
+      "originalTitle": null,
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w342/rrrKkvRyWBKUmb0s1BJ9XGKFgpS.jpg",
+      "runtime": null,
+      "director": "Miyuki Droz Aramaki",
+      "date": "2026-09-08",
+      "dateRegion": null,
+      "dateType": "unknown",
+      "otherDates": [],
+      "providers": [],
+      "genres": [
+        99
+      ],
+      "tmdbUrl": "https://www.themoviedb.org/movie/1778681",
+      "imdbUrl": null,
+      "homepage": null,
+      "popularity": 0.4698,
+      "sources": [
+        "arte"
       ],
       "unattributed": false
     },
@@ -1165,7 +1249,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1447853",
       "imdbUrl": "https://www.imdb.com/title/tt36152310/",
       "homepage": "https://www.disney.co.uk/movies/dont-look-back-in-anger",
-      "popularity": 9.901,
+      "popularity": 9.5694,
       "sources": [],
       "unattributed": true
     },
@@ -1196,7 +1280,7 @@
       "tmdbUrl": "https://www.themoviedb.org/tv/332910",
       "imdbUrl": "https://www.imdb.com/title/tt9280400/",
       "homepage": "https://www.hbo.com/content/a-killer-story",
-      "popularity": 4.7815,
+      "popularity": 4.6419,
       "sources": [
         "hbo-docs"
       ],
@@ -1225,7 +1309,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1769844",
       "imdbUrl": "https://www.imdb.com/title/tt45556735/",
       "homepage": "https://www.bbc.co.uk/programmes/m00303gc",
-      "popularity": 1.9205,
+      "popularity": 1.5832,
       "sources": [],
       "unattributed": true
     },
@@ -1256,7 +1340,7 @@
       "tmdbUrl": "https://www.themoviedb.org/tv/334465",
       "imdbUrl": "https://www.imdb.com/title/tt45658470/",
       "homepage": "https://www.hbomax.com/fr/fr/show/27de7dd4-777a-461f-969b-9bff36d0c246",
-      "popularity": 2.5876,
+      "popularity": 2.4286,
       "sources": [],
       "unattributed": true
     },
@@ -1281,7 +1365,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1763222",
       "imdbUrl": null,
       "homepage": null,
-      "popularity": 0.962,
+      "popularity": 0.7974,
       "sources": [
         "arte"
       ],
@@ -1308,7 +1392,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1730508",
       "imdbUrl": null,
       "homepage": null,
-      "popularity": 1.0891,
+      "popularity": 1.1157,
       "sources": [],
       "unattributed": true
     },
@@ -1334,7 +1418,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1768390",
       "imdbUrl": null,
       "homepage": null,
-      "popularity": 0.9242,
+      "popularity": 0.7138,
       "sources": [
         "arte"
       ],
@@ -1361,9 +1445,30 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1765088",
       "imdbUrl": null,
       "homepage": null,
-      "popularity": 0.5631,
+      "popularity": 0.6622,
       "sources": [],
       "unattributed": true
+    },
+    {
+      "id": "ep-14976-7860773",
+      "kind": "strand",
+      "title": "Ghost in the Machine",
+      "strand": "Independent Lens",
+      "overview": "Reveals AI's troubled history and present-day impacts.",
+      "poster": "https://image.tmdb.org/t/p/w342/zqypUikKGE1P3YtLdxGMDVUZJ7.jpg",
+      "date": "2026-09-14",
+      "dateRegion": "US",
+      "dateType": "tv",
+      "runtime": 97,
+      "director": null,
+      "tmdbUrl": "https://www.themoviedb.org/tv/14976/season/28/episode/1",
+      "sources": [
+        "pbs-indie"
+      ],
+      "providers": [],
+      "foundBy": [
+        "pbs-indie"
+      ]
     },
     {
       "id": "movie-1742442",
@@ -1386,7 +1491,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1742442",
       "imdbUrl": "https://www.imdb.com/title/tt33480013/",
       "homepage": "https://www.steelthebloodofus.co.uk/",
-      "popularity": 0.8725,
+      "popularity": 0.7519,
       "sources": [],
       "unattributed": true
     },
@@ -1416,7 +1521,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1596335",
       "imdbUrl": "https://www.imdb.com/title/tt39150120/",
       "homepage": "https://www.focusfeatures.com/the-ai-doc-or-how-i-became-an-apocaloptimist",
-      "popularity": 8.9895,
+      "popularity": 6.6703,
       "sources": [
         "netflix"
       ],
@@ -1443,38 +1548,9 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1739735",
       "imdbUrl": "https://www.imdb.com/title/tt43720527/",
       "homepage": "https://seventh-art.com/product/j-m-whistler/",
-      "popularity": 0.7275,
+      "popularity": 1.3076,
       "sources": [],
       "unattributed": true
-    },
-    {
-      "id": "movie-1771719",
-      "kind": "film",
-      "title": "Lady Liberty: Secrets of an Icon",
-      "originalTitle": "Liberté, la statue qui voulait changer le monde",
-      "year": 2026,
-      "overview": "This iconic statue was a gift from France to the new-born American Republic and was the first crowd-funded monument of all time. A symbol of emancipation and freedom, which took two decades to be completed. The film features original 3D virtual reconstitutions of Auguste Bartholdi’s Atelier in Paris and travels back in time to bring viewers at the heart of the Statue’s original construction, revealing the founding ideals of our democracies.",
-      "poster": "https://image.tmdb.org/t/p/w342/pFiBwmii7UJnEEoslEXKzbzy2bU.jpg",
-      "runtime": null,
-      "director": "Julien Johan",
-      "date": "2026-09-16",
-      "dateRegion": null,
-      "dateType": "unknown",
-      "otherDates": [],
-      "providers": [],
-      "genres": [
-        99,
-        36,
-        18
-      ],
-      "tmdbUrl": "https://www.themoviedb.org/movie/1771719",
-      "imdbUrl": "https://www.imdb.com/title/tt45383566/",
-      "homepage": null,
-      "popularity": 0.6885,
-      "sources": [
-        "arte"
-      ],
-      "unattributed": false
     },
     {
       "id": "movie-1772387",
@@ -1497,7 +1573,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1772387",
       "imdbUrl": "https://www.imdb.com/title/tt45369531/",
       "homepage": null,
-      "popularity": 0.3362,
+      "popularity": 0.6649,
       "sources": [],
       "unattributed": true
     },
@@ -1532,7 +1608,7 @@
       "tmdbUrl": "https://www.themoviedb.org/tv/326440",
       "imdbUrl": "https://www.imdb.com/title/tt43619535/",
       "homepage": "https://www.hbo.com/content/jay-z-in-8",
-      "popularity": 3.7296,
+      "popularity": 4.6673,
       "sources": [
         "hbo-docs",
         "mubi"
@@ -1550,8 +1626,8 @@
       "runtime": 89,
       "director": "Rob Sixsmith",
       "date": "2026-09-18",
-      "dateRegion": null,
-      "dateType": "unknown",
+      "dateRegion": "US",
+      "dateType": "digital",
       "otherDates": [],
       "providers": [
         {
@@ -1565,9 +1641,54 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1773587",
       "imdbUrl": "https://www.imdb.com/title/tt46084824/",
       "homepage": "https://www.netflix.com/title/81771745",
-      "popularity": 2.5749,
+      "popularity": 4.3407,
       "sources": [
         "netflix"
+      ],
+      "unattributed": false
+    },
+    {
+      "id": "movie-1715598",
+      "kind": "film",
+      "title": "Pulp - What Do You Do for an Encore?",
+      "originalTitle": null,
+      "year": 2026,
+      "overview": "A fusion of the brilliantly choreographed stage spectacle of Pulp’s biggest ever arena show — part of the global tour for More, the band’s first album in 24 years — with four decades of colorful, never-seen-before archival material.",
+      "poster": "https://image.tmdb.org/t/p/w342/iOdcLIc1mAlczfD1Mq6dg4IupIh.jpg",
+      "runtime": 98,
+      "director": "Garth Jennings",
+      "date": "2026-09-18",
+      "dateRegion": "GB",
+      "dateType": "limited",
+      "otherDates": [
+        {
+          "region": "US",
+          "date": "2026-09-24",
+          "type": "limited",
+          "rank": 1,
+          "note": null
+        }
+      ],
+      "providers": [
+        {
+          "name": "MUBI",
+          "logo": "https://image.tmdb.org/t/p/w92/k7iSlvgWzZuO4zU5PcBjhABMuia.png"
+        },
+        {
+          "name": "MUBI Amazon Channel",
+          "logo": "https://image.tmdb.org/t/p/w92/w1hl8HszsPf5aAGT0mVY0O6LYP4.png"
+        }
+      ],
+      "genres": [
+        99,
+        10402
+      ],
+      "tmdbUrl": "https://www.themoviedb.org/movie/1715598",
+      "imdbUrl": "https://www.imdb.com/title/tt43596978/",
+      "homepage": null,
+      "popularity": 3.9573,
+      "sources": [
+        "mubi"
       ],
       "unattributed": false
     },
@@ -1593,47 +1714,37 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1354301",
       "imdbUrl": "https://www.imdb.com/title/tt31726535/",
       "homepage": null,
-      "popularity": 2.425,
+      "popularity": 3.6359,
       "sources": [
         "greenwich"
       ],
       "unattributed": false
     },
     {
-      "id": "movie-1715598",
+      "id": "movie-1773886",
       "kind": "film",
-      "title": "Pulp: What Do You Do for an Encore?",
-      "originalTitle": null,
+      "title": "Falco Mon Amour",
+      "originalTitle": "Falco - Mon Amour",
       "year": 2026,
-      "overview": "A fusion of the brilliantly choreographed stage spectacle of Pulp’s biggest ever arena show — part of the global tour for More, the band’s first album in 24 years — with four decades of colorful, never-seen-before archival material.",
-      "poster": "https://image.tmdb.org/t/p/w342/1htt5hSk2jIxwAvNIGibRIhfVCl.jpg",
-      "runtime": 98,
-      "director": "Garth Jennings",
+      "overview": "Falco is the only German-language singer to reach number one in the US billboard chart. This documentary looks back at the life and work of the 1980s Austrian cultural phenomenon who took the world by storm with hits like \"Rock Me Amadeus\", \"Vienna Calling\" and \"Der Kommissar\". With contributions from his last girlfriend, Caroline Perron.",
+      "poster": "https://image.tmdb.org/t/p/w342/tC0BSpIkF6FxZOb7WCM0QZzoGM4.jpg",
+      "runtime": 53,
+      "director": "Hannes Rossacher",
       "date": "2026-09-18",
       "dateRegion": "GB",
-      "dateType": "limited",
-      "otherDates": [
-        {
-          "region": "US",
-          "date": "2026-09-24",
-          "type": "limited",
-          "rank": 1,
-          "note": null
-        }
-      ],
+      "dateType": "digital",
+      "otherDates": [],
       "providers": [],
       "genres": [
         99,
         10402
       ],
-      "tmdbUrl": "https://www.themoviedb.org/movie/1715598",
-      "imdbUrl": "https://www.imdb.com/title/tt43596978/",
-      "homepage": null,
-      "popularity": 1.9799,
-      "sources": [
-        "mubi"
-      ],
-      "unattributed": false
+      "tmdbUrl": "https://www.themoviedb.org/movie/1773886",
+      "imdbUrl": "https://www.imdb.com/title/tt46082129/",
+      "homepage": "https://www.arte.tv/en/videos/130467-000-A/falco-mon-amour/",
+      "popularity": 3.5566,
+      "sources": [],
+      "unattributed": true
     },
     {
       "id": "tv-330805",
@@ -1663,33 +1774,7 @@
       "tmdbUrl": "https://www.themoviedb.org/tv/330805",
       "imdbUrl": null,
       "homepage": "https://www.channel4.com/programmes/george-clarkes-amazing-spaces-first-home",
-      "popularity": 1.3936,
-      "sources": [],
-      "unattributed": true
-    },
-    {
-      "id": "movie-1537518",
-      "kind": "film",
-      "title": "The Cycle of Love",
-      "originalTitle": null,
-      "year": 2026,
-      "overview": "Explores the romantic journey of PK Mahanandia, a Delhi street artist who trekked 6,000 miles by bicycle in 1977, venturing across continents to reunite with the woman he loved.",
-      "poster": "https://image.tmdb.org/t/p/w342/5yK0eXbsYIxXJQ9uNoG7RtAsM8W.jpg",
-      "runtime": 98,
-      "director": "Orlando von Einsiedel",
-      "date": "2026-09-18",
-      "dateRegion": "GB",
-      "dateType": "theatrical",
-      "otherDates": [],
-      "providers": [],
-      "genres": [
-        99,
-        10749
-      ],
-      "tmdbUrl": "https://www.themoviedb.org/movie/1537518",
-      "imdbUrl": "https://www.imdb.com/title/tt38063160/",
-      "homepage": "https://thecycleoflovefilm.com/",
-      "popularity": 1.3917,
+      "popularity": 2.3579,
       "sources": [],
       "unattributed": true
     },
@@ -1724,33 +1809,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1773855",
       "imdbUrl": "https://www.imdb.com/title/tt45821808/",
       "homepage": "https://watergatecaper.com/",
-      "popularity": 0.4085,
-      "sources": [],
-      "unattributed": true
-    },
-    {
-      "id": "movie-1773886",
-      "kind": "film",
-      "title": "Falco Mon Amour",
-      "originalTitle": "Falco - Mon Amour",
-      "year": 2026,
-      "overview": "Falco is the only German-language singer to reach number one in the US billboard chart. This documentary looks back at the life and work of the 1980s Austrian cultural phenomenon who took the world by storm with hits like \"Rock Me Amadeus\", \"Vienna Calling\" and \"Der Kommissar\". With contributions from his last girlfriend, Caroline Perron.",
-      "poster": "https://image.tmdb.org/t/p/w342/tC0BSpIkF6FxZOb7WCM0QZzoGM4.jpg",
-      "runtime": 53,
-      "director": "Hannes Rossacher",
-      "date": "2026-09-18",
-      "dateRegion": "GB",
-      "dateType": "digital",
-      "otherDates": [],
-      "providers": [],
-      "genres": [
-        99,
-        10402
-      ],
-      "tmdbUrl": "https://www.themoviedb.org/movie/1773886",
-      "imdbUrl": "https://www.imdb.com/title/tt46082129/",
-      "homepage": "https://www.arte.tv/en/videos/130467-000-A/falco-mon-amour/",
-      "popularity": 0.3821,
+      "popularity": 1.7151,
       "sources": [],
       "unattributed": true
     },
@@ -1776,36 +1835,35 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1774562",
       "imdbUrl": null,
       "homepage": null,
-      "popularity": 0.0143,
+      "popularity": 1.6897,
       "sources": [],
       "unattributed": true
     },
     {
-      "id": "movie-1768355",
+      "id": "movie-1537518",
       "kind": "film",
-      "title": "Schloss Schönbrunn - Hinter der Fassade der Macht",
+      "title": "The Cycle of Love",
       "originalTitle": null,
       "year": 2026,
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w342/oB3c6Efgpe03Y4qKTbaSefDDWNT.jpg",
-      "runtime": null,
-      "director": "Klaus T. Steindl",
-      "date": "2026-09-19",
-      "dateRegion": null,
-      "dateType": "unknown",
+      "overview": "Explores the romantic journey of PK Mahanandia, a Delhi street artist who trekked 6,000 miles by bicycle in 1977, venturing across continents to reunite with the woman he loved.",
+      "poster": "https://image.tmdb.org/t/p/w342/5yK0eXbsYIxXJQ9uNoG7RtAsM8W.jpg",
+      "runtime": 98,
+      "director": "Orlando von Einsiedel",
+      "date": "2026-09-18",
+      "dateRegion": "GB",
+      "dateType": "theatrical",
       "otherDates": [],
       "providers": [],
       "genres": [
-        99
+        99,
+        10749
       ],
-      "tmdbUrl": "https://www.themoviedb.org/movie/1768355",
-      "imdbUrl": null,
-      "homepage": null,
-      "popularity": 1.3694,
-      "sources": [
-        "arte"
-      ],
-      "unattributed": false
+      "tmdbUrl": "https://www.themoviedb.org/movie/1537518",
+      "imdbUrl": "https://www.imdb.com/title/tt38063160/",
+      "homepage": "https://thecycleoflovefilm.com/",
+      "popularity": 1.6504,
+      "sources": [],
+      "unattributed": true
     },
     {
       "id": "movie-1767219",
@@ -1836,9 +1894,36 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1767219",
       "imdbUrl": null,
       "homepage": null,
-      "popularity": 1.0057,
+      "popularity": 1.3114,
       "sources": [],
       "unattributed": true
+    },
+    {
+      "id": "movie-1768355",
+      "kind": "film",
+      "title": "Schloss Schönbrunn - Hinter der Fassade der Macht",
+      "originalTitle": null,
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w342/oB3c6Efgpe03Y4qKTbaSefDDWNT.jpg",
+      "runtime": null,
+      "director": "Klaus Steindl",
+      "date": "2026-09-19",
+      "dateRegion": null,
+      "dateType": "unknown",
+      "otherDates": [],
+      "providers": [],
+      "genres": [
+        99
+      ],
+      "tmdbUrl": "https://www.themoviedb.org/movie/1768355",
+      "imdbUrl": null,
+      "homepage": null,
+      "popularity": 0.9855,
+      "sources": [
+        "arte"
+      ],
+      "unattributed": false
     },
     {
       "id": "movie-1749730",
@@ -1861,7 +1946,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1749730",
       "imdbUrl": null,
       "homepage": "https://awaydays.tv/",
-      "popularity": 1.1567,
+      "popularity": 0.9539,
       "sources": [],
       "unattributed": true
     },
@@ -1872,7 +1957,7 @@
       "originalTitle": null,
       "year": 2026,
       "overview": "Indie-rock group the Yeah Yeah Yeahs channel the spirit of David Lynch with this exquisitely ethereal, sublimely surreal record of a Los Angeles concert performance.",
-      "poster": "https://image.tmdb.org/t/p/w342/3BAzWppcZHxDRXy7cbBVju522Fe.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/k3i0KmuwtBDUfzZsNjeaWskt3JQ.jpg",
       "runtime": 22,
       "director": "Barnaby Clay",
       "date": "2026-09-21",
@@ -1895,7 +1980,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1752743",
       "imdbUrl": "https://www.imdb.com/title/tt44925622/",
       "homepage": null,
-      "popularity": 2.2303,
+      "popularity": 1.8475,
       "sources": [],
       "unattributed": true
     },
@@ -1906,7 +1991,7 @@
       "originalTitle": null,
       "year": 2025,
       "overview": "Shelley Beattie, a Deaf woman and champion bodybuilder, found fame in the 1990s on the hit TV show American Gladiators, where she competed under the name \"Siren\" before her untimely death in 2008. While charismatic, gorgeous, and a fierce competitor, Beattie also battled personal demons, struggling with mental illness, addiction, and questions of her own identity. Framed by the insight of another Deaf woman in Hollywood who found herself in the spotlight at the same time, Academy Award-winning actress Marlee Matlin, the documentary unpacks the story of Shelley \"Siren\" Beattie and her complex legacy entwined with beauty, mental illness, and love.",
-      "poster": "https://image.tmdb.org/t/p/w342/aakAr9X9NMziK2eMl8yujpjccaJ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/xG2C27lEX99Ywnm1aijG9DbFSeR.jpg",
       "runtime": 103,
       "director": "Irene Taylor",
       "date": "2026-09-22",
@@ -1925,11 +2010,37 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1552433",
       "imdbUrl": "https://www.imdb.com/title/tt38516475/",
       "homepage": null,
-      "popularity": 1.2554,
+      "popularity": 4.6895,
       "sources": [
         "hbo-docs"
       ],
       "unattributed": false
+    },
+    {
+      "id": "movie-1728398",
+      "kind": "film",
+      "title": "Hair Fetish Killer",
+      "originalTitle": null,
+      "year": 2026,
+      "overview": "Documents the murder, in which Heather Barnett was found with two clumps of precisely trimmed hair in her hands, and which led detectives to Italy. It took eight years before the discovery of a second victim, Elisa Claps, finally led police to the killer.",
+      "poster": "https://image.tmdb.org/t/p/w342/mVaJHJA5fGwCJOn53SdITLXyXRe.jpg",
+      "runtime": 90,
+      "director": "Hannah Webster",
+      "date": "2026-09-22",
+      "dateRegion": "GB",
+      "dateType": "digital",
+      "otherDates": [],
+      "providers": [],
+      "genres": [
+        99,
+        80
+      ],
+      "tmdbUrl": "https://www.themoviedb.org/movie/1728398",
+      "imdbUrl": "https://www.imdb.com/title/tt46659055/",
+      "homepage": null,
+      "popularity": 1.4168,
+      "sources": [],
+      "unattributed": true
     },
     {
       "id": "movie-1754053",
@@ -1960,7 +2071,264 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1754053",
       "imdbUrl": "https://www.imdb.com/title/tt43678381/",
       "homepage": "https://boundlessdoc.com/",
-      "popularity": 1.2217,
+      "popularity": 1.1733,
+      "sources": [],
+      "unattributed": true
+    },
+    {
+      "id": "movie-1777847",
+      "kind": "film",
+      "title": "70 Up: The Victorians",
+      "originalTitle": null,
+      "year": 2026,
+      "overview": "70 Up: The Victorians - A year after the 7Up children looked to Britain’s future, the filmmakers flipped the script and looked to its past. Hear the incredible stories of people born in Victorian Britain",
+      "poster": "https://image.tmdb.org/t/p/w342/jrtkAc59jQNQYM3WuWRPbkxGXt0.jpg",
+      "runtime": 25,
+      "director": null,
+      "date": "2026-09-22",
+      "dateRegion": "GB",
+      "dateType": "theatrical",
+      "otherDates": [],
+      "providers": [],
+      "genres": [
+        99
+      ],
+      "tmdbUrl": "https://www.themoviedb.org/movie/1777847",
+      "imdbUrl": null,
+      "homepage": null,
+      "popularity": 0.8567,
+      "sources": [],
+      "unattributed": true
+    },
+    {
+      "id": "movie-1776418",
+      "kind": "film",
+      "title": "42 Marathons In One Year: A Story Of Grief And Love",
+      "originalTitle": null,
+      "year": 2026,
+      "overview": "In 2025, Jess took on the incredible challenge of running 42 marathons to celebrate what would have been her brother Eddie’s 42nd year.  On 15th June 2021, Jess’s world was shattered when Eddie died in an accident. He was her oldest brother, but he was so much more than that. Eddie was her rock, her parent figure, and her best friend all rolled into one.  Having already lost both of her parents far too young, Jess has struggled deeply with grief over the years. Losing Eddie was another devastating loss, and for a long time it was difficult to imagine how happiness could ever exist alongside the grief. But Jess has come to realise that it can.  Through her 42-marathon journey, Jess wanted to show that it is possible to carry grief while still finding reasons to live, laugh, challenge yourself and be happy. She hopes her story can offer comfort and hope to others who are struggling with loss, and remind them that they are not alone.",
+      "poster": "https://image.tmdb.org/t/p/w342/ctGt5OaZ42rXdG91vUZijIy2g1u.jpg",
+      "runtime": 36,
+      "director": null,
+      "date": "2026-09-22",
+      "dateRegion": "GB",
+      "dateType": "digital",
+      "otherDates": [],
+      "providers": [],
+      "genres": [
+        99
+      ],
+      "tmdbUrl": "https://www.themoviedb.org/movie/1776418",
+      "imdbUrl": null,
+      "homepage": null,
+      "popularity": 0.4446,
+      "sources": [],
+      "unattributed": true
+    },
+    {
+      "id": "movie-1776591",
+      "kind": "film",
+      "title": "Viel Geld, wenig Sicherheit? Europa rüstet auf",
+      "originalTitle": null,
+      "year": 2026,
+      "overview": "",
+      "poster": null,
+      "runtime": null,
+      "director": "Arpad Bondy",
+      "date": "2026-09-22",
+      "dateRegion": null,
+      "dateType": "unknown",
+      "otherDates": [],
+      "providers": [],
+      "genres": [
+        99
+      ],
+      "tmdbUrl": "https://www.themoviedb.org/movie/1776591",
+      "imdbUrl": null,
+      "homepage": null,
+      "popularity": 0.2834,
+      "sources": [
+        "arte"
+      ],
+      "unattributed": false
+    },
+    {
+      "id": "tv-331689",
+      "kind": "series",
+      "title": "Scotland's Golden Coast",
+      "originalTitle": null,
+      "year": 2026,
+      "overview": "Filmed during Scotland’s busy summer season in August 2026, the series follows people who live and work along this remarkable coastline as they welcome visitors from near and far, balancing thriving local businesses with the responsibility of preserving the history, character and natural beauty of the places they are proud to call home.  From the ancient woodlands and shifting dune forests of Tentsmuir, where the North Sea continues to add to the shoreline, to the puffin colonies of the Isle of May National Nature Reserve and the dolphin-rich waters of the Moray Firth, cameras will capture the landscapes and wildlife that make this golden coast such a treasure.",
+      "poster": "https://image.tmdb.org/t/p/w342/5zHyQrH9QIC4b0Wg8CLCn622mNj.jpg",
+      "runtime": null,
+      "episodes": 10,
+      "director": null,
+      "date": "2026-09-23",
+      "dateRegion": null,
+      "dateType": "tv",
+      "otherDates": [],
+      "providers": [
+        {
+          "name": "Sky Go",
+          "logo": "https://image.tmdb.org/t/p/w92/1Yvl9eP3pmktqChitnFhHJHcBtX.png"
+        }
+      ],
+      "genres": [
+        99
+      ],
+      "tmdbUrl": "https://www.themoviedb.org/tv/331689",
+      "imdbUrl": null,
+      "homepage": "https://www.channel4.com/press/news/channel-4-commissions-scotlands-golden-coast-firecrest-films",
+      "popularity": 1.9379,
+      "sources": [],
+      "unattributed": true
+    },
+    {
+      "id": "movie-1730324",
+      "kind": "film",
+      "title": "Heartstopper: Ending on a Hi",
+      "originalTitle": null,
+      "year": 2026,
+      "overview": "After the ending of the hit Netflix series “Heartstopper”, this special combines never-before-seen behind-the-scenes footage, cast and crew interviews, larger cultural commentary, and fan input.",
+      "poster": "https://image.tmdb.org/t/p/w342/2a59ttpFeQor2sznyJA9tFPdYEx.jpg",
+      "runtime": 35,
+      "director": "Luke Hyams",
+      "date": "2026-09-24",
+      "dateRegion": "US",
+      "dateType": "digital",
+      "otherDates": [],
+      "providers": [
+        {
+          "name": "Netflix",
+          "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        }
+      ],
+      "genres": [
+        99
+      ],
+      "tmdbUrl": "https://www.themoviedb.org/movie/1730324",
+      "imdbUrl": "https://www.imdb.com/title/tt43658408/",
+      "homepage": "https://www.netflix.com/title/82947745",
+      "popularity": 2.3224,
+      "sources": [
+        "netflix"
+      ],
+      "unattributed": false
+    },
+    {
+      "id": "movie-1779649",
+      "kind": "film",
+      "title": "Des policiers à la fac",
+      "originalTitle": null,
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w342/oUVvDi9enoA2fu8uf70WViS32Bq.jpg",
+      "runtime": null,
+      "director": "Dorothée Prud'homme",
+      "date": "2026-09-24",
+      "dateRegion": null,
+      "dateType": "unknown",
+      "otherDates": [],
+      "providers": [],
+      "genres": [
+        99,
+        10770
+      ],
+      "tmdbUrl": "https://www.themoviedb.org/movie/1779649",
+      "imdbUrl": null,
+      "homepage": null,
+      "popularity": 0.1554,
+      "sources": [
+        "arte"
+      ],
+      "unattributed": false
+    },
+    {
+      "id": "movie-1781036",
+      "kind": "film",
+      "title": "Blue Lagoon",
+      "originalTitle": null,
+      "year": 2026,
+      "overview": "Blue Lagoon explores the links between industrial extraction, ecological care, and somatic release through the lens of a post-industrial North East England coastline.",
+      "poster": null,
+      "runtime": 13,
+      "director": "Alex Culshaw",
+      "date": "2026-09-24",
+      "dateRegion": "GB",
+      "dateType": "theatrical",
+      "otherDates": [],
+      "providers": [],
+      "genres": [
+        99,
+        10402
+      ],
+      "tmdbUrl": "https://www.themoviedb.org/movie/1781036",
+      "imdbUrl": null,
+      "homepage": "https://alexculshaw.com/work/blue-lagoon.html",
+      "popularity": 0.0993,
+      "sources": [],
+      "unattributed": true
+    },
+    {
+      "id": "tv-332976",
+      "kind": "series",
+      "title": "The Good Spirit: Behind the Doors of the Opus Dei",
+      "originalTitle": "El buen espíritu: Detrás de la puerta del Opus Dei",
+      "year": 2026,
+      "overview": "Fourteen men of all ages from eleven different countries recount their personal experiences within Opus Dei. Many of them held leadership positions while others were called to support the institution from the highest levels of their professional careers to expand Opus Dei. Some were sent as teenagers to countries from which they never returned.",
+      "poster": "https://image.tmdb.org/t/p/w342/5Ntpab9lfKzYLI7mTJEDS9IAPo9.jpg",
+      "runtime": null,
+      "episodes": 3,
+      "director": "Mònica Terribas",
+      "date": "2026-09-25",
+      "dateRegion": null,
+      "dateType": "tv",
+      "otherDates": [],
+      "providers": [
+        {
+          "name": "HBO Max",
+          "logo": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png"
+        }
+      ],
+      "genres": [
+        99,
+        18
+      ],
+      "tmdbUrl": "https://www.themoviedb.org/tv/332976",
+      "imdbUrl": "https://www.imdb.com/title/tt43638526/",
+      "homepage": "https://www.hbomax.com/es/es/show/64507602-e314-4ca2-ba8c-af73793f2e52",
+      "popularity": 6.2483,
+      "sources": [],
+      "unattributed": true
+    },
+    {
+      "id": "tv-334569",
+      "kind": "series",
+      "title": "Chilean Mine Rescue: Race Against Time",
+      "originalTitle": null,
+      "year": 2026,
+      "overview": "Following a mining accident in northern Chile, 33 miners are trapped deep underground. As the search for them begins, the men are fighting for their lives under extreme conditions.",
+      "poster": "https://image.tmdb.org/t/p/w342/b0AQ9aCyRtiTEKhl1au78kksSgN.jpg",
+      "runtime": null,
+      "episodes": 3,
+      "director": null,
+      "date": "2026-09-25",
+      "dateRegion": null,
+      "dateType": "tv",
+      "otherDates": [],
+      "providers": [
+        {
+          "name": "Sky Go",
+          "logo": "https://image.tmdb.org/t/p/w92/1Yvl9eP3pmktqChitnFhHJHcBtX.png"
+        }
+      ],
+      "genres": [
+        99
+      ],
+      "tmdbUrl": "https://www.themoviedb.org/tv/334569",
+      "imdbUrl": "https://www.imdb.com/title/tt45124639/",
+      "homepage": "https://www.nationalgeographic.com/tv/show/6d3c8789-0924-47ec-ad76-8603efe3f6f6",
+      "popularity": 4.28,
       "sources": [],
       "unattributed": true
     },
@@ -1971,29 +2339,22 @@
       "originalTitle": null,
       "year": 2026,
       "overview": "Featuring commentary from surviving participants, as well as other filmmakers and critics, this documentary chronicles the career of director John Boorman and the tumultuous production of his film Exorcist II: The Heretic, exploring its critical and commercial failure, how it changed the industry, and the importance of risk-taking in art.",
-      "poster": "https://image.tmdb.org/t/p/w342/gAjei5EpYkyRVB0DP9vKaQGtJSA.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/4HJzmhP8iMzkIQ7cjr2zfIcReiK.jpg",
       "runtime": 112,
       "director": "David Kittredge",
       "date": "2026-09-25",
-      "dateRegion": "IE",
-      "dateType": "theatrical",
-      "otherDates": [
-        {
-          "region": "GB",
-          "date": "2026-09-25",
-          "type": "theatrical",
-          "rank": 0,
-          "note": null
-        }
-      ],
+      "dateRegion": "GB",
+      "dateType": "limited",
+      "otherDates": [],
       "providers": [],
       "genres": [
-        99
+        99,
+        27
       ],
       "tmdbUrl": "https://www.themoviedb.org/movie/1517111",
       "imdbUrl": "https://www.imdb.com/title/tt37654454/",
       "homepage": null,
-      "popularity": 1.549,
+      "popularity": 3.0986,
       "sources": [],
       "unattributed": true
     },
@@ -2004,7 +2365,7 @@
       "originalTitle": null,
       "year": 2026,
       "overview": "Simon de Pury is a familiar face in the art world. The former chairman of Sotheby’s has a larger-than-life personality and is known as the «Mick Jagger of auctions.»",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w342/lfMYQ4DJ4xbgC5mKFC2BPSFmHZf.jpg",
       "runtime": 77,
       "director": "Simon Wallon",
       "date": "2026-09-29",
@@ -2018,7 +2379,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1766442",
       "imdbUrl": "https://www.imdb.com/title/tt28501308/",
       "homepage": null,
-      "popularity": 2.2323,
+      "popularity": 3.4158,
       "sources": [
         "submarine"
       ],
@@ -2045,7 +2406,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1756742",
       "imdbUrl": null,
       "homepage": "https://sleepapneafilm.com/",
-      "popularity": 1.0118,
+      "popularity": 1.0695,
       "sources": [],
       "unattributed": true
     },
@@ -2086,35 +2447,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1388805",
       "imdbUrl": "https://www.imdb.com/title/tt43442522/",
       "homepage": "https://unshattermovie.com",
-      "popularity": 4.8494,
-      "sources": [],
-      "unattributed": true
-    },
-    {
-      "id": "movie-1758869",
-      "kind": "film",
-      "title": "The Fighting Dinosaurs",
-      "originalTitle": null,
-      "year": 2026,
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w342/1iabAYVYBAmBWtB0HgXE4JNipwe.jpg",
-      "runtime": null,
-      "director": "David James Armsby",
-      "date": "2026-10-01",
-      "dateRegion": "GB",
-      "dateType": "digital",
-      "otherDates": [],
-      "providers": [],
-      "genres": [
-        16,
-        28,
-        18,
-        99
-      ],
-      "tmdbUrl": "https://www.themoviedb.org/movie/1758869",
-      "imdbUrl": null,
-      "homepage": null,
-      "popularity": 0.7676,
+      "popularity": 5.1586,
       "sources": [],
       "unattributed": true
     },
@@ -2154,7 +2487,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1596303",
       "imdbUrl": "https://www.imdb.com/title/tt39150288/",
       "homepage": "https://tv.apple.com/movie/umc.cmc.3qvemsb6f04actuyzdporeelt",
-      "popularity": 7.0476,
+      "popularity": 5.3973,
       "sources": [],
       "unattributed": true
     },
@@ -2187,7 +2520,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1299581",
       "imdbUrl": "https://www.imdb.com/title/tt32534849/",
       "homepage": "https://festival.sundance.org/program/film/6932fb15bd86515f5e60fb9a",
-      "popularity": 3.1959,
+      "popularity": 3.0623,
       "sources": [],
       "unattributed": true
     },
@@ -2212,7 +2545,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1438874",
       "imdbUrl": null,
       "homepage": null,
-      "popularity": 0.968,
+      "popularity": 0.8168,
       "sources": [],
       "unattributed": true
     },
@@ -2237,7 +2570,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1438857",
       "imdbUrl": null,
       "homepage": null,
-      "popularity": 0.8905,
+      "popularity": 0.7546,
       "sources": [],
       "unattributed": true
     },
@@ -2270,7 +2603,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1632638",
       "imdbUrl": "https://www.imdb.com/title/tt39688189/",
       "homepage": null,
-      "popularity": 0.5893,
+      "popularity": 0.6275,
       "sources": [],
       "unattributed": true
     },
@@ -2297,7 +2630,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1717258",
       "imdbUrl": "https://www.imdb.com/title/tt43598313/",
       "homepage": "https://barneygibbons.wixsite.com/film/travel-reminiscence",
-      "popularity": 0.6849,
+      "popularity": 0.9383,
       "sources": [],
       "unattributed": true
     },
@@ -2322,9 +2655,36 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1669763",
       "imdbUrl": null,
       "homepage": null,
-      "popularity": 1.1805,
+      "popularity": 1.0372,
       "sources": [],
       "unattributed": true
+    },
+    {
+      "id": "movie-1557817",
+      "kind": "film",
+      "title": "André Leon Talley — Style is Forever",
+      "originalTitle": null,
+      "year": 2026,
+      "overview": "André Leon Talley was a trailblazing fashion icon whose influence spanned nearly five decades. This documentary explores his legacy of inclusivity, elegance, and the fearless pursuit of authenticity. Interviews with Anna Wintour, Tom Ford and Diane von Furstenberg, among others, as well as never-before-seen footage, reveal Talley’s personal and professional challenges and remarkable triumphs.",
+      "poster": "https://image.tmdb.org/t/p/w342/tXu0gXfAtTOKFhScTCfsfzb6wFv.jpg",
+      "runtime": 83,
+      "director": "Zach Stafford",
+      "date": "2026-10-09",
+      "dateRegion": "US",
+      "dateType": "theatrical",
+      "otherDates": [],
+      "providers": [],
+      "genres": [
+        99
+      ],
+      "tmdbUrl": "https://www.themoviedb.org/movie/1557817",
+      "imdbUrl": "https://www.imdb.com/title/tt39216435/",
+      "homepage": "https://films.scad.edu/andre-leon-talley-style-is-forever",
+      "popularity": 0.9479,
+      "sources": [
+        "greenwich"
+      ],
+      "unattributed": false
     },
     {
       "id": "movie-1678239",
@@ -2355,36 +2715,9 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1678239",
       "imdbUrl": "https://www.imdb.com/title/tt41973739/",
       "homepage": null,
-      "popularity": 0.8465,
+      "popularity": 0.9417,
       "sources": [],
       "unattributed": true
-    },
-    {
-      "id": "movie-1557817",
-      "kind": "film",
-      "title": "André Leon Talley — Style is Forever",
-      "originalTitle": null,
-      "year": 2026,
-      "overview": "André Leon Talley was a trailblazing fashion icon whose influence spanned nearly five decades. This documentary explores his legacy of inclusivity, elegance, and the fearless pursuit of authenticity. Interviews with Anna Wintour, Tom Ford and Diane von Furstenberg, among others, as well as never-before-seen footage, reveal Talley’s personal and professional challenges and remarkable triumphs.",
-      "poster": "https://image.tmdb.org/t/p/w342/tXu0gXfAtTOKFhScTCfsfzb6wFv.jpg",
-      "runtime": 83,
-      "director": "Zach Stafford",
-      "date": "2026-10-09",
-      "dateRegion": "US",
-      "dateType": "theatrical",
-      "otherDates": [],
-      "providers": [],
-      "genres": [
-        99
-      ],
-      "tmdbUrl": "https://www.themoviedb.org/movie/1557817",
-      "imdbUrl": "https://www.imdb.com/title/tt39216435/",
-      "homepage": "https://films.scad.edu/andre-leon-talley-style-is-forever",
-      "popularity": 0.7108,
-      "sources": [
-        "greenwich"
-      ],
-      "unattributed": false
     },
     {
       "id": "movie-1603262",
@@ -2392,8 +2725,8 @@
       "title": "Everest: The Other Side",
       "originalTitle": null,
       "year": 2026,
-      "overview": "An intimate portrait of two people bound by love, ambition, and the pursuit of the impossible. Elite ski mountaineers Jim Morrison and Hilaree Nelson fell deeply in love while reaching the pinnacle of their sport. Their drive sharpened into a shared dream: to climb and ski the direct North Face of Mount Everest - the most difficult and dangerous climb on the mountain and the most coveted ski line on Earth - something only a handful have ever achieved, and no one has successfully skied down.",
-      "poster": "https://image.tmdb.org/t/p/w342/yE86EFh0niJM9W84NWbR7s9VoT3.jpg",
+      "overview": "Elite ski mountaineers Jim Morrison and Hilaree Nelson fell deeply in love while reaching the pinnacle of their sport: Everest's north face.",
+      "poster": "https://image.tmdb.org/t/p/w342/2m9ts8LfjG8d4xcUtx66aApngJL.jpg",
       "runtime": 115,
       "director": "Jimmy Chin",
       "date": "2026-10-10",
@@ -2415,7 +2748,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1603262",
       "imdbUrl": "https://www.imdb.com/title/tt37542585/",
       "homepage": null,
-      "popularity": 2.575,
+      "popularity": 2.5659,
       "sources": [
         "natgeo-docs"
       ],
@@ -2442,7 +2775,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1769897",
       "imdbUrl": null,
       "homepage": null,
-      "popularity": 0.5554,
+      "popularity": 0.648,
       "sources": [],
       "unattributed": true
     },
@@ -2475,11 +2808,73 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1113623",
       "imdbUrl": "https://www.imdb.com/title/tt27371518/",
       "homepage": null,
-      "popularity": 1.4559,
+      "popularity": 2.1064,
       "sources": [
         "natgeo-docs"
       ],
       "unattributed": false
+    },
+    {
+      "id": "movie-1771719",
+      "kind": "film",
+      "title": "Lady Liberty: Secrets of an Icon",
+      "originalTitle": "Liberté, la statue qui voulait changer le monde",
+      "year": 2026,
+      "overview": "This iconic statue was a gift from France to the new-born American Republic and was the first crowd-funded monument of all time. A symbol of emancipation and freedom, which took two decades to be completed. The film features original 3D virtual reconstitutions of Auguste Bartholdi’s Atelier in Paris and travels back in time to bring viewers at the heart of the Statue’s original construction, revealing the founding ideals of our democracies.",
+      "poster": "https://image.tmdb.org/t/p/w342/pFiBwmii7UJnEEoslEXKzbzy2bU.jpg",
+      "runtime": 89,
+      "director": "Julien Johan",
+      "date": "2026-10-15",
+      "dateRegion": "US",
+      "dateType": "limited",
+      "otherDates": [],
+      "providers": [],
+      "genres": [
+        99,
+        36,
+        18
+      ],
+      "tmdbUrl": "https://www.themoviedb.org/movie/1771719",
+      "imdbUrl": "https://www.imdb.com/title/tt45383566/",
+      "homepage": "https://www.terranoa.com/en/one-off/liberte-la-statue-qui-voulait-changer-le-monde-2831",
+      "popularity": 3.5649,
+      "sources": [
+        "arte"
+      ],
+      "unattributed": false
+    },
+    {
+      "id": "movie-1620918",
+      "kind": "film",
+      "title": "Norm: The Tale of Norm Macdonald",
+      "originalTitle": null,
+      "year": 2026,
+      "overview": "Built entirely from archival footage, personal photos, and rare home videos contributed by fans and friends, Norm tell his own story in his own voice.",
+      "poster": "https://image.tmdb.org/t/p/w342/2MSC7OTyv04M4eJwqLTLpW9IGB5.jpg",
+      "runtime": null,
+      "director": "Judd Apatow",
+      "date": "2026-10-16",
+      "dateRegion": "GB",
+      "dateType": "digital",
+      "otherDates": [
+        {
+          "region": "US",
+          "date": "2026-10-16",
+          "type": "digital",
+          "rank": 2,
+          "note": "Netflix"
+        }
+      ],
+      "providers": [],
+      "genres": [
+        99
+      ],
+      "tmdbUrl": "https://www.themoviedb.org/movie/1620918",
+      "imdbUrl": "https://www.imdb.com/title/tt44822485/",
+      "homepage": null,
+      "popularity": 2.8171,
+      "sources": [],
+      "unattributed": true
     },
     {
       "id": "movie-1506696",
@@ -2502,7 +2897,40 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1506696",
       "imdbUrl": null,
       "homepage": "http://www.matthewberka.net",
-      "popularity": 0.8938,
+      "popularity": 0.6922,
+      "sources": [],
+      "unattributed": true
+    },
+    {
+      "id": "movie-1775096",
+      "kind": "film",
+      "title": "Enter the Television",
+      "originalTitle": null,
+      "year": 2026,
+      "overview": "From Tom Seymour creator of the VHS Massacre Trilogy. Enter the Television is a feature-length documentary exploring the dark corners of television from obscure commercials to unconventional cable programming. It examines the evolution of media through an underground lens, revealing how independent voices survive within systems controlled by powerful media corporations.",
+      "poster": "https://image.tmdb.org/t/p/w342/j16NRU3EZV9krlJJvTR8lkypTWE.jpg",
+      "runtime": 74,
+      "director": "Thomas Edward Seymour",
+      "date": "2026-10-20",
+      "dateRegion": "GB",
+      "dateType": "theatrical",
+      "otherDates": [
+        {
+          "region": "US",
+          "date": "2026-09-20",
+          "type": "theatrical",
+          "rank": 0,
+          "note": " Arizona Underground Film Festival"
+        }
+      ],
+      "providers": [],
+      "genres": [
+        99
+      ],
+      "tmdbUrl": "https://www.themoviedb.org/movie/1775096",
+      "imdbUrl": "https://www.imdb.com/title/tt39117304/",
+      "homepage": "https://vhsmassacre.com/our-films/enter-the-television-pre-production/",
+      "popularity": 1.1714,
       "sources": [],
       "unattributed": true
     },
@@ -2527,40 +2955,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1749734",
       "imdbUrl": null,
       "homepage": "https://awaydays.tv/",
-      "popularity": 0.885,
-      "sources": [],
-      "unattributed": true
-    },
-    {
-      "id": "movie-1775096",
-      "kind": "film",
-      "title": "Enter the Television",
-      "originalTitle": null,
-      "year": 2026,
-      "overview": "From Tom Seymour creator of the VHS Massacre Trilogy. Enter the Television is a feature-length documentary exploring the dark corners of television from obscure commercials to unconventional cable programming. It examines the evolution of media through an underground lens, revealing how independent voices survive within systems controlled by powerful media corporations.",
-      "poster": "https://image.tmdb.org/t/p/w342/j16NRU3EZV9krlJJvTR8lkypTWE.jpg",
-      "runtime": 74,
-      "director": null,
-      "date": "2026-10-20",
-      "dateRegion": "GB",
-      "dateType": "theatrical",
-      "otherDates": [
-        {
-          "region": "US",
-          "date": "2026-09-20",
-          "type": "theatrical",
-          "rank": 0,
-          "note": " Arizona Underground Film Festival"
-        }
-      ],
-      "providers": [],
-      "genres": [
-        99
-      ],
-      "tmdbUrl": "https://www.themoviedb.org/movie/1775096",
-      "imdbUrl": "https://www.imdb.com/title/tt39117304/",
-      "homepage": "https://vhsmassacre.com/our-films/enter-the-television-pre-production/",
-      "popularity": 0.0143,
+      "popularity": 0.6743,
       "sources": [],
       "unattributed": true
     },
@@ -2572,7 +2967,7 @@
       "year": 2026,
       "overview": "A powerful return to roots, this concert captures Black Sabbath in peak form - reuniting to deliver classic hits with raw energy and legendary precision.",
       "poster": "https://image.tmdb.org/t/p/w342/iO8vwdtmOivoyUguheJtDLXp2Gq.jpg",
-      "runtime": null,
+      "runtime": 147,
       "director": "Ben Wainwright-Pearce",
       "date": "2026-10-28",
       "dateRegion": "GB",
@@ -2592,9 +2987,9 @@
         99
       ],
       "tmdbUrl": "https://www.themoviedb.org/movie/1515139",
-      "imdbUrl": "https://www.imdb.com/title/tt37533340/",
+      "imdbUrl": "https://www.imdb.com/title/tt46055956/",
       "homepage": "https://backtothebeginning.com/",
-      "popularity": 2.7819,
+      "popularity": 3.7333,
       "sources": [],
       "unattributed": true
     },
@@ -2619,7 +3014,32 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1575273",
       "imdbUrl": null,
       "homepage": null,
-      "popularity": 0.6593,
+      "popularity": 0.5429,
+      "sources": [],
+      "unattributed": true
+    },
+    {
+      "id": "movie-1778040",
+      "kind": "film",
+      "title": "Beyond",
+      "originalTitle": null,
+      "year": 2026,
+      "overview": "Beyond follows people living with and beyond cancer as they discover strength, connection, and a new sense of possibility through climbing. Set between indoor walls and wild mountain rock, it is a powerful story about recovery becoming adventure.",
+      "poster": null,
+      "runtime": 25,
+      "director": "Ben Menashe",
+      "date": "2026-11-05",
+      "dateRegion": "GB",
+      "dateType": "limited",
+      "otherDates": [],
+      "providers": [],
+      "genres": [
+        99
+      ],
+      "tmdbUrl": "https://www.themoviedb.org/movie/1778040",
+      "imdbUrl": null,
+      "homepage": null,
+      "popularity": 0.3661,
       "sources": [],
       "unattributed": true
     },
@@ -2630,7 +3050,7 @@
       "originalTitle": null,
       "year": 2026,
       "overview": "A stunning delve into George Michael's 1988 Faith Tour, as shot live at the famous Palais Omnisports de Paris-Bercy. This exclusive footage, assembled from a 14-camera shoot captured on 35mm over two nights (30–31 May 1988), features the 24-year-old pop star at the height of his powers.",
-      "poster": "https://image.tmdb.org/t/p/w342/sMksgsvrU6h0dmTILD8x5dUlXrt.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/LXqHnaJ4ffkcx5YCuJN1noxkhr.jpg",
       "runtime": 113,
       "director": "Andy Morahan",
       "date": "2026-11-06",
@@ -2653,7 +3073,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1649403",
       "imdbUrl": "https://www.imdb.com/title/tt40564737/",
       "homepage": "https://www.georgemichael.com/",
-      "popularity": 1.8445,
+      "popularity": 2.0096,
       "sources": [],
       "unattributed": true
     },
@@ -2693,7 +3113,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1754364",
       "imdbUrl": "https://www.imdb.com/title/tt43656794/",
       "homepage": null,
-      "popularity": 1.7605,
+      "popularity": 1.7381,
       "sources": [],
       "unattributed": true
     },
@@ -2727,7 +3147,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1652192",
       "imdbUrl": "https://www.imdb.com/title/tt40581841/",
       "homepage": null,
-      "popularity": 1.4143,
+      "popularity": 1.6795,
       "sources": [],
       "unattributed": true
     },
@@ -2752,7 +3172,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1637730",
       "imdbUrl": null,
       "homepage": null,
-      "popularity": 1.8439,
+      "popularity": 1.4739,
       "sources": [
         "arte"
       ],
@@ -2764,7 +3184,7 @@
       "title": "1 in 2",
       "originalTitle": null,
       "year": 2026,
-      "overview": "Nearly one in two of us will be diagnosed with cancer at some point in our lives. David Nicholas Wilkinson is one of them, twice over. In 2020, a colonoscopy found his bowel to be extremely healthy for a man his age. In 2023, a FIT test came back clear and, like almost everyone who takes one, he assumed that meant the all-clear. In 2024, a second colonoscopy found bowel cancer. Stage 4. He was told his tumour was 5-6 years old. What went wrong? A FIT test looks for blood. Wilkinson’s tumour never bled. Nor do a great many others.  1 IN 2 follows Wilkinson through his own treatment, where he discovers a steep rise in bowel cancer among people far too young to be screened for it, and far too young, it seems, to be believed. Among those who tell him their stories is a bowel surgeon whose own symptoms were dismissed by her oncologist colleagues and in part by herself because she was only 44.",
+      "overview": "Nearly one in two of us will be diagnosed with cancer at some point in our lives. David Nicholas Wilkinson is one of them, twice over. 1 in 2 follows Wilkinson through his own treatment, where he discovers a steep rise in bowel cancer among people far too young to be screened for it, and far too young, it seems, to be believed.",
       "poster": "https://image.tmdb.org/t/p/w342/7hudlkH1rGKVaMR4phOKYPCfJX7.jpg",
       "runtime": 142,
       "director": "David Wilkinson",
@@ -2779,7 +3199,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1771402",
       "imdbUrl": "https://www.imdb.com/title/tt33506764/",
       "homepage": null,
-      "popularity": 0.4568,
+      "popularity": 0.8928,
       "sources": [],
       "unattributed": true
     },
@@ -2804,7 +3224,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1748010",
       "imdbUrl": null,
       "homepage": null,
-      "popularity": 0.9868,
+      "popularity": 1.4367,
       "sources": [],
       "unattributed": true
     },
@@ -2837,7 +3257,7 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1596332",
       "imdbUrl": "https://www.imdb.com/title/tt39149951/",
       "homepage": "https://americandoctorfilm.com/",
-      "popularity": 3.1715,
+      "popularity": 2.4337,
       "sources": [],
       "unattributed": true
     },
@@ -2862,7 +3282,32 @@
       "tmdbUrl": "https://www.themoviedb.org/movie/1749739",
       "imdbUrl": null,
       "homepage": "https://awaydays.tv/",
-      "popularity": 1.1327,
+      "popularity": 0.6158,
+      "sources": [],
+      "unattributed": true
+    },
+    {
+      "id": "movie-1643130",
+      "kind": "film",
+      "title": "Remember the Summit",
+      "originalTitle": null,
+      "year": 2026,
+      "overview": "Sir Chris Bonington’s return to Torres del Paine, 62 years after the first ascent of the Central Tower.  At 91 years old, and while living with Alzheimer’s disease, the documentary accompanies Bonington in a profoundly human return: an attempt to reconnect with memories that time has erased, but that the Patagonian landscape still seems to guard. During the filming, Chris once again set foot on the territory of Estancia Cerro Guido, closing a circle between past and present, between the epic of mountaineering and the fragility of memory.",
+      "poster": "https://image.tmdb.org/t/p/w342/fsGVbF7W0YCivuabOJRHuJulUTq.jpg",
+      "runtime": null,
+      "director": "Timothy Dhalleine",
+      "date": "2026-11-21",
+      "dateRegion": "GB",
+      "dateType": "limited",
+      "otherDates": [],
+      "providers": [],
+      "genres": [
+        99
+      ],
+      "tmdbUrl": "https://www.themoviedb.org/movie/1643130",
+      "imdbUrl": null,
+      "homepage": null,
+      "popularity": 0.9599,
       "sources": [],
       "unattributed": true
     }
