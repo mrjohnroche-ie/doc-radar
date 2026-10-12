@@ -5,13 +5,13 @@
     <link>https://doc-radar-weld.vercel.app</link>
     <description>Upcoming documentary releases from the distributors, broadcasters, streamers and sales agents that matter. Updated weekly.</description>
     <language>en-ie</language>
-    <lastBuildDate>Mon, 05 Oct 2026 06:12:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 06:12:13 GMT</lastBuildDate>
     <item>
-      <title>The Last First: Winter K2 (Apple Original Films)</title>
-      <link>https://www.themoviedb.org/movie/1596303</link>
-      <guid isPermaLink="false">movie-1596303</guid>
-      <pubDate>Fri, 02 Oct 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Amir Bar-Lev. A historic race to become the first to summit K2 in winter unravels into tragedy, exposing how ambition, ego, and the pursuit of glory can be as dangerous as the mountain itself.</description>
+      <title>Sam and Colby: Paranormal Investigators (Netflix)</title>
+      <link>https://www.themoviedb.org/tv/337188</link>
+      <guid isPermaLink="false">tv-337188</guid>
+      <pubDate>Thu, 01 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Best friends Sam and Colby visit some of the world’s most haunted locations in search of paranormal evidence, trying to answer one question: Are ghosts real?</description>
     </item>
     <item>
       <title>Africa Earth's Wild Home</title>
@@ -19,6 +19,13 @@
       <guid isPermaLink="false">tv-334888</guid>
       <pubDate>Fri, 02 Oct 2026 09:00:00 GMT</pubDate>
       <description>African wildlife and landscapes is brought to the screen like never before, using the latest technology to tell the most extraordinary stories from the continent and cutting-edge CGI to unearth the deep history and forces that shaped Africa's natural worlds.</description>
+    </item>
+    <item>
+      <title>The Last First: Winter K2 (Apple Original Films)</title>
+      <link>https://www.themoviedb.org/movie/1596303</link>
+      <guid isPermaLink="false">movie-1596303</guid>
+      <pubDate>Fri, 02 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Amir Bar-Lev. A historic race to become the first to summit K2 in winter unravels into tragedy, exposing how ambition, ego, and the pursuit of glory can be as dangerous as the mountain itself.</description>
     </item>
     <item>
       <title>Try!</title>
@@ -42,11 +49,25 @@
       <description>Directed by Alex Gibney. In 2022, Salman Rushdie was preparing to deliver a lecture on the United States as a safe haven for writers when a man rushed the stage and, in 27 seconds, stabbed him 15 times. Airlifted to hospital, Rushdie survived, barely, and his wife Rachel Eliza Griffiths began filming immediately, capturing an unfiltered view of his recovery, return to life and how he regained his spirit and hope for the future.</description>
     </item>
     <item>
-      <title>Secrets of the Southwest: Science Behind the Secrets</title>
-      <link>https://www.themoviedb.org/movie/1438857</link>
-      <guid isPermaLink="false">movie-1438857</guid>
+      <title>Woven Ground</title>
+      <link>https://www.themoviedb.org/movie/1785330</link>
+      <guid isPermaLink="false">movie-1785330</guid>
       <pubDate>Fri, 02 Oct 2026 09:00:00 GMT</pubDate>
-      <description>Meet the inspiring individuals and communities who work to protect our most beloved UK wildlife.</description>
+      <description>Directed by Blair Coron. Composer Blair Coron takes his musical instruments, recording equipment and friends to the islands, glens and forests of Scotland to record directly in the landscapes that inspired the music.</description>
+    </item>
+    <item>
+      <title>Inside the mind of Karl Ove Knausgård</title>
+      <link>https://www.themoviedb.org/movie/1788629</link>
+      <guid isPermaLink="false">movie-1788629</guid>
+      <pubDate>Fri, 02 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Ben Falk. BBC Documentary about the most famous Norwegian writer, Karl Ove Knausgård, author of My Struggle.</description>
+    </item>
+    <item>
+      <title>Hide and Seek</title>
+      <link>https://www.themoviedb.org/movie/1559353</link>
+      <guid isPermaLink="false">movie-1559353</guid>
+      <pubDate>Fri, 02 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Baysalt Gui. This documentary follows two long-lost Ukrainian friends, Arsalan and Nastya, as they reconnect in Germany after russia's full-scale invasion against Ukraine.  Arsalan, an actor now in Frankfurt after time in a refugee camp, and Nastya, journalist and producer who stayed in Kyiv, reflect on the divergent paths their lives have taken due to the war. Through their conversations and therapy sessions, the film explores themes of displacement, identity, and the emotional impact of war on youth.</description>
     </item>
     <item>
       <title>Secrets of the Southwest</title>
@@ -56,14 +77,14 @@
       <description>Discover the hidden stories Britain's southwest has to offer. From Foxes fighting on the streets of Bristol to Puffins looking for love on Skomer Island.</description>
     </item>
     <item>
-      <title>Woven Ground</title>
-      <link>https://www.themoviedb.org/movie/1785330</link>
-      <guid isPermaLink="false">movie-1785330</guid>
+      <title>Secrets of the Southwest: Science Behind the Secrets</title>
+      <link>https://www.themoviedb.org/movie/1438857</link>
+      <guid isPermaLink="false">movie-1438857</guid>
       <pubDate>Fri, 02 Oct 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Blair Coron. Composer Blair Coron takes his musical instruments, recording equipment and friends to the islands, glens and forests of Scotland to record directly in the landscapes that inspired the music.</description>
+      <description>Meet the inspiring individuals and communities who work to protect our most beloved UK wildlife.</description>
     </item>
     <item>
-      <title>Schumacher '94 - The Birth of a Legend (Netflix)</title>
+      <title>Schumacher ’94 – The Birth of a Legend (Netflix)</title>
       <link>https://www.themoviedb.org/movie/1752355</link>
       <guid isPermaLink="false">movie-1752355</guid>
       <pubDate>Sat, 03 Oct 2026 09:00:00 GMT</pubDate>
@@ -84,6 +105,20 @@
       <description>Directed by Barney Gibbons. At a London community centre, facilitators and volunteers run a travel-themed session for people living with dementia and their families, friends and carers.  Together, the group embarks on a playful journey: discussing past trips, revisiting these through theatre, and writing postcards to loved ones.</description>
     </item>
     <item>
+      <title>Damilola Taylor: The Untold Story</title>
+      <link>https://www.themoviedb.org/movie/1657888</link>
+      <guid isPermaLink="false">movie-1657888</guid>
+      <pubDate>Mon, 05 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Alex Thomas. Ten-year-old Damilola Taylor was fatally stabbed in 2000 in a stairwell in Peckham, South East London, just metres from his home. 'Star Wars' star John Boyega, who also grew up in Peckham, speaks for the first time about being one of the last people to see him alive, sharing the fear and uncertainty that followed in the aftermath of Taylor's death. Boyega is joined by close friends and family members of Taylor, who reveal the events that led to his death and talk for the first time about the impact his tragic murder has had in shaping their lives.</description>
+    </item>
+    <item>
+      <title>Karl</title>
+      <link>https://www.themoviedb.org/movie/1537630</link>
+      <guid isPermaLink="false">movie-1537630</guid>
+      <pubDate>Mon, 05 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Nick Hooker. “I have spent so much time playing a role that it’s almost impossible for anyone to know who I really am,” Karl Lagerfeld once proclaimed. The German fashion designer, creative director and cultural force, who dominated the world of fashion for more than seven decades, is finally revealed in ravishing detail.</description>
+    </item>
+    <item>
       <title>The Dance of the Kokorrdit</title>
       <link>https://www.themoviedb.org/movie/1669763</link>
       <guid isPermaLink="false">movie-1669763</guid>
@@ -91,11 +126,53 @@
       <description>Directed by Elio B Cunampio. A Wounaan teenager and a leader of their community venture into the Darién in search of a sacred bird. Along the way, they will face the dangers that threaten their territory and their culture.</description>
     </item>
     <item>
+      <title>The Fight to Be Heard</title>
+      <link>https://www.themoviedb.org/movie/1791828</link>
+      <guid isPermaLink="false">movie-1791828</guid>
+      <pubDate>Mon, 05 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Leah Rustomjee. The Amnesty International UK explores the human stories behind protest and the growing pressures faced by protesters in the UK today.</description>
+    </item>
+    <item>
+      <title>Who Is Martin Mull? (Netflix)</title>
+      <link>https://www.themoviedb.org/movie/1756138</link>
+      <guid isPermaLink="false">movie-1756138</guid>
+      <pubDate>Wed, 07 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Neil Berkeley. Discover Martin Mull's restless reinvention from smoky folk clubs to primetime sitcoms to gallery walls, told in his own words and by the friends who watched it happen, including Steve Martin, Tom Waits, David Alan Grier and others.</description>
+    </item>
+    <item>
+      <title>The Serial Killer Connection</title>
+      <link>https://www.themoviedb.org/tv/337700</link>
+      <guid isPermaLink="false">tv-337700</guid>
+      <pubDate>Wed, 07 Oct 2026 09:00:00 GMT</pubDate>
+      <description>The series investigates serial killer Richard “Marc” Evonitz, who kidnapped, assaulted, and murdered multiple young girls (including Sofia Marlene Silva, Kristin Michelle Lisk, and Kathryn Nicole Lisk</description>
+    </item>
+    <item>
+      <title>Landscapes of Shame</title>
+      <link>https://www.themoviedb.org/movie/1781368</link>
+      <guid isPermaLink="false">movie-1781368</guid>
+      <pubDate>Wed, 07 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Patrick Hough. Navigating Ireland’s haunted landscapes, ecological extinction and cultural suppression emerge as intertwined forms of colonial erasure.</description>
+    </item>
+    <item>
+      <title>The World Came Flooding In</title>
+      <link>https://www.themoviedb.org/movie/1637977</link>
+      <guid isPermaLink="false">movie-1637977</guid>
+      <pubDate>Wed, 07 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Isobel Knowles. The World Came Flooding In is an immersive VR documentary reconstructing memories of the eastern Australia floods in 2022, which is representative of similar events that happened recently in various parts of the world.</description>
+    </item>
+    <item>
       <title>Oasis: Don't Look Back in Anger</title>
       <link>https://www.themoviedb.org/movie/1447853</link>
       <guid isPermaLink="false">movie-1447853</guid>
       <pubDate>Fri, 09 Oct 2026 09:00:00 GMT</pubDate>
       <description>Directed by Dylan Southern. Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.</description>
+    </item>
+    <item>
+      <title>The Disciple: A Wu-Tang Fable</title>
+      <link>https://www.themoviedb.org/movie/1596285</link>
+      <guid isPermaLink="false">movie-1596285</guid>
+      <pubDate>Fri, 09 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Joanna Natasegara. An outsider fueled by relentless determination works his way into the inner circle of the Wu-Tang Clan, where his ambition and creativity converge in the making of an album poised to ignite global controversy.</description>
     </item>
     <item>
       <title>André Leon Talley — Style is Forever (Greenwich Entertainment)</title>
@@ -112,11 +189,53 @@
       <description>Directed by Cara Holmes. In a silenced Ireland, a community of lesbians builds an underground network of helplines - offering connection, survival, and defiance through the simple act of answering the phone.</description>
     </item>
     <item>
-      <title>Everest: The Other Side (National Geographic Documentary Films)</title>
-      <link>https://www.themoviedb.org/movie/1603262</link>
-      <guid isPermaLink="false">movie-1603262</guid>
+      <title>Le grand jeu de Jessica Chastain (ARTE)</title>
+      <link>https://www.themoviedb.org/movie/1792851</link>
+      <guid isPermaLink="false">movie-1792851</guid>
+      <pubDate>Fri, 09 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Patrick Boudet.</description>
+    </item>
+    <item>
+      <title>The Sound We Make Together</title>
+      <link>https://www.themoviedb.org/movie/1791563</link>
+      <guid isPermaLink="false">movie-1791563</guid>
+      <pubDate>Fri, 09 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Maddalena Cagol. Striving for fame, is that the right reason to be head over heels in the competitive music industry? It's no secret that the music industry is one of the toughest out there…creative slumps, isolation, the fear of 'not making it' and failure. So, we introduce The Hills Brothers, a brotherly duo of musicians, local to Portsmouth, who spend their nights hosting several Open Mic nights all over Portsmouth and Hampshire. Take a deeper look into why they find these Open Mic nights more than just a fun night to express yourself and your music. Understand why these nights create a community for musicians and why venues like Casemates are essential for the artists support.</description>
+    </item>
+    <item>
+      <title>Mucker</title>
+      <link>https://www.themoviedb.org/movie/1791598</link>
+      <guid isPermaLink="false">movie-1791598</guid>
+      <pubDate>Fri, 09 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Titus Fossgard-Moser. Mucker provides a fascinating insight into the professional and personal life of the pioneering and award winning British documentary film maker Brian Moser.</description>
+    </item>
+    <item>
+      <title>The Great Maia</title>
+      <link>https://www.themoviedb.org/movie/1758549</link>
+      <guid isPermaLink="false">movie-1758549</guid>
       <pubDate>Sat, 10 Oct 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Jimmy Chin. An intimate portrait of two people bound by love, ambition, and the pursuit of the impossible. Elite ski mountaineers Jim Morrison and Hilaree Nelson fell deeply in love while reaching the pinnacle of their sport. Their drive sharpened into a shared dream: to climb and ski the direct North Face of Mount Everest—the most difficult and dangerous climb on the mountain and the most coveted ski line on Earth—something only a handful have ever achieved, and no one has successfully skied down.</description>
+      <description>Directed by David James Armsby. &quot;Great Maia&quot; is an extra-special film of the &quot;Dinosauria Animated Series&quot;, it is set in the Two Medicine Formation during the Late Cretaceous and follows a young first-time mother Maiasaura as she tries to protect her first clutch of eggs.</description>
+    </item>
+    <item>
+      <title>Dreamscape</title>
+      <link>https://www.themoviedb.org/movie/1791595</link>
+      <guid isPermaLink="false">movie-1791595</guid>
+      <pubDate>Sat, 10 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Meray Diner. Dreamscape is a quest on the weight of times we never imagined would become our reality. In the quiet hours of sleep, when our defenses soften, buried emotions rise to the surface, often more vivid than waking life. For those shaped by migration and marked by generational trauma, dreams become both a refuge and a mirror. This film explores how the unconscious mind reflects collective and personal struggle. It journeys through the inner worlds we create to survive, to heal, and to simply endure whether that's building coping mechanisms through faith, art, somatics or activism.</description>
+    </item>
+    <item>
+      <title>Cosmic Symphony</title>
+      <link>https://www.themoviedb.org/movie/1768600</link>
+      <guid isPermaLink="false">movie-1768600</guid>
+      <pubDate>Sun, 11 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Laura Karpman. Four iconic instruments, including The Wizard of Oz and A Star Is Born pianos, all lost in the 2025 Los Angeles Fires, are celebrated by their musicians, culminating in an animated send-off towards an imagined future, a Cosmic Symphony. Directed by Oscar-nominated composer Laura Karpman, and featuring John Clayton, Susie Chung, Starr Parodi and Diane Warren, Cosmic Symphony explores a truth that every musician knows - musical instruments have souls.</description>
+    </item>
+    <item>
+      <title>The Fall and Rise of the Barras</title>
+      <link>https://www.themoviedb.org/movie/1794685</link>
+      <guid isPermaLink="false">movie-1794685</guid>
+      <pubDate>Sun, 11 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Gavin Lundy. Director Gavin Lundy explores the resurgence of Glasgow's famous Barras Market only to find new questions of identity in a changing city.</description>
     </item>
     <item>
       <title>Always Lalisa</title>
@@ -133,11 +252,11 @@
       <description>Directed by Ganna Tretiak. A feature-length documentary exploring the profound inner metamorphosis of Ukrainian civilians from the creative sector who chose to enlist as soldiers to defend their country. The film maps the deep psychological and lifestyle shifts experienced by musicians, artists, and filmmakers as they stepped away from civilian art to enter the realities of war.</description>
     </item>
     <item>
-      <title>Carl Sagan: We Are Made of Star Stuff (National Geographic Documentary Films)</title>
+      <title>We Are Made of Star Stuff (National Geographic Documentary Films)</title>
       <link>https://www.themoviedb.org/movie/1113623</link>
       <guid isPermaLink="false">movie-1113623</guid>
       <pubDate>Wed, 14 Oct 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Nanette Burstein. Serving as an intimate and cinematic portrait of Sagan, the Untitled Carl Sagan Documentary will explore his love story with partner Ann Druyan and with science. The film will include exclusive audio recordings, archival clips and animation, along with interviews with his family, friends and colleagues. With the full support of Sagan’s family and friends, the film will present a fascinating look into the life and career of one of the world’s most inspiring and revolutionizing scientists of our time.</description>
+      <description>Directed by Nanette Burstein. An intimate and cinematic portrait of astronomer and planetary scientist Carl Sagan, we explore his romance with partner Ann Druyan and with science. Featuring exclusive audio recordings, archival clips and animation, along with interviews with his family, friends and colleagues. With the full support of Sagan’s family and friends, We Are Made of Star Stuff presents a fascinating look into the life and career of one of the world’s most inspiring and revolutionizing scientists of our time.</description>
     </item>
     <item>
       <title>Lady Liberty: Secrets of an Icon (ARTE)</title>
@@ -158,7 +277,7 @@
       <link>https://www.themoviedb.org/movie/1620918</link>
       <guid isPermaLink="false">movie-1620918</guid>
       <pubDate>Fri, 16 Oct 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Judd Apatow. Built entirely from archival footage, personal photos, and rare home videos contributed by fans and friends, Norm tell his own story in his own voice.</description>
+      <description>Directed by Judd Apatow. Go down a wormhole in this documentary on master of deadpan humor Norm Macdonald, whose life and career were uncompromising yet full of contradictions.</description>
     </item>
     <item>
       <title>Duckweed</title>
@@ -194,6 +313,13 @@
       <guid isPermaLink="false">movie-1515139</guid>
       <pubDate>Wed, 28 Oct 2026 09:00:00 GMT</pubDate>
       <description>Directed by Ben Wainwright-Pearce. A powerful return to roots, this concert captures Black Sabbath in peak form - reuniting to deliver classic hits with raw energy and legendary precision.</description>
+    </item>
+    <item>
+      <title>Everest: The Other Side (National Geographic Documentary Films)</title>
+      <link>https://www.themoviedb.org/movie/1603262</link>
+      <guid isPermaLink="false">movie-1603262</guid>
+      <pubDate>Fri, 30 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Jimmy Chin. An intimate portrait of two people bound by love, ambition, and the pursuit of the impossible. Elite ski mountaineers Jim Morrison and Hilaree Nelson fell deeply in love while reaching the pinnacle of their sport. Their drive sharpened into a shared dream: to climb and ski the direct North Face of Mount Everest—the most difficult and dangerous climb on the mountain and the most coveted ski line on Earth—something only a handful have ever achieved, and no one has successfully skied down.</description>
     </item>
     <item>
       <title>All About the Money</title>
@@ -245,13 +371,6 @@
       <description>Directed by Mary McCartney. A short film contextualising the cultural significance of George Michael's Faith Tour via unheard interview voice-over, unseen images by Herb Ritts, and behind-the-scenes footage of the Faith music video.</description>
     </item>
     <item>
-      <title>1 in 2</title>
-      <link>https://www.themoviedb.org/movie/1771402</link>
-      <guid isPermaLink="false">movie-1771402</guid>
-      <pubDate>Fri, 13 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by David Wilkinson. Nearly one in two of us will be diagnosed with cancer at some point in our lives. David Nicholas Wilkinson is one of them, twice over. 1 in 2 follows Wilkinson through his own treatment, where he discovers a steep rise in bowel cancer among people far too young to be screened for it, and far too young, it seems, to be believed.</description>
-    </item>
-    <item>
       <title>Whiddy (ARTE)</title>
       <link>https://www.themoviedb.org/movie/1637730</link>
       <guid isPermaLink="false">movie-1637730</guid>
@@ -259,11 +378,25 @@
       <description>Directed by Adrian McCarthy. A small rural community in Ireland welcomes in a major, global oil company with open arms but just 10 years and numerous oil spills later, that dream turns into an unimaginable nightmare. 50 lives lost in a tragedy that silenced and divided the community and still haunts it to this day.</description>
     </item>
     <item>
+      <title>1 in 2</title>
+      <link>https://www.themoviedb.org/movie/1771402</link>
+      <guid isPermaLink="false">movie-1771402</guid>
+      <pubDate>Fri, 13 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by David Wilkinson. Nearly one in two of us will be diagnosed with cancer at some point in our lives. David Nicholas Wilkinson is one of them, twice over. 1 in 2 follows Wilkinson through his own treatment, where he discovers a steep rise in bowel cancer among people far too young to be screened for it, and far too young, it seems, to be believed.</description>
+    </item>
+    <item>
       <title>The Neighbourhood is Changing</title>
       <link>https://www.themoviedb.org/movie/1748010</link>
       <guid isPermaLink="false">movie-1748010</guid>
       <pubDate>Mon, 16 Nov 2026 09:00:00 GMT</pubDate>
       <description>Documentary on the making and legacy of Mulberry Street featuring new interviews with cast and crew</description>
+    </item>
+    <item>
+      <title>You Can See Everything</title>
+      <link>https://www.themoviedb.org/movie/1765072</link>
+      <guid isPermaLink="false">movie-1765072</guid>
+      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Nathan Fielder. Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.</description>
     </item>
     <item>
       <title>American Doctor</title>
@@ -285,6 +418,13 @@
       <guid isPermaLink="false">movie-1643130</guid>
       <pubDate>Sat, 21 Nov 2026 09:00:00 GMT</pubDate>
       <description>Directed by Timothy Dhalleine. Sir Chris Bonington’s return to Torres del Paine, 62 years after the first ascent of the Central Tower.  At 91 years old, and while living with Alzheimer’s disease, the documentary accompanies Bonington in a profoundly human return: an attempt to reconnect with memories that time has erased, but that the Patagonian landscape still seems to guard. During the filming, Chris once again set foot on the territory of Estancia Cerro Guido, closing a circle between past and present, between the epic of mountaineering and the fragility of memory.</description>
+    </item>
+    <item>
+      <title>Rehearsals for a Revolution</title>
+      <link>https://www.themoviedb.org/movie/1666864</link>
+      <guid isPermaLink="false">movie-1666864</guid>
+      <pubDate>Fri, 08 Jan 2027 09:00:00 GMT</pubDate>
+      <description>Directed by Pegah Ahangarani. Through five portraits of relatives and mentors, five expressions of resistance, Pegah Ahangarani sketches her life story. Drawing from personal archives, home videos, street protests footage, newspapers, and recorded voices, she retraces more than 40 years of Iran’s history. From the early days of 1979, until the war that began in 2026, she pieces together intimate and collective memories, forming the portrait of a country shaped by political repression and in constant hope for a revolution.</description>
     </item>
     <item>
       <title>Each Day in a Moment: 2026</title>
