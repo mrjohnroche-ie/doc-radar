@@ -5,7 +5,7 @@
     <link>https://doc-radar-weld.vercel.app</link>
     <description>Upcoming documentary releases from the distributors, broadcasters, streamers and sales agents that matter. Updated weekly.</description>
     <language>en-ie</language>
-    <lastBuildDate>Mon, 19 Oct 2026 06:25:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:03:50 GMT</lastBuildDate>
     <item>
       <title>Sam and Colby: Paranormal Investigators (Netflix)</title>
       <link>https://www.themoviedb.org/tv/337188</link>
@@ -35,6 +35,13 @@
       <description>African wildlife and landscapes is brought to the screen like never before, using the latest technology to tell the most extraordinary stories from the continent and cutting-edge CGI to unearth the deep history and forces that shaped Africa's natural worlds.</description>
     </item>
     <item>
+      <title>Knife: The Attempted Murder of Salman Rushdie</title>
+      <link>https://www.themoviedb.org/movie/1299581</link>
+      <guid isPermaLink="false">movie-1299581</guid>
+      <pubDate>Fri, 02 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Alex Gibney. In 2022, Salman Rushdie was preparing to deliver a lecture on the United States as a safe haven for writers when a man rushed the stage and, in 27 seconds, stabbed him 15 times. Airlifted to hospital, Rushdie survived, barely, and his wife Rachel Eliza Griffiths began filming immediately, capturing an unfiltered view of his recovery, return to life and how he regained his spirit and hope for the future.</description>
+    </item>
+    <item>
       <title>Try!</title>
       <link>https://www.themoviedb.org/movie/1632638</link>
       <guid isPermaLink="false">movie-1632638</guid>
@@ -47,13 +54,6 @@
       <guid isPermaLink="false">movie-1596306</guid>
       <pubDate>Fri, 02 Oct 2026 09:00:00 GMT</pubDate>
       <description>Directed by Andrew H. Brown. As a Nairobi journalist probes a land battle entangling the local government and a powerful multinational corporation, covered wounds are revealed and family secrets are exposed.</description>
-    </item>
-    <item>
-      <title>Knife: The Attempted Murder of Salman Rushdie</title>
-      <link>https://www.themoviedb.org/movie/1299581</link>
-      <guid isPermaLink="false">movie-1299581</guid>
-      <pubDate>Fri, 02 Oct 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Alex Gibney. In 2022, Salman Rushdie was preparing to deliver a lecture on the United States as a safe haven for writers when a man rushed the stage and, in 27 seconds, stabbed him 15 times. Airlifted to hospital, Rushdie survived, barely, and his wife Rachel Eliza Griffiths began filming immediately, capturing an unfiltered view of his recovery, return to life and how he regained his spirit and hope for the future.</description>
     </item>
     <item>
       <title>Inside the mind of Karl Ove Knausgård</title>
@@ -98,11 +98,25 @@
       <description>Directed by Christin Freitag. Michael Schumacher's first World Championship win roars to life through personal interviews and archival footage of the legendary 1994 Formula 1 season.</description>
     </item>
     <item>
+      <title>Jet Lag: The Game – Japanorama Finale</title>
+      <link>https://www.themoviedb.org/movie/1767753</link>
+      <guid isPermaLink="false">movie-1767753</guid>
+      <pubDate>Sat, 03 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Sam Denby. Watch the conclusion of Jet Lag: The Game's biggest season ever with this screening of the final two, action-packed episodes as Tom &amp; Adam race Sam &amp; Ben to the top of Hokkaido.</description>
+    </item>
+    <item>
       <title>Garden Sanctuary</title>
       <link>https://www.themoviedb.org/movie/1786910</link>
       <guid isPermaLink="false">movie-1786910</guid>
       <pubDate>Sat, 03 Oct 2026 09:00:00 GMT</pubDate>
       <description>Directed by FMDS. My Walk on the 2nd of October.</description>
+    </item>
+    <item>
+      <title>Aileen Wuornos: Damsel of Death</title>
+      <link>https://www.themoviedb.org/tv/338377</link>
+      <guid isPermaLink="false">tv-338377</guid>
+      <pubDate>Sun, 04 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Aileen Wuornos: Damsel of Death re-examines the crimes and life of one of America’s most notorious female killers, drawing on FBI case files and testimony from Brian Jarvis, the lead detective who investigated Wuornos and questioned her following her arrest. Beginning with the murder of Richard Mallory in Florida in November 1989, the documentary traces a series of killings that left seven men dead over the following 11 months. As bodies were discovered along Florida’s highways, all shot multiple times, investigators began searching for the person responsible.</description>
     </item>
     <item>
       <title>Travel Reminiscence</title>
@@ -119,6 +133,20 @@
       <description>Directed by Alex Thomas. Ten-year-old Damilola Taylor was fatally stabbed in 2000 in a stairwell in Peckham, South East London, just metres from his home. 'Star Wars' star John Boyega, who also grew up in Peckham, speaks for the first time about being one of the last people to see him alive, sharing the fear and uncertainty that followed in the aftermath of Taylor's death. Boyega is joined by close friends and family members of Taylor, who reveal the events that led to his death and talk for the first time about the impact his tragic murder has had in shaping their lives.</description>
     </item>
     <item>
+      <title>Convictions Gone Bad With Will Mellor</title>
+      <link>https://www.themoviedb.org/tv/337531</link>
+      <guid isPermaLink="false">tv-337531</guid>
+      <pubDate>Mon, 05 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Will Mellor. Will Mellor examines five of the most shocking miscarriages of justice in legal history. Will unpacks how the system made mistakes and reveals the crucial evidence that eventually set the wrongfully convicted free.</description>
+    </item>
+    <item>
+      <title>Kibboutz Nir Oz, aux portes de Gaza (ARTE)</title>
+      <link>https://www.themoviedb.org/movie/1795205</link>
+      <guid isPermaLink="false">movie-1795205</guid>
+      <pubDate>Mon, 05 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Olga Kravets.</description>
+    </item>
+    <item>
       <title>Karl</title>
       <link>https://www.themoviedb.org/movie/1537630</link>
       <guid isPermaLink="false">movie-1537630</guid>
@@ -133,18 +161,18 @@
       <description>Directed by Elio B Cunampio. A Wounaan teenager and a leader of their community venture into the Darién in search of a sacred bird. Along the way, they will face the dangers that threaten their territory and their culture.</description>
     </item>
     <item>
-      <title>Kibboutz Nir Oz, aux portes de Gaza (ARTE)</title>
-      <link>https://www.themoviedb.org/movie/1795205</link>
-      <guid isPermaLink="false">movie-1795205</guid>
-      <pubDate>Mon, 05 Oct 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Olga Kravets.</description>
-    </item>
-    <item>
       <title>The Fight to Be Heard</title>
       <link>https://www.themoviedb.org/movie/1791828</link>
       <guid isPermaLink="false">movie-1791828</guid>
       <pubDate>Mon, 05 Oct 2026 09:00:00 GMT</pubDate>
       <description>Directed by Leah Rustomjee. The Amnesty International UK explores the human stories behind protest and the growing pressures faced by protesters in the UK today.</description>
+    </item>
+    <item>
+      <title>Small People, Big Adventures - Big Peaks and Little Donkeys</title>
+      <link>https://www.themoviedb.org/movie/1807386</link>
+      <guid isPermaLink="false">movie-1807386</guid>
+      <pubDate>Mon, 05 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Menna Wakeford. Renowned climber and explorer Leo Houlding takes his family to the remote mountains of Kyrgyzstan with a clear objective: to attempt an unclimbed peak deep in the Tien Shan mountain range.</description>
     </item>
     <item>
       <title>Mafia: Behind the Bloodshed</title>
@@ -168,18 +196,18 @@
       <description>The series investigates serial killer Richard “Marc” Evonitz, who kidnapped, assaulted, and murdered multiple young girls (including Sofia Marlene Silva, Kristin Michelle Lisk, and Kathryn Nicole Lisk</description>
     </item>
     <item>
-      <title>The World Came Flooding In</title>
-      <link>https://www.themoviedb.org/movie/1637977</link>
-      <guid isPermaLink="false">movie-1637977</guid>
-      <pubDate>Wed, 07 Oct 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Isobel Knowles. The World Came Flooding In is an immersive VR documentary reconstructing memories of the eastern Australia floods in 2022, which is representative of similar events that happened recently in various parts of the world.</description>
-    </item>
-    <item>
       <title>Landscapes of Shame</title>
       <link>https://www.themoviedb.org/movie/1781368</link>
       <guid isPermaLink="false">movie-1781368</guid>
       <pubDate>Wed, 07 Oct 2026 09:00:00 GMT</pubDate>
       <description>Directed by Patrick Hough. Navigating Ireland’s haunted landscapes, ecological extinction and cultural suppression emerge as intertwined forms of colonial erasure.</description>
+    </item>
+    <item>
+      <title>The World Came Flooding In</title>
+      <link>https://www.themoviedb.org/movie/1637977</link>
+      <guid isPermaLink="false">movie-1637977</guid>
+      <pubDate>Wed, 07 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Isobel Knowles. The World Came Flooding In is an immersive VR documentary reconstructing memories of the eastern Australia floods in 2022, which is representative of similar events that happened recently in various parts of the world.</description>
     </item>
     <item>
       <title>Oasis: Don't Look Back in Anger</title>
@@ -210,11 +238,11 @@
       <description>Directed by Zach Stafford. André Leon Talley was a trailblazing fashion icon whose influence spanned nearly five decades. This documentary explores his legacy of inclusivity, elegance, and the fearless pursuit of authenticity. Interviews with Anna Wintour, Tom Ford and Diane von Furstenberg, among others, as well as never-before-seen footage, reveal Talley’s personal and professional challenges and remarkable triumphs.</description>
     </item>
     <item>
-      <title>The Sound We Make Together</title>
-      <link>https://www.themoviedb.org/movie/1791563</link>
-      <guid isPermaLink="false">movie-1791563</guid>
+      <title>Le grand jeu de Jessica Chastain (ARTE)</title>
+      <link>https://www.themoviedb.org/movie/1792851</link>
+      <guid isPermaLink="false">movie-1792851</guid>
       <pubDate>Fri, 09 Oct 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Maddalena Cagol. Striving for fame, is that the right reason to be head over heels in the competitive music industry? It's no secret that the music industry is one of the toughest out there…creative slumps, isolation, the fear of 'not making it' and failure. So, we introduce The Hills Brothers, a brotherly duo of musicians, local to Portsmouth, who spend their nights hosting several Open Mic nights all over Portsmouth and Hampshire. Take a deeper look into why they find these Open Mic nights more than just a fun night to express yourself and your music. Understand why these nights create a community for musicians and why venues like Casemates are essential for the artists support.</description>
+      <description>Directed by Patrick Boudet.</description>
     </item>
     <item>
       <title>Mucker</title>
@@ -224,18 +252,11 @@
       <description>Directed by Titus Fossgard-Moser. Mucker provides a fascinating insight into the professional and personal life of the pioneering and award winning British documentary film maker Brian Moser.</description>
     </item>
     <item>
-      <title>Le grand jeu de Jessica Chastain (ARTE)</title>
-      <link>https://www.themoviedb.org/movie/1792851</link>
-      <guid isPermaLink="false">movie-1792851</guid>
+      <title>The Sound We Make Together</title>
+      <link>https://www.themoviedb.org/movie/1791563</link>
+      <guid isPermaLink="false">movie-1791563</guid>
       <pubDate>Fri, 09 Oct 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Patrick Boudet.</description>
-    </item>
-    <item>
-      <title>The Great Maia</title>
-      <link>https://www.themoviedb.org/movie/1758549</link>
-      <guid isPermaLink="false">movie-1758549</guid>
-      <pubDate>Sat, 10 Oct 2026 09:00:00 GMT</pubDate>
-      <description>Directed by David James Armsby. &quot;Great Maia&quot; is an extra-special film of the &quot;Dinosauria Animated Series&quot;, it is set in the Two Medicine Formation during the Late Cretaceous and follows a young first-time mother Maiasaura as she tries to protect her first clutch of eggs.</description>
+      <description>Directed by Maddalena Cagol. Striving for fame, is that the right reason to be head over heels in the competitive music industry? It's no secret that the music industry is one of the toughest out there…creative slumps, isolation, the fear of 'not making it' and failure. So, we introduce The Hills Brothers, a brotherly duo of musicians, local to Portsmouth, who spend their nights hosting several Open Mic nights all over Portsmouth and Hampshire. Take a deeper look into why they find these Open Mic nights more than just a fun night to express yourself and your music. Understand why these nights create a community for musicians and why venues like Casemates are essential for the artists support.</description>
     </item>
     <item>
       <title>Dreamscape</title>
@@ -243,6 +264,13 @@
       <guid isPermaLink="false">movie-1791595</guid>
       <pubDate>Sat, 10 Oct 2026 09:00:00 GMT</pubDate>
       <description>Directed by Meray Diner. Dreamscape is a quest on the weight of times we never imagined would become our reality. In the quiet hours of sleep, when our defenses soften, buried emotions rise to the surface, often more vivid than waking life. For those shaped by migration and marked by generational trauma, dreams become both a refuge and a mirror. This film explores how the unconscious mind reflects collective and personal struggle. It journeys through the inner worlds we create to survive, to heal, and to simply endure whether that's building coping mechanisms through faith, art, somatics or activism.</description>
+    </item>
+    <item>
+      <title>The Great Maia</title>
+      <link>https://www.themoviedb.org/movie/1758549</link>
+      <guid isPermaLink="false">movie-1758549</guid>
+      <pubDate>Sat, 10 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by David James Armsby. &quot;Great Maia&quot; is an extra-special film of the &quot;Dinosauria Animated Series&quot;, it is set in the Two Medicine Formation during the Late Cretaceous and follows a young first-time mother Maiasaura as she tries to protect her first clutch of eggs.</description>
     </item>
     <item>
       <title>The Pet Cemetery Murders: A Ghost Story (HBO Documentary Films)</title>
@@ -266,6 +294,13 @@
       <description>Directed by Gavin Lundy. Director Gavin Lundy explores the resurgence of Glasgow's famous Barras Market only to find new questions of identity in a changing city.</description>
     </item>
     <item>
+      <title>Instadocs: AI Gone Wild (Netflix)</title>
+      <link>https://www.themoviedb.org/movie/1790935</link>
+      <guid isPermaLink="false">movie-1790935</guid>
+      <pubDate>Mon, 12 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Did AI just commit a felony? &quot;Instadocs&quot; investigates the Hugging Face hack and why this cyberattack may be a warning shot for humanity's future.</description>
+    </item>
+    <item>
       <title>Always Lalisa</title>
       <link>https://www.themoviedb.org/movie/1489932</link>
       <guid isPermaLink="false">movie-1489932</guid>
@@ -280,11 +315,11 @@
       <description>Directed by Jesse Short Bull. Leonard Peltier, one of the surviving leaders of the American Indian Movement, has been in prison for 50 years following a contentious conviction. A new generation of Native activists is committed to winning his freedom before he dies.</description>
     </item>
     <item>
-      <title>Transformation</title>
-      <link>https://www.themoviedb.org/movie/1769897</link>
-      <guid isPermaLink="false">movie-1769897</guid>
+      <title>Me, Myself and Vegas</title>
+      <link>https://www.themoviedb.org/movie/1797914</link>
+      <guid isPermaLink="false">movie-1797914</guid>
       <pubDate>Mon, 12 Oct 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Ganna Tretiak. A feature-length documentary exploring the profound inner metamorphosis of Ukrainian civilians from the creative sector who chose to enlist as soldiers to defend their country. The film maps the deep psychological and lifestyle shifts experienced by musicians, artists, and filmmakers as they stepped away from civilian art to enter the realities of war.</description>
+      <description>Directed by Tyler-James. A young woman from England struggling to find a partner to walk her down the aisle goes to Las Vegas where she marries herself in this documentary of self love.</description>
     </item>
     <item>
       <title>A Norway Visit : Skjolden</title>
@@ -294,11 +329,11 @@
       <description>Directed by Alfie Bristow. Skjolden is a beautiful and luscious town in Norway's deepest and longest fjord of Sognefjord. Camouflaged in the bright, green mountains lies tips, facts and awe which will capture any viewer's attention.</description>
     </item>
     <item>
-      <title>Me, Myself and Vegas</title>
-      <link>https://www.themoviedb.org/movie/1797914</link>
-      <guid isPermaLink="false">movie-1797914</guid>
+      <title>Transformation</title>
+      <link>https://www.themoviedb.org/movie/1769897</link>
+      <guid isPermaLink="false">movie-1769897</guid>
       <pubDate>Mon, 12 Oct 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Tyler-James. A young woman from England struggling to find a partner to walk her down the aisle goes to Las Vegas where she marries herself in this documentary of self love.</description>
+      <description>Directed by Ganna Tretiak. A feature-length documentary exploring the profound inner metamorphosis of Ukrainian civilians from the creative sector who chose to enlist as soldiers to defend their country. The film maps the deep psychological and lifestyle shifts experienced by musicians, artists, and filmmakers as they stepped away from civilian art to enter the realities of war.</description>
     </item>
     <item>
       <title>Ask E. Jean (BBC Storyville)</title>
@@ -322,11 +357,39 @@
       <description>Directed by Jonathan Drake. A two-part document about the disappearance of a 19-year-old woman in the English town of Milton Keynes in 2019.</description>
     </item>
     <item>
-      <title>We Are Made of Star Stuff (National Geographic Documentary Films)</title>
+      <title>Matt Baker: Our Barn in the Dales</title>
+      <link>https://www.themoviedb.org/tv/337983</link>
+      <guid isPermaLink="false">tv-337983</guid>
+      <pubDate>Tue, 13 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Matt Baker and his family face one of the biggest projects of their lives: transforming an old barn, granary and stable beside Matt's parents' farmhouse into a new home of their own.</description>
+    </item>
+    <item>
+      <title>Dream of Birds</title>
+      <link>https://www.themoviedb.org/movie/1807093</link>
+      <guid isPermaLink="false">movie-1807093</guid>
+      <pubDate>Tue, 13 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Martín Benchimol. What happens when a forest loses its birdsong? Following clues hidden in the sounds birds make while asleep, Argentinian physicist Gabriel Mindlin uncovers a hidden extinction – not of species, but of memory – and sets out to revive vanished melodies before they disappear forever. Part detective story, part cutting-edge science, Mindlin's mission leads him to the dusty 1960s archives of Buenos Aires naturalist, confirming that some songs no longer echo in the biosphere. So he deploys &quot;robot tutors&quot; to see whether young birds can learn and spread the old songs once again.</description>
+    </item>
+    <item>
+      <title>Carl Sagan: We Are Made of Star Stuff (National Geographic Documentary Films)</title>
       <link>https://www.themoviedb.org/movie/1113623</link>
       <guid isPermaLink="false">movie-1113623</guid>
       <pubDate>Wed, 14 Oct 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Nanette Burstein. An intimate and cinematic portrait of astronomer and planetary scientist Carl Sagan, we explore his romance with partner Ann Druyan and with science. Featuring exclusive audio recordings, archival clips and animation, along with interviews with his family, friends and colleagues. With the full support of Sagan’s family and friends, We Are Made of Star Stuff presents a fascinating look into the life and career of one of the world’s most inspiring and revolutionizing scientists of our time.</description>
+      <description>Directed by Nanette Burstein. An intimate and cinematic portrait of astronomer and planetary scientist Carl Sagan.</description>
+    </item>
+    <item>
+      <title>突围</title>
+      <link>https://www.themoviedb.org/tv/339320</link>
+      <guid isPermaLink="false">tv-339320</guid>
+      <pubDate>Wed, 14 Oct 2026 09:00:00 GMT</pubDate>
+      <description></description>
+    </item>
+    <item>
+      <title>Beura</title>
+      <link>https://www.themoviedb.org/movie/1807273</link>
+      <guid isPermaLink="false">movie-1807273</guid>
+      <pubDate>Wed, 14 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Gregor D. Sinclair. The tale of the Cailleach Bheur, the Celtic goddess of nature, storms and winter, is well known to many in the Gàidhealtachd. Said to have carved the mountains and glens with ice, and borne the islands like children on her back, the Cailleach disappeared long ago leaving us only with her song – a sad, cautionary tale. This Gaelic arts project brings music, film and verse together to reimagine Cailleach’s story for the modern era.</description>
     </item>
     <item>
       <title>Lady Liberty: Secrets of an Icon (ARTE)</title>
@@ -357,18 +420,11 @@
       <description>Directed by Judd Apatow. Go down a wormhole in this documentary on master of deadpan humor Norm Macdonald, whose life and career were uncompromising yet full of contradictions.</description>
     </item>
     <item>
-      <title>Hometown Giants</title>
-      <link>https://www.themoviedb.org/tv/336973</link>
-      <guid isPermaLink="false">tv-336973</guid>
+      <title>Marília Mendonça: All the Feels</title>
+      <link>https://www.themoviedb.org/tv/296466</link>
+      <guid isPermaLink="false">tv-296466</guid>
       <pubDate>Fri, 16 Oct 2026 09:00:00 GMT</pubDate>
-      <description>Step inside the Vancouver Giants major junior hockey team, where celebrity owners Michael Bublé and Drew Scott set out to revive a franchise that hasn't won a championship since 2007. For the players, they're teenagers living away from home, finishing high school, and chasing NHL dreams they've built their lives around, even though only a few will ever make it.</description>
-    </item>
-    <item>
-      <title>Duckweed</title>
-      <link>https://www.themoviedb.org/movie/1506696</link>
-      <guid isPermaLink="false">movie-1506696</guid>
-      <pubDate>Fri, 16 Oct 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Matthew Berka. Obscure, aging, and living on the outskirts of London, writer of supernatural fiction Quentin Crisp asks himself a fundamental existential question: ‘Who am I?' This feature-length film-essay is structured around readings of Crisp’s own zuihitsu of the same name, which, in essence, is the story of his life. As we follow Crisp on a walk deeper into the ‘‘little wood’’ of his private landscape, the binaries of success and failure begin to fade away.</description>
+      <description>How did an ordinary girl from the heart of Brazil become a phenomenon? Through previously unreleased footage, audio recordings and interviews, the series traces Marília Mendonça's meteoric rise from singing at a gas station to becoming one of Brazil's biggest artists.</description>
     </item>
     <item>
       <title>STYMIE</title>
@@ -378,6 +434,41 @@
       <description>A documentary based on the word 'stymie'.</description>
     </item>
     <item>
+      <title>Hometown Giants</title>
+      <link>https://www.themoviedb.org/tv/336973</link>
+      <guid isPermaLink="false">tv-336973</guid>
+      <pubDate>Fri, 16 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Step inside the Vancouver Giants major junior hockey team, where celebrity owners Michael Bublé and Drew Scott set out to revive a franchise that hasn't won a championship since 2007. For the players, they're teenagers living away from home, finishing high school, and chasing NHL dreams they've built their lives around, even though only a few will ever make it.</description>
+    </item>
+    <item>
+      <title>Bermuda Riots Are Different</title>
+      <link>https://www.themoviedb.org/movie/1712449</link>
+      <guid isPermaLink="false">movie-1712449</guid>
+      <pubDate>Fri, 16 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Alyson Thompson. An examination of a decade of race riots between 1968 and 1977, alongside a triangle of colonial influences: Bermuda, Great Britain, and the USA.</description>
+    </item>
+    <item>
+      <title>Duckweed</title>
+      <link>https://www.themoviedb.org/movie/1506696</link>
+      <guid isPermaLink="false">movie-1506696</guid>
+      <pubDate>Fri, 16 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Matthew Berka. Obscure, aging, and living on the outskirts of London, writer of supernatural fiction Quentin Crisp asks himself a fundamental existential question: ‘Who am I?' This feature-length film-essay is structured around readings of Crisp’s own zuihitsu of the same name, which, in essence, is the story of his life. As we follow Crisp on a walk deeper into the ‘‘little wood’’ of his private landscape, the binaries of success and failure begin to fade away.</description>
+    </item>
+    <item>
+      <title>India's Circularity: Not a Trend, But a Tradition from the Margins</title>
+      <link>https://www.themoviedb.org/movie/1804585</link>
+      <guid isPermaLink="false">movie-1804585</guid>
+      <pubDate>Fri, 16 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Purva Tavri. A documentary exploring traditional circular practices across India, revealing how communities have long lived through reuse, repair, and regeneration.</description>
+    </item>
+    <item>
+      <title>A Life, A Manifesto (ARTE)</title>
+      <link>https://www.themoviedb.org/movie/1483908</link>
+      <guid isPermaLink="false">movie-1483908</guid>
+      <pubDate>Sat, 17 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Jean-Gabriel Périot. The life of Michèle Firk — a trailblazing French journalist, film critic, aspiring director and communist activist involved in various liberation struggles in the second half of the 20th century — as told by narrator Alice Diop, modern day French director.</description>
+    </item>
+    <item>
       <title>S K 8</title>
       <link>https://www.themoviedb.org/movie/1799614</link>
       <guid isPermaLink="false">movie-1799614</guid>
@@ -385,11 +476,20 @@
       <description>Directed by Alexander Baguley. Four Skaters Skate</description>
     </item>
     <item>
+      <title>Kevin McCloud's Classic Car Road Trips</title>
+      <link>https://www.themoviedb.org/tv/337855</link>
+      <guid isPermaLink="false">tv-337855</guid>
+      <pubDate>Sun, 18 Oct 2026 09:00:00 GMT</pubDate>
+      <description>With echoes of the golden age of motoring – an era before budget airlines and endless grey motorways – Kevin sets out to learn about each head-turning car through the country of its origin, and about the heritage, history and unique culture of the countries through the cars.
+
+In each episode, Kevin is handed the keys to an iconic classic vehicle – each one a feat of timeless engineering and aesthetic excellence – to explore a different region with direct links to the model.</description>
+    </item>
+    <item>
       <title>Alex Jones: One Day in Aberfan</title>
       <link>https://www.themoviedb.org/movie/1799096</link>
       <guid isPermaLink="false">movie-1799096</guid>
       <pubDate>Sun, 18 Oct 2026 09:00:00 GMT</pubDate>
-      <description>Alex Jones marks the 60th anniversary of the mining disaster that claimed 114 lives, including 116 children</description>
+      <description>Directed by Catrin Rowlands. Alex Jones marks the 60th anniversary of the mining disaster that claimed 144 lives, including 116 children</description>
     </item>
     <item>
       <title>Aberfan: The Village That Fought Back</title>
@@ -406,6 +506,13 @@
       <description>Following the Aberfan disaster in 1966, an artist from Llandudno embarked on an extraordinary mission to paint portraits of most of the 116 children who lost their lives, using photographs and locks of hair provided by their grieving families.  For the first time, relatives share what these remarkable paintings have meant to them over the past six decades. Presented by the BBC’s Huw Thomas, he discovers how the portraits became enduring symbols of remembrance in a village touched by tragedy.</description>
     </item>
     <item>
+      <title>Sam Lovegrove: Race Mechanic</title>
+      <link>https://www.themoviedb.org/tv/339336</link>
+      <guid isPermaLink="false">tv-339336</guid>
+      <pubDate>Mon, 19 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Sam Lovegrove prepares cars and bikes for Britain's iconic motorsport events. Can he beat mechanical setbacks to get owners from start line to finish?</description>
+    </item>
+    <item>
       <title>Enter the Television</title>
       <link>https://www.themoviedb.org/movie/1775096</link>
       <guid isPermaLink="false">movie-1775096</guid>
@@ -420,18 +527,74 @@
       <description>Directed by Jake Hanrahan. Heavy Weekend 02: The French police have put the illegal drift racers of Paris on final notice, so they've took off on the run across the border into Belgium. Hanrahan rides along with the crew as they dodge police and takeover Brussels.</description>
     </item>
     <item>
+      <title>Just One Before I Die</title>
+      <link>https://www.themoviedb.org/movie/1337305</link>
+      <guid isPermaLink="false">movie-1337305</guid>
+      <pubDate>Wed, 21 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Addison Henderson. Chronicles the unwavering spirit of Buffalo Bills' die-hard fans, affectionately known as 'Bills Mafia', as they navigate heartbreaks and hopes in their quest for an elusive championship.</description>
+    </item>
+    <item>
+      <title>Dancing For Gold</title>
+      <link>https://www.themoviedb.org/movie/1803312</link>
+      <guid isPermaLink="false">movie-1803312</guid>
+      <pubDate>Wed, 21 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Dancing for Gold follows Laurence Fournier Beaudry and Guillaume Cizeron and Lilah Fear and Lewis Gibson through the Olympic Games they've spent years building towards. From arrival in Milan to their final days in Italy, the film captures the training, the pressure, the partnerships and the raw emotion behind the most artistic event on the Olympic programme.</description>
+    </item>
+    <item>
+      <title>Test 1</title>
+      <link>https://www.themoviedb.org/movie/1803442</link>
+      <guid isPermaLink="false">movie-1803442</guid>
+      <pubDate>Wed, 21 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Musa Jawaid. Experimental film by Musa.</description>
+    </item>
+    <item>
+      <title>The Flores Massacre</title>
+      <link>https://www.themoviedb.org/tv/337800</link>
+      <guid isPermaLink="false">tv-337800</guid>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
+      <description>The story of Matías Bagnato, the sole survivor of the Flores Massacre, one of the most shocking criminal cases in Argentine history.</description>
+    </item>
+    <item>
+      <title>Swipe Right on the Devil</title>
+      <link>https://www.themoviedb.org/tv/337609</link>
+      <guid isPermaLink="false">tv-337609</guid>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Revisits the 2017 murder of 24-year-old Sydney Loofe, who disappeared and was later found dead after going on a Tinder date with Bailey Boswell.</description>
+    </item>
+    <item>
+      <title>Train To Waterloo, Courtesy Of Fishmans</title>
+      <link>https://www.themoviedb.org/movie/1804563</link>
+      <guid isPermaLink="false">movie-1804563</guid>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by FMDS. “On a train from Surbiton to Waterloo to go watch Haxan, I was listening to LONG SEASON and felt an urge to make something, so I did.”</description>
+    </item>
+    <item>
+      <title>Paralyzed by Hope: The Maria Bamford Story (Netflix)</title>
+      <link>https://www.themoviedb.org/movie/1596294</link>
+      <guid isPermaLink="false">movie-1596294</guid>
+      <pubDate>Fri, 23 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Judd Apatow. Blurring the line between performance and personal crisis, comedian Maria Bamford turns her mental health journey into material that’s riotously funny and ultimately inspiring. What emerges is a portrait of an artist transforming vulnerability into creative strength through honesty.</description>
+    </item>
+    <item>
+      <title>All Rivers Spill Their Stories to the Sea</title>
+      <link>https://www.themoviedb.org/movie/1620941</link>
+      <guid isPermaLink="false">movie-1620941</guid>
+      <pubDate>Fri, 23 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Jeanie Finlay. On England’s North East coast, where rivers, heavy industry and the sea have shaped lives for generations, fisherman Stan Rennie is watching the world he knows disappear. His family have worked these waters for generations. Then, almost overnight, thousands of dead crabs and lobsters wash ashore, and a community already living with uncertainty is pushed into crisis. Teesside filmmaker Jeanie Finlay brings warmth, wit and deep local feeling to this David-and-Goliath story of environmental damage, official evasions and working-class resilience. At its centre is Stan: funny, stubborn, vulnerable and increasingly determined to be heard.</description>
+    </item>
+    <item>
+      <title>Children of The Wicker Man</title>
+      <link>https://www.themoviedb.org/movie/1285321</link>
+      <guid isPermaLink="false">movie-1285321</guid>
+      <pubDate>Fri, 23 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Justin Hardy. Fifty years after The Wicker Man, director Robin Hardy’s lost papers resurface, prompting his sons Justin and Dominic to explore the legacy of the cult classic, and their father. Together, they uncover the truth behind Robin’s role in the film and confront the complexities of independent filmmaking, family, and myth.</description>
+    </item>
+    <item>
       <title>TOMORROW X TOGETHER WORLD TOUR 'ACT : TOMORROW'</title>
       <link>https://www.themoviedb.org/movie/1688795</link>
       <guid isPermaLink="false">movie-1688795</guid>
       <pubDate>Sat, 24 Oct 2026 09:00:00 GMT</pubDate>
       <description>Directed by Yum Tae-hwan. Like shining stars, TOMORROW X TOGETHER’s fourth world tour 'ACT : TOMORROW' unfolds as a dazzling journey toward the tomorrow they promised together. From its beautiful storytelling to the stunning production and powerful live performances that captivated MOA around the world, experience the immersive energy of TOMORROW X TOGETHER’s spectacular world tour on the big screen!</description>
-    </item>
-    <item>
-      <title>The Emerald Underground</title>
-      <link>https://www.themoviedb.org/movie/1750366</link>
-      <guid isPermaLink="false">movie-1750366</guid>
-      <pubDate>Sat, 24 Oct 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Darren Kelly. A short documentary following the stories of three independent bands from across Ireland; The Psychs, IMLÉ and Dead Assets. Each band shares their passion for music, the many struggles they face on their journey, and what keeps them going.</description>
     </item>
     <item>
       <title>SEVENTEEN WORLD TOUR 'NEW_'</title>
@@ -441,11 +604,39 @@
       <description>Directed by Yum Tae-hwan. Celebrating their 10th debut anniversary, SEVENTEEN embarks on a world tour fueled by their determination for a fresh start, just like the title 'NEW_'. With their unrivaled stage presence and explosive energy, SEVENTEEN once again proves their unlimited potential. Experience the blazing heat of the concert—bursting with each member’s unique charm—right on the big screen!</description>
     </item>
     <item>
-      <title>Back to the Beginning: Ozzy's Final Bow</title>
-      <link>https://www.themoviedb.org/movie/1515139</link>
-      <guid isPermaLink="false">movie-1515139</guid>
-      <pubDate>Wed, 28 Oct 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Ben Wainwright-Pearce. A powerful return to roots, this concert captures Black Sabbath in peak form - reuniting to deliver classic hits with raw energy and legendary precision.</description>
+      <title>The Emerald Underground</title>
+      <link>https://www.themoviedb.org/movie/1750366</link>
+      <guid isPermaLink="false">movie-1750366</guid>
+      <pubDate>Sat, 24 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Darren Kelly. A short documentary following the stories of three independent bands from across Ireland; The Psychs, IMLÉ and Dead Assets. Each band shares their passion for music, the many struggles they face on their journey, and what keeps them going.</description>
+    </item>
+    <item>
+      <title>Dracula : la véritable histoire (ARTE)</title>
+      <link>https://www.themoviedb.org/movie/1805027</link>
+      <guid isPermaLink="false">movie-1805027</guid>
+      <pubDate>Sat, 24 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Mattéo Caranta.</description>
+    </item>
+    <item>
+      <title>Zombie: Die Faszination der Untoten (ARTE)</title>
+      <link>https://www.themoviedb.org/movie/1805036</link>
+      <guid isPermaLink="false">movie-1805036</guid>
+      <pubDate>Sat, 24 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Isabel Hahn.</description>
+    </item>
+    <item>
+      <title>La véritable histoire de Dracula (ARTE)</title>
+      <link>https://www.themoviedb.org/movie/1806320</link>
+      <guid isPermaLink="false">movie-1806320</guid>
+      <pubDate>Sat, 24 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Jacques Plaisant.</description>
+    </item>
+    <item>
+      <title>Homemade Nature Reserve</title>
+      <link>https://www.themoviedb.org/movie/1806584</link>
+      <guid isPermaLink="false">movie-1806584</guid>
+      <pubDate>Sun, 25 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by FMDS. &quot;On this Saturday I planned to go to Berrylands Nature Reserve to shoot shots for my ongoing project. The horrendous weather prompted me to delay the visit however, and create this, a multimedia project consisting of clips of plants at my home, images from the internet of the reserve, and me reading out the reserve's website header and wikipedia page.&quot;</description>
     </item>
     <item>
       <title>Der Schatz von Assisi (ARTE)</title>
@@ -455,11 +646,18 @@
       <description>Directed by Paolo Colangeli.</description>
     </item>
     <item>
-      <title>Everest: The Other Side (National Geographic Documentary Films)</title>
-      <link>https://www.themoviedb.org/movie/1603262</link>
-      <guid isPermaLink="false">movie-1603262</guid>
-      <pubDate>Fri, 30 Oct 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Jimmy Chin. An intimate portrait of two people bound by love, ambition, and the pursuit of the impossible. Elite ski mountaineers Jim Morrison and Hilaree Nelson fell deeply in love while reaching the pinnacle of their sport. Their drive sharpened into a shared dream: to climb and ski the direct North Face of Mount Everest—the most difficult and dangerous climb on the mountain and the most coveted ski line on Earth—something only a handful have ever achieved, and no one has successfully skied down.</description>
+      <title>Punk Brighton</title>
+      <link>https://www.themoviedb.org/movie/1804846</link>
+      <guid isPermaLink="false">movie-1804846</guid>
+      <pubDate>Wed, 28 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Kevin Wright. The documentary utilizes 15 years of interviews, live performance archives, and animation to capture the city's fierce DIY music scene. Rather than focusing solely on the music, it explores how the communal movement tackled broader political and social issues, including confronting fascism, rocking against racism, and rallying the community to save the Brighton &amp; Hove Albion Football Club.</description>
+    </item>
+    <item>
+      <title>The Masturbator - The Adventures of Edgar Hilsenrath (ARTE)</title>
+      <link>https://www.themoviedb.org/movie/1783814</link>
+      <guid isPermaLink="false">movie-1783814</guid>
+      <pubDate>Thu, 29 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by François-Xavier Destors. He dared to confront trauma with black humour: Using animation and archive material, this lm delves into the radically scandalous world of the writer and Holocaust survivor Edgar Hilsenrath.</description>
     </item>
     <item>
       <title>When a Witness Recants (HBO Documentary Films)</title>
@@ -469,11 +667,11 @@
       <description>Directed by Dawn Porter. In 1983, author Ta-Nehisi Coates learned that a 14-year-old boy was murdered in his Baltimore middle school. Upon revisiting the case, he uncovers the truth: Three innocent teenagers were wrongfully convicted and spent 36 years in prison — creating a lasting impact on the accused, the witnesses, and their community.</description>
     </item>
     <item>
-      <title>All About the Money</title>
-      <link>https://www.themoviedb.org/movie/1595207</link>
-      <guid isPermaLink="false">movie-1595207</guid>
+      <title>Everest: The Other Side (National Geographic Documentary Films)</title>
+      <link>https://www.themoviedb.org/movie/1603262</link>
+      <guid isPermaLink="false">movie-1603262</guid>
       <pubDate>Fri, 30 Oct 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Sinéad O'Shea. A son of one of America’s wealthiest families creates a communist revolutionary base in rural Massachusetts as a means of disrupting the capitalist system he grew up in, but has now come to despise. It’s the starting point of an astonishing journey.</description>
+      <description>Directed by Jimmy Chin. An intimate portrait of two people bound by love, ambition, and the pursuit of the impossible. Elite ski mountaineers Jim Morrison and Hilaree Nelson fell deeply in love while reaching the pinnacle of their sport. Their drive sharpened into a shared dream: to climb and ski the direct North Face of Mount Everest—the most difficult and dangerous climb on the mountain and the most coveted ski line on Earth—something only a handful have ever achieved, and no one has successfully skied down.</description>
     </item>
     <item>
       <title>Occupational Hazard: The First Coral Reefers</title>
@@ -483,6 +681,20 @@
       <description>Directed by John H. Cunningham. Journey through the 1970s and early ’80s with the original members of Jimmy Buffett's Coral Reefer Band as they recount their contributions to iconic albums, life on tour, and the lasting impact they had in shaping a unique and enduring genre of music.</description>
     </item>
     <item>
+      <title>All About the Money</title>
+      <link>https://www.themoviedb.org/movie/1595207</link>
+      <guid isPermaLink="false">movie-1595207</guid>
+      <pubDate>Fri, 30 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Sinéad O'Shea. A son of one of America’s wealthiest families creates a communist revolutionary base in rural Massachusetts as a means of disrupting the capitalist system he grew up in, but has now come to despise. It’s the starting point of an astonishing journey.</description>
+    </item>
+    <item>
+      <title>Language of the Wind</title>
+      <link>https://www.themoviedb.org/movie/1804839</link>
+      <guid isPermaLink="false">movie-1804839</guid>
+      <pubDate>Fri, 30 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Shimataver Igbawua. The story follows 16-year-old Shatu, who has spent her life tending cattle but secretly longs for city life. The day after her wedding to her traditional cousin Ardo (17), she finds a potential path to escape. As they lead their cattle to graze, the silence and tension between them build into a heavy confrontation of unspoken truths and life-altering decisions on the plains.</description>
+    </item>
+    <item>
       <title>Don't Let The Bastards Grind You Down</title>
       <link>https://www.themoviedb.org/movie/1575273</link>
       <guid isPermaLink="false">movie-1575273</guid>
@@ -490,137 +702,11 @@
       <description>Directed by Christoph Farwig. &quot;Don't Let The Bastards Grind You Down&quot; is a documentary film about British social policy. The focus is on the political struggle against neoliberal austerity policies, which have their origins in the hated Thatcher government.  The film features the former socialist MP Dave Nellist, who is now the national chair of the Trade Unionist &amp; Socialist Coalition and Hannah Sell, the general secretary of the Socialist Party. The film features a local election campaign in the miners' town of Nuneaton, students campaigning against an increase in tuition fees and refuse workers from Birmingham striking against massive cuts to their wages.</description>
     </item>
     <item>
-      <title>Beyond</title>
-      <link>https://www.themoviedb.org/movie/1778040</link>
-      <guid isPermaLink="false">movie-1778040</guid>
-      <pubDate>Thu, 05 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Ben Menashe. Beyond follows people living with and beyond cancer as they discover strength, connection, and a new sense of possibility through climbing. Set between indoor walls and wild mountain rock, it is a powerful story about recovery becoming adventure.</description>
-    </item>
-    <item>
-      <title>Making Marie Antoinette</title>
-      <link>https://www.themoviedb.org/movie/1754364</link>
-      <guid isPermaLink="false">movie-1754364</guid>
-      <pubDate>Fri, 06 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Eleanor Coppola. Eleanor Coppola's behind-the-scenes documentation of her daughter Sofia Coppola directing the 2006 film Marie Antoinette, capturing the craftsmanship and challenges of being a young female director.</description>
-    </item>
-    <item>
-      <title>George Michael: The Faith Tour</title>
-      <link>https://www.themoviedb.org/movie/1649403</link>
-      <guid isPermaLink="false">movie-1649403</guid>
-      <pubDate>Fri, 06 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Andy Morahan. A stunning delve into George Michael's 1988 Faith Tour, as shot live at the famous Palais Omnisports de Paris-Bercy. This exclusive footage, assembled from a 14-camera shoot captured on 35mm over two nights (30–31 May 1988), features the 24-year-old pop star at the height of his powers.</description>
-    </item>
-    <item>
-      <title>Avedon</title>
-      <link>https://www.themoviedb.org/movie/1666787</link>
-      <guid isPermaLink="false">movie-1666787</guid>
-      <pubDate>Fri, 06 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Ron Howard. Richard Avedon’s photographs didn’t just reflect culture, they shaped it, and continue to do so. The feature documentary AVEDON traces the life and legacy of an artist who used fashion, portraiture, and commercial photography to explore identity, power, fear and beauty. With unprecedented access to Avedon’s archive, including never before seen photos, behind the scenes recordings, and interviews with those who knew him best, AVEDON is a visually stunning examination of the mind of an artist who shaped our collective image of the 20th century.</description>
-    </item>
-    <item>
-      <title>Finding Faith</title>
-      <link>https://www.themoviedb.org/movie/1652192</link>
-      <guid isPermaLink="false">movie-1652192</guid>
-      <pubDate>Fri, 06 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Mary McCartney. A short film contextualising the cultural significance of George Michael's Faith Tour via unheard interview voice-over, unseen images by Herb Ritts, and behind-the-scenes footage of the Faith music video.</description>
-    </item>
-    <item>
-      <title>Whispers in the Woods</title>
-      <link>https://www.themoviedb.org/movie/1309373</link>
-      <guid isPermaLink="false">movie-1309373</guid>
-      <pubDate>Fri, 13 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Vincent Munier. In the heart of the tranquil Vosges forests, where lynxes, bears and deer roam freely, Vincent Munier accompanies his father on his expeditions. He not only seeks to capture the visual wonders of this forest kingdom, but also aims to make its sounds audible. Every whisper of the forest is a reminder of the knowledge of nature that his father once imbued in him – knowledge that Vincent now passes on to his own son. Vincent Munier combines breathtaking footage of nature and its sounds to create a fairytale-like cinematic experience that slows time down.</description>
-    </item>
-    <item>
-      <title>Nuisance Bear</title>
-      <link>https://www.themoviedb.org/movie/1595210</link>
-      <guid isPermaLink="false">movie-1595210</guid>
-      <pubDate>Fri, 13 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Gabriela Osio Vanden. A polar bear is forced to navigate a human world of tourists, wildlife officers, and hunters as its ancient migration collides with modern life. When a sacred predator is branded a nuisance, it becomes unclear who truly belongs in this shared landscape.</description>
-    </item>
-    <item>
-      <title>1 in 2</title>
-      <link>https://www.themoviedb.org/movie/1771402</link>
-      <guid isPermaLink="false">movie-1771402</guid>
-      <pubDate>Fri, 13 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by David Wilkinson. Nearly one in two of us will be diagnosed with cancer at some point in our lives. David Nicholas Wilkinson is one of them, twice over. 1 in 2 follows Wilkinson through his own treatment, where he discovers a steep rise in bowel cancer among people far too young to be screened for it, and far too young, it seems, to be believed.</description>
-    </item>
-    <item>
-      <title>Whiddy (ARTE)</title>
-      <link>https://www.themoviedb.org/movie/1637730</link>
-      <guid isPermaLink="false">movie-1637730</guid>
-      <pubDate>Fri, 13 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Adrian McCarthy. A small rural community in Ireland welcomes in a major, global oil company with open arms but just 10 years and numerous oil spills later, that dream turns into an unimaginable nightmare. 50 lives lost in a tragedy that silenced and divided the community and still haunts it to this day.</description>
-    </item>
-    <item>
-      <title>The Neighbourhood is Changing</title>
-      <link>https://www.themoviedb.org/movie/1748010</link>
-      <guid isPermaLink="false">movie-1748010</guid>
-      <pubDate>Mon, 16 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Documentary on the making and legacy of Mulberry Street featuring new interviews with cast and crew</description>
-    </item>
-    <item>
-      <title>You Can See Everything</title>
-      <link>https://www.themoviedb.org/movie/1765072</link>
-      <guid isPermaLink="false">movie-1765072</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Nathan Fielder. Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.</description>
-    </item>
-    <item>
-      <title>American Doctor</title>
-      <link>https://www.themoviedb.org/movie/1596332</link>
-      <guid isPermaLink="false">movie-1596332</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Poh Si Teng. United by a shared oath to save lives, three American doctors—Palestinian, Jewish, and Zoroastrian—work in a besieged hospital in Gaza and return to the United States to fight for the patients and colleagues they left behind.</description>
-    </item>
-    <item>
-      <title>Phantom 814</title>
-      <link>https://www.themoviedb.org/movie/1749739</link>
-      <guid isPermaLink="false">movie-1749739</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Jake Hanrahan. Heavy Weekend 03: Unique access to the most mysterious organisation in France. Jake Hanrahan travels with the bizarre syndicate known as &quot;814SSR&quot;. They shoot guns, host fight clubs, and make money in the underground. Yet still, they insist they're not a gang and are simply doing hardcore trolling. The truth? Decide for yourself...</description>
-    </item>
-    <item>
-      <title>Remember the Summit</title>
-      <link>https://www.themoviedb.org/movie/1643130</link>
-      <guid isPermaLink="false">movie-1643130</guid>
-      <pubDate>Sat, 21 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Timothy Dhalleine. Sir Chris Bonington’s return to Torres del Paine, 62 years after the first ascent of the Central Tower.  At 91 years old, and while living with Alzheimer’s disease, the documentary accompanies Bonington in a profoundly human return: an attempt to reconnect with memories that time has erased, but that the Patagonian landscape still seems to guard. During the filming, Chris once again set foot on the territory of Estancia Cerro Guido, closing a circle between past and present, between the epic of mountaineering and the fragility of memory.</description>
-    </item>
-    <item>
-      <title>SO ALIVE!</title>
-      <link>https://www.themoviedb.org/movie/1798327</link>
-      <guid isPermaLink="false">movie-1798327</guid>
-      <pubDate>Tue, 24 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by yennik arual. A fictional boy aims to become a non-fictional rapper. His label has other plans.</description>
-    </item>
-    <item>
-      <title>14th</title>
-      <link>https://www.themoviedb.org/movie/1732479</link>
-      <guid isPermaLink="false">movie-1732479</guid>
-      <pubDate>Fri, 27 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Ava DuVernay. Revolves around the equal protection and citizenship-focused 14th amendment, which was ratified in 1868 in the turbulent era of Reconstruction and has been a contentious part of the American body politic ever since.</description>
-    </item>
-    <item>
-      <title>Rehearsals for a Revolution</title>
-      <link>https://www.themoviedb.org/movie/1666864</link>
-      <guid isPermaLink="false">movie-1666864</guid>
-      <pubDate>Fri, 08 Jan 2027 09:00:00 GMT</pubDate>
-      <description>Directed by Pegah Ahangarani. Through five portraits of relatives and mentors, five expressions of resistance, Pegah Ahangarani sketches her life story. Drawing from personal archives, home videos, street protests footage, newspapers, and recorded voices, she retraces more than 40 years of Iran’s history. From the early days of 1979, until the war that began in 2026, she pieces together intimate and collective memories, forming the portrait of a country shaped by political repression and in constant hope for a revolution.</description>
-    </item>
-    <item>
-      <title>Each Day in a Moment: 2026</title>
-      <link>https://www.themoviedb.org/movie/1785124</link>
-      <guid isPermaLink="false">movie-1785124</guid>
-      <pubDate>Fri, 08 Jan 2027 09:00:00 GMT</pubDate>
-      <description>Directed by Sam O. Burgess. One person’s perspective of the year 2026 shown through an accumulation of 365 unedited shots.</description>
-    </item>
-    <item>
-      <title>Renoir &amp; Love</title>
-      <link>https://www.themoviedb.org/movie/1747216</link>
-      <guid isPermaLink="false">movie-1747216</guid>
-      <pubDate>Tue, 19 Jan 2027 09:00:00 GMT</pubDate>
-      <description>Directed by Ali Ray. Pierre-Auguste Renoir is one of the world’s favourite artists, a founding member of the Impressionist movement and a constantly evolving artist. With exclusive access to the National Gallery’s new exciting show of the same name (3 October 2026 – 31 January 2027), Exhibition on Screen will bring Renoir’s world class works to cinema audiences. Be transported back to a Parisian summer of love through the eyes of a true visionary. An unmissable opportunity to fall in love with Renoir this winter.</description>
+      <title>Of Times There Were Before</title>
+      <link>https://www.themoviedb.org/movie/1792337</link>
+      <guid isPermaLink="false">movie-1792337</guid>
+      <pubDate>Tue, 03 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Eshan Sharma. Of Times There Were Before is a portrait of Romila Thapar, one of the world’s most influential historians and public intellectuals. At ninety-four, having lived through much of the making of modern India, she stands at an unusual distance from the past she has spent a lifetime studying. The film began with a simple question: who is the person behind the historian’s name? Shot at her home in New Delhi, it is an attempt to encounter Thapar beyond the authority of her work and the public image built around it. What emerges is a portrait of a life still in conversation with its own time.</description>
     </item>
   </channel>
 </rss>
