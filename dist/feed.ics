@@ -8,1385 +8,8 @@ X-WR-TIMEZONE:Europe/Dublin
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:tv-337188@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Sam and Colby: Paranormal Investigators (Netflix)
-DESCRIPTION:From Netflix\n\nBest friends Sam and Colby visit some of the 
- world’s most haunted locations in search of paranormal evidence\, tryi
- ng to answer one question: Are ghosts real?\n\nhttps://www.themoviedb.or
- g/tv/337188
-URL:https://www.themoviedb.org/tv/337188
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tv-337513@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Welcome Home Los Angeles
-DESCRIPTION:https://www.themoviedb.org/tv/337513
-URL:https://www.themoviedb.org/tv/337513
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1596303@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:The Last First: Winter K2 (Apple Original Films)
-DESCRIPTION:Directed by Amir Bar-Lev\n\nFrom Apple Original Films\n\nA hi
- storic race to become the first to summit K2 in winter unravels into tra
- gedy\, exposing how ambition\, ego\, and the pursuit of glory can be as 
- dangerous as the mountain itself.\n\nhttps://www.themoviedb.org/movie/15
- 96303
-URL:https://www.themoviedb.org/movie/1596303
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tv-334888@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:Africa Earth's Wild Home
-DESCRIPTION:African wildlife and landscapes is brought to the screen like
-  never before\, using the latest technology to tell the most extraordina
- ry stories from the continent and cutting-edge CGI to unearth the deep h
- istory and forces that shaped Africa's natural worlds.\n\nhttps://www.th
- emoviedb.org/tv/334888
-URL:https://www.themoviedb.org/tv/334888
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1299581@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:Knife: The Attempted Murder of Salman Rushdie
-DESCRIPTION:Directed by Alex Gibney\n\nIn 2022\, Salman Rushdie was prepa
- ring to deliver a lecture on the United States as a safe haven for write
- rs when a man rushed the stage and\, in 27 seconds\, stabbed him 15 time
- s. Airlifted to hospital\, Rushdie survived\, barely\, and his wife Rach
- el Eliza Griffiths began filming immediately\, capturing an unfiltered v
- iew of his recovery\, return to life and how he regained his spirit and 
- hope for the future.\n\nhttps://www.themoviedb.org/movie/1299581
-URL:https://www.themoviedb.org/movie/1299581
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1632638@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:Try!
-DESCRIPTION:Directed by Oisín Mistéil\n\nFour Irish Rugby teams who def
- y stereotypes tackle their way to the Mixed Ability Rugby World Cup\, wh
- ere full-contact sport meets joyful belonging.\n\nhttps://www.themoviedb
- .org/movie/1632638
-URL:https://www.themoviedb.org/movie/1632638
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1596306@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:Kikuyu Land
-DESCRIPTION:Directed by Andrew H. Brown\n\nAs a Nairobi journalist probes
-  a land battle entangling the local government and a powerful multinatio
- nal corporation\, covered wounds are revealed and family secrets are exp
- osed.\n\nhttps://www.themoviedb.org/movie/1596306
-URL:https://www.themoviedb.org/movie/1596306
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1788629@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:Inside the mind of Karl Ove Knausgård
-DESCRIPTION:Directed by Ben Falk\n\nBBC Documentary about the most famous
-  Norwegian writer\, Karl Ove Knausgård\, author of My Struggle.\n\nhttp
- s://www.themoviedb.org/movie/1788629
-URL:https://www.themoviedb.org/movie/1788629
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1785330@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:Woven Ground
-DESCRIPTION:Directed by Blair Coron\n\nComposer Blair Coron takes his mus
- ical instruments\, recording equipment and friends to the islands\, glen
- s and forests of Scotland to record directly in the landscapes that insp
- ired the music.\n\nhttps://www.themoviedb.org/movie/1785330
-URL:https://www.themoviedb.org/movie/1785330
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1559353@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:Hide and Seek
-DESCRIPTION:Directed by Baysalt Gui\n\nThis documentary follows two long-
- lost Ukrainian friends\, Arsalan and Nastya\, as they reconnect in Germa
- ny after russia's full-scale invasion against Ukraine.  Arsalan\, an act
- or now in Frankfurt after time in a refugee camp\, and Nastya\, journali
- st and producer who stayed in Kyiv\, reflect on the divergent paths thei
- r lives have taken due to the war. Through their conversations and thera
- py sessions\, the film explores themes of displacement\, identity\, and 
- the emotional impact of war on youth.\n\nhttps://www.themoviedb.org/movi
- e/1559353
-URL:https://www.themoviedb.org/movie/1559353
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1438857@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:Secrets of the Southwest: Science Behind the Secrets
-DESCRIPTION:Meet the inspiring individuals and communities who work to pr
- otect our most beloved UK wildlife.\n\nhttps://www.themoviedb.org/movie/
- 1438857
-URL:https://www.themoviedb.org/movie/1438857
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1438874@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:Secrets of the Southwest
-DESCRIPTION:Discover the hidden stories Britain's southwest has to offer.
-  From Foxes fighting on the streets of Bristol to Puffins looking for lo
- ve on Skomer Island.\n\nhttps://www.themoviedb.org/movie/1438874
-URL:https://www.themoviedb.org/movie/1438874
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1752355@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:Schumacher ’94 – The Birth of a Legend (Netflix)
-DESCRIPTION:Directed by Christin Freitag\n\nFrom Netflix\n\nMichael Schum
- acher's first World Championship win roars to life through personal inte
- rviews and archival footage of the legendary 1994 Formula 1 season.\n\nh
- ttps://www.themoviedb.org/movie/1752355
-URL:https://www.themoviedb.org/movie/1752355
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1767753@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:Jet Lag: The Game – Japanorama Finale
-DESCRIPTION:Directed by Sam Denby\n\nWatch the conclusion of Jet Lag: The
-  Game's biggest season ever with this screening of the final two\, actio
- n-packed episodes as Tom & Adam race Sam & Ben to the top of Hokkaido.\n
- \nhttps://www.themoviedb.org/movie/1767753
-URL:https://www.themoviedb.org/movie/1767753
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1786910@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:Garden Sanctuary
-DESCRIPTION:Directed by FMDS\n\nMy Walk on the 2nd of October.\n\nhttps:/
- /www.themoviedb.org/movie/1786910
-URL:https://www.themoviedb.org/movie/1786910
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tv-338377@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
-SUMMARY:Aileen Wuornos: Damsel of Death
-DESCRIPTION:Aileen Wuornos: Damsel of Death re-examines the crimes and li
- fe of one of America’s most notorious female killers\, drawing on FBI 
- case files and testimony from Brian Jarvis\, the lead detective who inve
- stigated Wuornos and questioned her following her arrest. Beginning with
-  the murder of Richard Mallory in Florida in November 1989\, the documen
- tary traces a series of killings that left seven men dead over the follo
- wing 11 months. As bodies were discovered along Florida’s highways\, a
- ll shot multiple times\, investigators began searching for the person re
- sponsible.\n\nhttps://www.themoviedb.org/tv/338377
-URL:https://www.themoviedb.org/tv/338377
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1717258@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
-SUMMARY:Travel Reminiscence
-DESCRIPTION:Directed by Barney Gibbons\n\nAt a London community centre\, 
- facilitators and volunteers run a travel-themed session for people livin
- g with dementia and their families\, friends and carers.  Together\, the
-  group embarks on a playful journey: discussing past trips\, revisiting 
- these through theatre\, and writing postcards to loved ones.\n\nhttps://
- www.themoviedb.org/movie/1717258
-URL:https://www.themoviedb.org/movie/1717258
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1657888@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:Damilola Taylor: The Untold Story
-DESCRIPTION:Directed by Alex Thomas\n\nTen-year-old Damilola Taylor was f
- atally stabbed in 2000 in a stairwell in Peckham\, South East London\, j
- ust metres from his home. 'Star Wars' star John Boyega\, who also grew u
- p in Peckham\, speaks for the first time about being one of the last peo
- ple to see him alive\, sharing the fear and uncertainty that followed in
-  the aftermath of Taylor's death. Boyega is joined by close friends and 
- family members of Taylor\, who reveal the events that led to his death a
- nd talk for the first time about the impact his tragic murder has had in
-  shaping their lives.\n\nhttps://www.themoviedb.org/movie/1657888
-URL:https://www.themoviedb.org/movie/1657888
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tv-337531@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:Convictions Gone Bad With Will Mellor
-DESCRIPTION:Directed by Will Mellor\n\nWill Mellor examines five of the m
- ost shocking miscarriages of justice in legal history. Will unpacks how 
- the system made mistakes and reveals the crucial evidence that eventuall
- y set the wrongfully convicted free.\n\nhttps://www.themoviedb.org/tv/33
- 7531
-URL:https://www.themoviedb.org/tv/337531
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1795205@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:Kibboutz Nir Oz\, aux portes de Gaza (ARTE)
-DESCRIPTION:Directed by Olga Kravets\n\nFrom ARTE\n\nhttps://www.themovie
- db.org/movie/1795205
-URL:https://www.themoviedb.org/movie/1795205
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1537630@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:Karl
-DESCRIPTION:Directed by Nick Hooker\n\n“I have spent so much time playi
- ng a role that it’s almost impossible for anyone to know who I really 
- am\,” Karl Lagerfeld once proclaimed. The German fashion designer\, cr
- eative director and cultural force\, who dominated the world of fashion 
- for more than seven decades\, is finally revealed in ravishing detail.\n
- \nhttps://www.themoviedb.org/movie/1537630
-URL:https://www.themoviedb.org/movie/1537630
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1669763@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:The Dance of the Kokorrdit
-DESCRIPTION:Directed by Elio B Cunampio\n\nA Wounaan teenager and a leade
- r of their community venture into the Darién in search of a sacred bird
- . Along the way\, they will face the dangers that threaten their territo
- ry and their culture.\n\nhttps://www.themoviedb.org/movie/1669763
-URL:https://www.themoviedb.org/movie/1669763
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1791828@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:The Fight to Be Heard
-DESCRIPTION:Directed by Leah Rustomjee\n\nThe Amnesty International UK ex
- plores the human stories behind protest and the growing pressures faced 
- by protesters in the UK today.\n\nhttps://www.themoviedb.org/movie/17918
- 28
-URL:https://www.themoviedb.org/movie/1791828
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1807386@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:Small People\, Big Adventures - Big Peaks and Little Donkeys
-DESCRIPTION:Directed by Menna Wakeford\n\nRenowned climber and explorer L
- eo Houlding takes his family to the remote mountains of Kyrgyzstan with 
- a clear objective: to attempt an unclimbed peak deep in the Tien Shan mo
- untain range.\n\nhttps://www.themoviedb.org/movie/1807386
-URL:https://www.themoviedb.org/movie/1807386
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tv-337539@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:Mafia: Behind the Bloodshed
-DESCRIPTION:Directed by Max Serio\n\nMafia: Behind the Bloodshed reveals 
- the real-world operations\, structures\, and history of major global org
- anized crime groups.\n\nhttps://www.themoviedb.org/tv/337539
-URL:https://www.themoviedb.org/tv/337539
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1756138@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:Who Is Martin Mull? (Netflix)
-DESCRIPTION:Directed by Neil Berkeley\n\nFrom Netflix\n\nDiscover Martin 
- Mull's restless reinvention from smoky folk clubs to primetime sitcoms t
- o gallery walls\, told in his own words and by the friends who watched i
- t happen\, including Steve Martin\, Tom Waits\, David Alan Grier and oth
- ers.\n\nhttps://www.themoviedb.org/movie/1756138
-URL:https://www.themoviedb.org/movie/1756138
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tv-337700@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:The Serial Killer Connection
-DESCRIPTION:The series investigates serial killer Richard “Marc” Evon
- itz\, who kidnapped\, assaulted\, and murdered multiple young girls (inc
- luding Sofia Marlene Silva\, Kristin Michelle Lisk\, and Kathryn Nicole 
- Lisk\n\nhttps://www.themoviedb.org/tv/337700
-URL:https://www.themoviedb.org/tv/337700
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1781368@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:Landscapes of Shame
-DESCRIPTION:Directed by Patrick Hough\n\nNavigating Ireland’s haunted l
- andscapes\, ecological extinction and cultural suppression emerge as int
- ertwined forms of colonial erasure.\n\nhttps://www.themoviedb.org/movie/
- 1781368
-URL:https://www.themoviedb.org/movie/1781368
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1637977@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:The World Came Flooding In
-DESCRIPTION:Directed by Isobel Knowles\n\nThe World Came Flooding In is a
- n immersive VR documentary reconstructing memories of the eastern Austra
- lia floods in 2022\, which is representative of similar events that happ
- ened recently in various parts of the world.\n\nhttps://www.themoviedb.o
- rg/movie/1637977
-URL:https://www.themoviedb.org/movie/1637977
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1447853@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:Oasis: Don't Look Back in Anger
-DESCRIPTION:Directed by Dylan Southern\n\nExperience the meteoric rise of
-  Oasis through rare footage and untold stories as the band reunites for 
- Oasis Live '25\, chronicling their journey from Manchester streets to gl
- obal rock stardom.\n\nhttps://www.themoviedb.org/movie/1447853
-URL:https://www.themoviedb.org/movie/1447853
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1596285@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:The Disciple: A Wu-Tang Fable (Netflix)
-DESCRIPTION:Directed by Joanna Natasegara\n\nFrom Netflix\n\nThis documen
- tary recounts Cilvaringz's unlikely rise from fan to Wu-Tang Clan fame 
- — and how the infamous "Once Upon a Time in Shaolin" album came to be.
- \n\nhttps://www.themoviedb.org/movie/1596285
-URL:https://www.themoviedb.org/movie/1596285
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1678239@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:Lesbian Lines
-DESCRIPTION:Directed by Cara Holmes\n\nIn a silenced Ireland\, a communit
- y of lesbians builds an underground network of helplines - offering conn
- ection\, survival\, and defiance through the simple act of answering the
-  phone.\n\nhttps://www.themoviedb.org/movie/1678239
-URL:https://www.themoviedb.org/movie/1678239
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1557817@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:André Leon Talley — Style is Forever (Greenwich Entertainment)
-DESCRIPTION:Directed by Zach Stafford\n\nFrom Greenwich Entertainment\n\n
- André Leon Talley was a trailblazing fashion icon whose influence spann
- ed nearly five decades. This documentary explores his legacy of inclusiv
- ity\, elegance\, and the fearless pursuit of authenticity. Interviews wi
- th Anna Wintour\, Tom Ford and Diane von Furstenberg\, among others\, as
-  well as never-before-seen footage\, reveal Talley’s personal and prof
- essional challenges and remarkable triumphs.\n\nhttps://www.themoviedb.o
- rg/movie/1557817
-URL:https://www.themoviedb.org/movie/1557817
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1792851@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:Le grand jeu de Jessica Chastain (ARTE)
-DESCRIPTION:Directed by Patrick Boudet\n\nFrom ARTE\n\nhttps://www.themov
- iedb.org/movie/1792851
-URL:https://www.themoviedb.org/movie/1792851
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1791598@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:Mucker
-DESCRIPTION:Directed by Titus Fossgard-Moser\n\nMucker provides a fascina
- ting insight into the professional and personal life of the pioneering a
- nd award winning British documentary film maker Brian Moser.\n\nhttps://
- www.themoviedb.org/movie/1791598
-URL:https://www.themoviedb.org/movie/1791598
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1791563@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:The Sound We Make Together
-DESCRIPTION:Directed by Maddalena Cagol\n\nStriving for fame\, is that th
- e right reason to be head over heels in the competitive music industry? 
- It's no secret that the music industry is one of the toughest out there
- …creative slumps\, isolation\, the fear of 'not making it' and failure
- . So\, we introduce The Hills Brothers\, a brotherly duo of musicians\, 
- local to Portsmouth\, who spend their nights hosting several Open Mic ni
- ghts all over Portsmouth and Hampshire. Take a deeper look into why they
-  find these Open Mic nights more than just a fun night to express yourse
- lf and your music. Understand why these nights create a community for mu
- sicians and why venues like Casemates are essential for the artists supp
- ort.\n\nhttps://www.themoviedb.org/movie/1791563
-URL:https://www.themoviedb.org/movie/1791563
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1791595@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:Dreamscape
-DESCRIPTION:Directed by Meray Diner\n\nDreamscape is a quest on the weigh
- t of times we never imagined would become our reality. In the quiet hour
- s of sleep\, when our defenses soften\, buried emotions rise to the surf
- ace\, often more vivid than waking life. For those shaped by migration a
- nd marked by generational trauma\, dreams become both a refuge and a mir
- ror. This film explores how the unconscious mind reflects collective and
-  personal struggle. It journeys through the inner worlds we create to su
- rvive\, to heal\, and to simply endure whether that's building coping me
- chanisms through faith\, art\, somatics or activism.\n\nhttps://www.them
- oviedb.org/movie/1791595
-URL:https://www.themoviedb.org/movie/1791595
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1758549@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:The Great Maia
-DESCRIPTION:Directed by David James Armsby\n\n"Great Maia" is an extra-sp
- ecial film of the "Dinosauria Animated Series"\, it is set in the Two Me
- dicine Formation during the Late Cretaceous and follows a young first-ti
- me mother Maiasaura as she tries to protect her first clutch of eggs.\n\
- nhttps://www.themoviedb.org/movie/1758549
-URL:https://www.themoviedb.org/movie/1758549
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tv-336418@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-SUMMARY:The Pet Cemetery Murders: A Ghost Story (HBO Documentary Films)
-DESCRIPTION:From HBO Documentary Films\n\nThe re-opening of a mysterious 
- 1985 cold case murder in Louisiana unearths a haunting history of bloods
- hed and long-buried trauma.\n\nhttps://www.themoviedb.org/tv/336418
-URL:https://www.themoviedb.org/tv/336418
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1768600@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-SUMMARY:Cosmic Symphony
-DESCRIPTION:Directed by Laura Karpman\n\nFour iconic instruments\, includ
- ing The Wizard of Oz and A Star Is Born pianos\, all lost in the 2025 Lo
- s Angeles Fires\, are celebrated by their musicians\, culminating in an 
- animated send-off towards an imagined future\, a Cosmic Symphony. Direct
- ed by Oscar-nominated composer Laura Karpman\, and featuring John Clayto
- n\, Susie Chung\, Starr Parodi and Diane Warren\, Cosmic Symphony explor
- es a truth that every musician knows - musical instruments have souls.\n
- \nhttps://www.themoviedb.org/movie/1768600
-URL:https://www.themoviedb.org/movie/1768600
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1794685@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-SUMMARY:The Fall and Rise of the Barras
-DESCRIPTION:Directed by Gavin Lundy\n\nDirector Gavin Lundy explores the 
- resurgence of Glasgow's famous Barras Market only to find new questions 
- of identity in a changing city.\n\nhttps://www.themoviedb.org/movie/1794
- 685
-URL:https://www.themoviedb.org/movie/1794685
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1790935@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:Instadocs: AI Gone Wild (Netflix)
-DESCRIPTION:From Netflix\n\nDid AI just commit a felony? "Instadocs" inve
- stigates the Hugging Face hack and why this cyberattack may be a warning
-  shot for humanity's future.\n\nhttps://www.themoviedb.org/movie/1790935
-URL:https://www.themoviedb.org/movie/1790935
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1489932@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:Always Lalisa
-DESCRIPTION:Directed by Sue Kim\n\nDocumentary following global superstar
-  LISA during a transformative year away from BLACKPINK\, the K-pop pheno
- menon that made her one of the world's most recognizable performers. Doc
- umenting a year of risk\, reinvention\, and self-discovery as LISA begin
- s to define her next chapter.\n\nhttps://www.themoviedb.org/movie/148993
- 2
-URL:https://www.themoviedb.org/movie/1489932
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1400778@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:Free Leonard Peltier (Netflix)
-DESCRIPTION:Directed by Jesse Short Bull\n\nFrom Netflix\n\nLeonard Pelti
- er\, one of the surviving leaders of the American Indian Movement\, has 
- been in prison for 50 years following a contentious conviction. A new ge
- neration of Native activists is committed to winning his freedom before 
- he dies.\n\nhttps://www.themoviedb.org/movie/1400778
-URL:https://www.themoviedb.org/movie/1400778
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1797914@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:Me\, Myself and Vegas
-DESCRIPTION:Directed by Tyler-James\n\nA young woman from England struggl
- ing to find a partner to walk her down the aisle goes to Las Vegas where
-  she marries herself in this documentary of self love.\n\nhttps://www.th
- emoviedb.org/movie/1797914
-URL:https://www.themoviedb.org/movie/1797914
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1791155@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:A Norway Visit : Skjolden
-DESCRIPTION:Directed by Alfie Bristow\n\nSkjolden is a beautiful and lusc
- ious town in Norway's deepest and longest fjord of Sognefjord. Camouflag
- ed in the bright\, green mountains lies tips\, facts and awe which will 
- capture any viewer's attention.\n\nhttps://www.themoviedb.org/movie/1791
- 155
-URL:https://www.themoviedb.org/movie/1791155
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1769897@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:Transformation
-DESCRIPTION:Directed by Ganna Tretiak\n\nA feature-length documentary exp
- loring the profound inner metamorphosis of Ukrainian civilians from the 
- creative sector who chose to enlist as soldiers to defend their country.
-  The film maps the deep psychological and lifestyle shifts experienced b
- y musicians\, artists\, and filmmakers as they stepped away from civilia
- n art to enter the realities of war.\n\nhttps://www.themoviedb.org/movie
- /1769897
-URL:https://www.themoviedb.org/movie/1769897
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ep-36695-7947155@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:Ask E. Jean (BBC Storyville)
-DESCRIPTION:From BBC Storyville\n\nThe thrilling story of E. Jean Carroll
- ’s life\, from her early days as Miss Cheerleader USA to her rise as a
-  trailblazing journalist\, author\, and beloved advice columnist. Carrol
- l broke barriers as the first female editor at Esquire\, Playboy\, and O
- utside\, helping to redefine women’s roles in media with her sharp wit
-  and fearless voice. In recent years\, she reignited public discourse by
-  standing up to power\, becoming the only woman to beat Donald Trump twi
- ce in court\, and sparking a national conversation about truth\, account
- ability\, and resilience. A portrait of an indomitable woman who proved 
- it’s never too late to reclaim your voice\, rewrite your story\, and c
- hange the world.\n\nhttps://www.themoviedb.org/tv/36695/season/30/episod
- e/11
-URL:https://www.themoviedb.org/tv/36695/season/30/episode/11
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tv-335536@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:TYSON (Netflix)
-DESCRIPTION:From Netflix\n\nExplore the explosive life of Mike Tyson — 
- one of the most feared and fascinating figures in sports history.\n\nhtt
- ps://www.themoviedb.org/tv/335536
-URL:https://www.themoviedb.org/tv/335536
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tv-328226@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:The Search for Leah Croucher: A Parent's Nightmare
-DESCRIPTION:Directed by Jonathan Drake\n\nA two-part document about the d
- isappearance of a 19-year-old woman in the English town of Milton Keynes
-  in 2019.\n\nhttps://www.themoviedb.org/tv/328226
-URL:https://www.themoviedb.org/tv/328226
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tv-337983@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:Matt Baker: Our Barn in the Dales
-DESCRIPTION:Matt Baker and his family face one of the biggest projects of
-  their lives: transforming an old barn\, granary and stable beside Matt'
- s parents' farmhouse into a new home of their own.\n\nhttps://www.themov
- iedb.org/tv/337983
-URL:https://www.themoviedb.org/tv/337983
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1807093@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:Dream of Birds
-DESCRIPTION:Directed by Martín Benchimol\n\nWhat happens when a forest l
- oses its birdsong? Following clues hidden in the sounds birds make while
-  asleep\, Argentinian physicist Gabriel Mindlin uncovers a hidden extinc
- tion – not of species\, but of memory – and sets out to revive vanis
- hed melodies before they disappear forever. Part detective story\, part 
- cutting-edge science\, Mindlin's mission leads him to the dusty 1960s ar
- chives of Buenos Aires naturalist\, confirming that some songs no longer
-  echo in the biosphere. So he deploys "robot tutors" to see whether youn
- g birds can learn and spread the old songs once again.\n\nhttps://www.th
- emoviedb.org/movie/1807093
-URL:https://www.themoviedb.org/movie/1807093
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1113623@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Carl Sagan: We Are Made of Star Stuff (National Geographic Docume
- ntary Films)
-DESCRIPTION:Directed by Nanette Burstein\n\nFrom National Geographic Docu
- mentary Films\n\nAn intimate and cinematic portrait of astronomer and pl
- anetary scientist Carl Sagan.\n\nhttps://www.themoviedb.org/movie/111362
- 3
-URL:https://www.themoviedb.org/movie/1113623
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tv-339320@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:突围
-DESCRIPTION:https://www.themoviedb.org/tv/339320
-URL:https://www.themoviedb.org/tv/339320
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1807273@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Beura
-DESCRIPTION:Directed by Gregor D. Sinclair\n\nThe tale of the Cailleach B
- heur\, the Celtic goddess of nature\, storms and winter\, is well known 
- to many in the Gàidhealtachd. Said to have carved the mountains and gle
- ns with ice\, and borne the islands like children on her back\, the Cail
- leach disappeared long ago leaving us only with her song – a sad\, cau
- tionary tale. This Gaelic arts project brings music\, film and verse tog
- ether to reimagine Cailleach’s story for the modern era.\n\nhttps://ww
- w.themoviedb.org/movie/1807273
-URL:https://www.themoviedb.org/movie/1807273
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1771719@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:Lady Liberty: Secrets of an Icon (ARTE)
-DESCRIPTION:Directed by Julien Johan\n\nFrom ARTE\n\nThis iconic statue w
- as a gift from France to the new-born American Republic and was the firs
- t crowd-funded monument of all time. A symbol of emancipation and freedo
- m\, which took two decades to be completed. The film features original 3
- D virtual reconstitutions of Auguste Bartholdi’s Atelier in Paris and 
- travels back in time to bring viewers at the heart of the Statue’s ori
- ginal construction\, revealing the founding ideals of our democracies.\n
- \nhttps://www.themoviedb.org/movie/1771719
-URL:https://www.themoviedb.org/movie/1771719
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tv-337911@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:Corregidora: The Darkest Night in Mexican Soccer
-DESCRIPTION:Revisits the events of March 5\, 2022\, during the match betw
- een Querétaro and Atlas\, reconstructing what unfolded and examining it
- s aftermath\, the conflicting narratives surrounding the case\, and the 
- questions that\, four years later\, remain unresolved.\n\nhttps://www.th
- emoviedb.org/tv/337911
-URL:https://www.themoviedb.org/tv/337911
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1755291@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:NAZA
-DESCRIPTION:Directed by Yuval Abraham\n\nFilmed at night from Tel Aviv ro
- oftops\, this investigative documentary examines the civilian casualties
-  of Israel's military operations in Gaza and the systems behind targeted
-  killings of Palestinians.\n\nhttps://www.themoviedb.org/movie/1755291
-URL:https://www.themoviedb.org/movie/1755291
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1620918@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Norm: The Tale of Norm Macdonald (Netflix)
-DESCRIPTION:Directed by Judd Apatow\n\nFrom Netflix\n\nGo down a wormhole
-  in this documentary on master of deadpan humor Norm Macdonald\, whose l
- ife and career were uncompromising yet full of contradictions.\n\nhttps:
- //www.themoviedb.org/movie/1620918
-URL:https://www.themoviedb.org/movie/1620918
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tv-296466@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Marília Mendonça: All the Feels
-DESCRIPTION:How did an ordinary girl from the heart of Brazil become a ph
- enomenon? Through previously unreleased footage\, audio recordings and i
- nterviews\, the series traces Marília Mendonça's meteoric rise from si
- nging at a gas station to becoming one of Brazil's biggest artists.\n\nh
- ttps://www.themoviedb.org/tv/296466
-URL:https://www.themoviedb.org/tv/296466
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1798030@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:STYMIE
-DESCRIPTION:A documentary based on the word 'stymie'.\n\nhttps://www.them
- oviedb.org/movie/1798030
-URL:https://www.themoviedb.org/movie/1798030
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tv-336973@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Hometown Giants
-DESCRIPTION:Step inside the Vancouver Giants major junior hockey team\, w
- here celebrity owners Michael Bublé and Drew Scott set out to revive a 
- franchise that hasn't won a championship since 2007. For the players\, t
- hey're teenagers living away from home\, finishing high school\, and cha
- sing NHL dreams they've built their lives around\, even though only a fe
- w will ever make it.\n\nhttps://www.themoviedb.org/tv/336973
-URL:https://www.themoviedb.org/tv/336973
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1712449@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Bermuda Riots Are Different
-DESCRIPTION:Directed by Alyson Thompson\n\nAn examination of a decade of 
- race riots between 1968 and 1977\, alongside a triangle of colonial infl
- uences: Bermuda\, Great Britain\, and the USA.\n\nhttps://www.themoviedb
- .org/movie/1712449
-URL:https://www.themoviedb.org/movie/1712449
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1506696@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Duckweed
-DESCRIPTION:Directed by Matthew Berka\n\nObscure\, aging\, and living on 
- the outskirts of London\, writer of supernatural fiction Quentin Crisp a
- sks himself a fundamental existential question: ‘Who am I?' This featu
- re-length film-essay is structured around readings of Crisp’s own zuih
- itsu of the same name\, which\, in essence\, is the story of his life. A
- s we follow Crisp on a walk deeper into the ‘‘little wood’’ of h
- is private landscape\, the binaries of success and failure begin to fade
-  away.\n\nhttps://www.themoviedb.org/movie/1506696
-URL:https://www.themoviedb.org/movie/1506696
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1804585@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:India's Circularity: Not a Trend\, But a Tradition from the Margi
- ns
-DESCRIPTION:Directed by Purva Tavri\n\nA documentary exploring traditiona
- l circular practices across India\, revealing how communities have long 
- lived through reuse\, repair\, and regeneration.\n\nhttps://www.themovie
- db.org/movie/1804585
-URL:https://www.themoviedb.org/movie/1804585
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1483908@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:A Life\, A Manifesto (ARTE)
-DESCRIPTION:Directed by Jean-Gabriel Périot\n\nFrom ARTE\n\nThe life of 
- Michèle Firk — a trailblazing French journalist\, film critic\, aspir
- ing director and communist activist involved in various liberation strug
- gles in the second half of the 20th century — as told by narrator Alic
- e Diop\, modern day French director.\n\nhttps://www.themoviedb.org/movie
- /1483908
-URL:https://www.themoviedb.org/movie/1483908
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1799614@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:S K 8
-DESCRIPTION:Directed by Alexander Baguley\n\nFour Skaters Skate\n\nhttps:
- //www.themoviedb.org/movie/1799614
-URL:https://www.themoviedb.org/movie/1799614
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tv-337855@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-SUMMARY:Kevin McCloud's Classic Car Road Trips
-DESCRIPTION:With echoes of the golden age of motoring – an era before b
- udget airlines and endless grey motorways – Kevin sets out to learn ab
- out each head-turning car through the country of its origin\, and about 
- the heritage\, history and unique culture of the countries through the c
- ars.\n\nIn each episode\, Kevin is handed the keys to an iconic classic 
- vehicle – each one a feat of timeless engineering and aesthetic excell
- ence – to explore a different region with direct links to the model.\n
- \nhttps://www.themoviedb.org/tv/337855
-URL:https://www.themoviedb.org/tv/337855
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1799096@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-SUMMARY:Alex Jones: One Day in Aberfan
-DESCRIPTION:Directed by Catrin Rowlands\n\nAlex Jones marks the 60th anni
- versary of the mining disaster that claimed 144 lives\, including 116 ch
- ildren\n\nhttps://www.themoviedb.org/movie/1799096
-URL:https://www.themoviedb.org/movie/1799096
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1796471@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Aberfan: The Village That Fought Back
-DESCRIPTION:Directed by Ceri Isfryn\n\nAberfan's grieving community takes
-  on the government\, demanding justice and removal of the remaining tips
-  after the disaster that killed 144 people\n\nhttps://www.themoviedb.org
- /movie/1796471
-URL:https://www.themoviedb.org/movie/1796471
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1796487@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Unseen: The Aberfan Portraits
-DESCRIPTION:Following the Aberfan disaster in 1966\, an artist from Lland
- udno embarked on an extraordinary mission to paint portraits of most of 
- the 116 children who lost their lives\, using photographs and locks of h
- air provided by their grieving families.  For the first time\, relatives
-  share what these remarkable paintings have meant to them over the past 
- six decades. Presented by the BBC’s Huw Thomas\, he discovers how the 
- portraits became enduring symbols of remembrance in a village touched by
-  tragedy.\n\nhttps://www.themoviedb.org/movie/1796487
-URL:https://www.themoviedb.org/movie/1796487
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tv-339336@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Sam Lovegrove: Race Mechanic
-DESCRIPTION:Sam Lovegrove prepares cars and bikes for Britain's iconic mo
- torsport events. Can he beat mechanical setbacks to get owners from star
- t line to finish?\n\nhttps://www.themoviedb.org/tv/339336
-URL:https://www.themoviedb.org/tv/339336
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1775096@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-SUMMARY:Enter the Television
-DESCRIPTION:Directed by Thomas Edward Seymour\n\nFrom Tom Seymour creator
-  of the VHS Massacre Trilogy. Enter the Television is a feature-length d
- ocumentary exploring the dark corners of television from obscure commerc
- ials to unconventional cable programming. It examines the evolution of m
- edia through an underground lens\, revealing how independent voices surv
- ive within systems controlled by powerful media corporations.\n\nhttps:/
- /www.themoviedb.org/movie/1775096
-URL:https://www.themoviedb.org/movie/1775096
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1749734@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-SUMMARY:Forza on the Run
-DESCRIPTION:Directed by Jake Hanrahan\n\nHeavy Weekend 02: The French pol
- ice have put the illegal drift racers of Paris on final notice\, so they
- 've took off on the run across the border into Belgium. Hanrahan rides a
- long with the crew as they dodge police and takeover Brussels.\n\nhttps:
- //www.themoviedb.org/movie/1749734
-URL:https://www.themoviedb.org/movie/1749734
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1337305@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:Just One Before I Die
-DESCRIPTION:Directed by Addison Henderson\n\nChronicles the unwavering sp
- irit of Buffalo Bills' die-hard fans\, affectionately known as 'Bills Ma
- fia'\, as they navigate heartbreaks and hopes in their quest for an elus
- ive championship.\n\nhttps://www.themoviedb.org/movie/1337305
-URL:https://www.themoviedb.org/movie/1337305
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1803312@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:Dancing For Gold
-DESCRIPTION:Dancing for Gold follows Laurence Fournier Beaudry and Guilla
- ume Cizeron and Lilah Fear and Lewis Gibson through the Olympic Games th
- ey've spent years building towards. From arrival in Milan to their final
-  days in Italy\, the film captures the training\, the pressure\, the par
- tnerships and the raw emotion behind the most artistic event on the Olym
- pic programme.\n\nhttps://www.themoviedb.org/movie/1803312
-URL:https://www.themoviedb.org/movie/1803312
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1803442@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:Test 1
-DESCRIPTION:Directed by Musa Jawaid\n\nExperimental film by Musa.\n\nhttp
- s://www.themoviedb.org/movie/1803442
-URL:https://www.themoviedb.org/movie/1803442
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tv-337800@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:The Flores Massacre
-DESCRIPTION:The story of Matías Bagnato\, the sole survivor of the Flore
- s Massacre\, one of the most shocking criminal cases in Argentine histor
- y.\n\nhttps://www.themoviedb.org/tv/337800
-URL:https://www.themoviedb.org/tv/337800
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tv-337609@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Swipe Right on the Devil
-DESCRIPTION:Revisits the 2017 murder of 24-year-old Sydney Loofe\, who di
- sappeared and was later found dead after going on a Tinder date with Bai
- ley Boswell.\n\nhttps://www.themoviedb.org/tv/337609
-URL:https://www.themoviedb.org/tv/337609
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1804563@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Train To Waterloo\, Courtesy Of Fishmans
-DESCRIPTION:Directed by FMDS\n\n“On a train from Surbiton to Waterloo t
- o go watch Haxan\, I was listening to LONG SEASON and felt an urge to ma
- ke something\, so I did.”\n\nhttps://www.themoviedb.org/movie/1804563
-URL:https://www.themoviedb.org/movie/1804563
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1596294@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Paralyzed by Hope: The Maria Bamford Story (Netflix)
-DESCRIPTION:Directed by Judd Apatow\n\nFrom Netflix\n\nBlurring the line 
- between performance and personal crisis\, comedian Maria Bamford turns h
- er mental health journey into material that’s riotously funny and ulti
- mately inspiring. What emerges is a portrait of an artist transforming v
- ulnerability into creative strength through honesty.\n\nhttps://www.them
- oviedb.org/movie/1596294
-URL:https://www.themoviedb.org/movie/1596294
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1620941@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:All Rivers Spill Their Stories to the Sea
-DESCRIPTION:Directed by Jeanie Finlay\n\nOn England’s North East coast\
- , where rivers\, heavy industry and the sea have shaped lives for genera
- tions\, fisherman Stan Rennie is watching the world he knows disappear. 
- His family have worked these waters for generations. Then\, almost overn
- ight\, thousands of dead crabs and lobsters wash ashore\, and a communit
- y already living with uncertainty is pushed into crisis. Teesside filmma
- ker Jeanie Finlay brings warmth\, wit and deep local feeling to this Dav
- id-and-Goliath story of environmental damage\, official evasions and wor
- king-class resilience. At its centre is Stan: funny\, stubborn\, vulnera
- ble and increasingly determined to be heard.\n\nhttps://www.themoviedb.o
- rg/movie/1620941
-URL:https://www.themoviedb.org/movie/1620941
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1285321@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Children of The Wicker Man
-DESCRIPTION:Directed by Justin Hardy\n\nFifty years after The Wicker Man\
- , director Robin Hardy’s lost papers resurface\, prompting his sons Ju
- stin and Dominic to explore the legacy of the cult classic\, and their f
- ather. Together\, they uncover the truth behind Robin’s role in the fi
- lm and confront the complexities of independent filmmaking\, family\, an
- d myth.\n\nhttps://www.themoviedb.org/movie/1285321
-URL:https://www.themoviedb.org/movie/1285321
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1688795@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:TOMORROW X TOGETHER WORLD TOUR 'ACT : TOMORROW'
-DESCRIPTION:Directed by Yum Tae-hwan\n\nLike shining stars\, TOMORROW X T
- OGETHER’s fourth world tour 'ACT : TOMORROW' unfolds as a dazzling jou
- rney toward the tomorrow they promised together. From its beautiful stor
- ytelling to the stunning production and powerful live performances that 
- captivated MOA around the world\, experience the immersive energy of TOM
- ORROW X TOGETHER’s spectacular world tour on the big screen!\n\nhttps:
- //www.themoviedb.org/movie/1688795
-URL:https://www.themoviedb.org/movie/1688795
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1797200@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:SEVENTEEN WORLD TOUR 'NEW_'
-DESCRIPTION:Directed by Yum Tae-hwan\n\nCelebrating their 10th debut anni
- versary\, SEVENTEEN embarks on a world tour fueled by their determinatio
- n for a fresh start\, just like the title 'NEW_'. With their unrivaled s
- tage presence and explosive energy\, SEVENTEEN once again proves their u
- nlimited potential. Experience the blazing heat of the concert—burstin
- g with each member’s unique charm—right on the big screen!\n\nhttps:
- //www.themoviedb.org/movie/1797200
-URL:https://www.themoviedb.org/movie/1797200
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1750366@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:The Emerald Underground
-DESCRIPTION:Directed by Darren Kelly\n\nA short documentary following the
-  stories of three independent bands from across Ireland; The Psychs\, IM
- LÉ and Dead Assets. Each band shares their passion for music\, the many
-  struggles they face on their journey\, and what keeps them going.\n\nht
- tps://www.themoviedb.org/movie/1750366
-URL:https://www.themoviedb.org/movie/1750366
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1805027@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:Dracula : la véritable histoire (ARTE)
-DESCRIPTION:Directed by Mattéo Caranta\n\nFrom ARTE\n\nhttps://www.themo
- viedb.org/movie/1805027
-URL:https://www.themoviedb.org/movie/1805027
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1805036@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:Zombie: Die Faszination der Untoten (ARTE)
-DESCRIPTION:Directed by Isabel Hahn\n\nFrom ARTE\n\nhttps://www.themovied
- b.org/movie/1805036
-URL:https://www.themoviedb.org/movie/1805036
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1806320@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:La véritable histoire de Dracula (ARTE)
-DESCRIPTION:Directed by Jacques Plaisant\n\nFrom ARTE\n\nhttps://www.them
- oviedb.org/movie/1806320
-URL:https://www.themoviedb.org/movie/1806320
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1806584@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-SUMMARY:Homemade Nature Reserve
-DESCRIPTION:Directed by FMDS\n\n"On this Saturday I planned to go to Berr
- ylands Nature Reserve to shoot shots for my ongoing project. The horrend
- ous weather prompted me to delay the visit however\, and create this\, a
-  multimedia project consisting of clips of plants at my home\, images fr
- om the internet of the reserve\, and me reading out the reserve's websit
- e header and wikipedia page."\n\nhttps://www.themoviedb.org/movie/180658
- 4
-URL:https://www.themoviedb.org/movie/1806584
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1798927@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:Der Schatz von Assisi (ARTE)
-DESCRIPTION:Directed by Paolo Colangeli\n\nFrom ARTE\n\nhttps://www.themo
- viedb.org/movie/1798927
-URL:https://www.themoviedb.org/movie/1798927
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1804846@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:Punk Brighton
-DESCRIPTION:Directed by Kevin Wright\n\nThe documentary utilizes 15 years
-  of interviews\, live performance archives\, and animation to capture th
- e city's fierce DIY music scene. Rather than focusing solely on the musi
- c\, it explores how the communal movement tackled broader political and 
- social issues\, including confronting fascism\, rocking against racism\,
-  and rallying the community to save the Brighton & Hove Albion Football 
- Club.\n\nhttps://www.themoviedb.org/movie/1804846
-URL:https://www.themoviedb.org/movie/1804846
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1783814@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:The Masturbator - The Adventures of Edgar Hilsenrath (ARTE)
-DESCRIPTION:Directed by François-Xavier Destors\n\nFrom ARTE\n\nHe dared
-  to confront trauma with black humour: Using animation and archive mater
- ial\, this lm delves into the radically scandalous world of the writer a
- nd Holocaust survivor Edgar Hilsenrath.\n\nhttps://www.themoviedb.org/mo
- vie/1783814
-URL:https://www.themoviedb.org/movie/1783814
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1596270@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:When a Witness Recants (HBO Documentary Films)
-DESCRIPTION:Directed by Dawn Porter\n\nFrom HBO Documentary Films\n\nIn 1
- 983\, author Ta-Nehisi Coates learned that a 14-year-old boy was murdere
- d in his Baltimore middle school. Upon revisiting the case\, he uncovers
-  the truth: Three innocent teenagers were wrongfully convicted and spent
-  36 years in prison — creating a lasting impact on the accused\, the w
- itnesses\, and their community.\n\nhttps://www.themoviedb.org/movie/1596
- 270
-URL:https://www.themoviedb.org/movie/1596270
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1603262@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Everest: The Other Side (National Geographic Documentary Films)
-DESCRIPTION:Directed by Jimmy Chin\n\nFrom National Geographic Documentar
- y Films\n\nAn intimate portrait of two people bound by love\, ambition\,
-  and the pursuit of the impossible. Elite ski mountaineers Jim Morrison 
- and Hilaree Nelson fell deeply in love while reaching the pinnacle of th
- eir sport. Their drive sharpened into a shared dream: to climb and ski t
- he direct North Face of Mount Everest—the most difficult and dangerous
-  climb on the mountain and the most coveted ski line on Earth—somethin
- g only a handful have ever achieved\, and no one has successfully skied 
- down.\n\nhttps://www.themoviedb.org/movie/1603262
-URL:https://www.themoviedb.org/movie/1603262
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1631540@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Occupational Hazard: The First Coral Reefers
-DESCRIPTION:Directed by John H. Cunningham\n\nJourney through the 1970s a
- nd early ’80s with the original members of Jimmy Buffett's Coral Reefe
- r Band as they recount their contributions to iconic albums\, life on to
- ur\, and the lasting impact they had in shaping a unique and enduring ge
- nre of music.\n\nhttps://www.themoviedb.org/movie/1631540
-URL:https://www.themoviedb.org/movie/1631540
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1595207@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:All About the Money
-DESCRIPTION:Directed by Sinéad O'Shea\n\nA son of one of America’s wea
- lthiest families creates a communist revolutionary base in rural Massach
- usetts as a means of disrupting the capitalist system he grew up in\, bu
- t has now come to despise. It’s the starting point of an astonishing j
- ourney.\n\nhttps://www.themoviedb.org/movie/1595207
-URL:https://www.themoviedb.org/movie/1595207
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1804839@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Language of the Wind
-DESCRIPTION:Directed by Shimataver Igbawua\n\nThe story follows 16-year-o
- ld Shatu\, who has spent her life tending cattle but secretly longs for 
- city life. The day after her wedding to her traditional cousin Ardo (17)
- \, she finds a potential path to escape. As they lead their cattle to gr
- aze\, the silence and tension between them build into a heavy confrontat
- ion of unspoken truths and life-altering decisions on the plains.\n\nhtt
- ps://www.themoviedb.org/movie/1804839
-URL:https://www.themoviedb.org/movie/1804839
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:movie-1575273@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Don't Let The Bastards Grind You Down
@@ -1405,8 +28,44 @@ URL:https://www.themoviedb.org/movie/1575273
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ep-36695-8027308@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Allies in Exile (BBC Storyville)
+DESCRIPTION:From BBC Storyville\n\nA Storyville documentary that follows 
+ Syrian film-makers Hasan Kattan and Fadi Al-Halabi. Having forged a frie
+ ndship while living through\, and filming\, the war in Syria\, they now 
+ face a very different reality as they navigate the UK asylum system.\n\n
+ Turning the camera on themselves\, they document a new chapter in their 
+ own lives shaped by uncertainty\, bureaucracy and displacement\, offerin
+ g a deeply personal and very raw exploration of friendship and belonging
+ . This heart-wrenching film offers an intimate perspective on life in ex
+ ile and the enduring power of storytelling in the face of adversity.\n\n
+ https://www.themoviedb.org/tv/36695/season/30/episode/14
+URL:https://www.themoviedb.org/tv/36695/season/30/episode/14
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ep-36695-8027310@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:An Unknown Substance (BBC Storyville)
+DESCRIPTION:From BBC Storyville\n\nVladimir Kara-Murza is a prominent Rus
+ sian opposition politician and Pulitzer Prize-winning journalist who sur
+ vived two near-fatal poisonings before being sentenced to 25 years in pr
+ ison after speaking out against Russia’s invasion of Ukraine. This doc
+ umentary short follows his wife\, Evgenia Kara-Murza\, during his impris
+ onment as she mounts a global campaign to bring him home and ensure that
+  his voice would not be silenced.\n\nhttps://www.themoviedb.org/tv/36695
+ /season/30/episode/15
+URL:https://www.themoviedb.org/tv/36695/season/30/episode/15
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:movie-1792337@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Of Times There Were Before
@@ -1424,8 +83,36 @@ URL:https://www.themoviedb.org/movie/1792337
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:movie-1786268@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:This is the House: If I Don’t See You\, I Love You
+DESCRIPTION:Directed by Claudia Owusu\n\nA Ghanaian-American father and d
+ aughter duo work through their crowded basement in search of family arch
+ ives. Through intimate questions and answers\, they reconcile the distan
+ ce caused by immigration\, divorce\, and loss.\n\nhttps://www.themoviedb
+ .org/movie/1786268
+URL:https://www.themoviedb.org/movie/1786268
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1651821@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Body to Heart
+DESCRIPTION:Directed by Jenny Barruol\n\nIn the picturesque village of Ma
+ zan in Southern France\, known for the Gisèle Pélicot rape case\, thre
+ e women embark on a journey to heal from domestic and sexual violence by
+  doing horse therapy sessions.\n\nhttps://www.themoviedb.org/movie/16518
+ 21
+URL:https://www.themoviedb.org/movie/1651821
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:movie-1804814@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Portraits of Slovak and Czech Britain
@@ -1439,8 +126,24 @@ URL:https://www.themoviedb.org/movie/1804814
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:movie-1795765@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Every Grain of Dirt
+DESCRIPTION:Directed by Aya Chouaib\n\nEvery Grain of Dirt documents life
+  in South Lebanon under ongoing threats of displacement and war. As swee
+ ping evacuation orders force over a million people from their homes\, so
+ me choose to remain. Among them is Ismail\, a shepherd who refuses to le
+ ave his village — even as bulldozers arrive to erase it\, nearly buryi
+ ng him alive as he stands in defiance before the machine.\n\nhttps://www
+ .themoviedb.org/movie/1795765
+URL:https://www.themoviedb.org/movie/1795765
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:movie-1778412@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Inside the Mountain
@@ -1457,8 +160,33 @@ URL:https://www.themoviedb.org/movie/1778412
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:movie-1801318@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:A Town Called Needville
+DESCRIPTION:Directed by Audrey Lane\n\nTold through 35mm photographs and 
+ first-person narration\, A TOWN CALLED NEEDVILLE traces the filmmaker's 
+ four-month inpatient stay at an all-women’s mental health facility in 
+ Needville\, Texas.\n\nhttps://www.themoviedb.org/movie/1801318
+URL:https://www.themoviedb.org/movie/1801318
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1697761@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:My Friend\, Kev
+DESCRIPTION:Directed by Colin Peppard\n\nA filmmaker reconnects with an o
+ ld friend\, quietly revealing the distance time can create.\n\nhttps://w
+ ww.themoviedb.org/movie/1697761
+URL:https://www.themoviedb.org/movie/1697761
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:movie-1803407@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Journey to the End of the Ego
@@ -1474,35 +202,22 @@ URL:https://www.themoviedb.org/movie/1803407
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:movie-1778040@doc-radar
-DTSTAMP:20261026T120350Z
+UID:movie-1750366@doc-radar
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:Beyond
-DESCRIPTION:Directed by Ben Menashe\n\nFollows people living with and bey
- ond cancer as they discover strength\, connection\, and a new sense of p
- ossibility through climbing. Set between indoor walls and wild mountain 
- rock\, it is a powerful story about recovery becoming adventure.\n\nhttp
- s://www.themoviedb.org/movie/1778040
-URL:https://www.themoviedb.org/movie/1778040
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movie-1803403@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:Dreamrime
-DESCRIPTION:Directed by Alastair Lee\n\nFrench Alpinists attempt the Punt
- a Hernon / Torre Egger traverse encountering unique rime and mushroom fo
- rmations found only in this special part of the world.\n\nhttps://www.th
- emoviedb.org/movie/1803403
-URL:https://www.themoviedb.org/movie/1803403
+SUMMARY:The Emerald Underground
+DESCRIPTION:Directed by Darren Kelly\n\nA short documentary following the
+  stories of three independent bands from across Ireland; The Psychs\, IM
+ LÉ and Dead Assets. Each band shares their passion for music\, the many
+  struggles they face on their journey\, and what keeps them going.\n\nht
+ tps://www.themoviedb.org/movie/1750366
+URL:https://www.themoviedb.org/movie/1750366
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movie-1804764@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Life Sure Is Sweet
@@ -1518,8 +233,35 @@ URL:https://www.themoviedb.org/movie/1804764
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:movie-1778040@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Beyond
+DESCRIPTION:Directed by Ben Menashe\n\nFollows people living with and bey
+ ond cancer as they discover strength\, connection\, and a new sense of p
+ ossibility through climbing. Set between indoor walls and wild mountain 
+ rock\, it is a powerful story about recovery becoming adventure.\n\nhttp
+ s://www.themoviedb.org/movie/1778040
+URL:https://www.themoviedb.org/movie/1778040
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1096228@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Musk (HBO Documentary Films)
+DESCRIPTION:Directed by Alex Gibney\n\nFrom HBO Documentary Films\n\nAn i
+ ncisive look behind the legend of Elon Musk\, the world’s most heralde
+ d 'inventor-entrepreneur' who has enormous influence on the world in whi
+ ch we all live.\n\nhttps://www.themoviedb.org/movie/1096228
+URL:https://www.themoviedb.org/movie/1096228
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:movie-1649403@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:George Michael: The Faith Tour
@@ -1533,21 +275,8 @@ URL:https://www.themoviedb.org/movie/1649403
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:movie-1754364@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:Making Marie Antoinette
-DESCRIPTION:Directed by Eleanor Coppola\n\nEleanor Coppola's behind-the-s
- cenes documentation of her daughter Sofia Coppola directing the 2006 fil
- m Marie Antoinette\, capturing the craftsmanship and challenges of being
-  a young female director.\n\nhttps://www.themoviedb.org/movie/1754364
-URL:https://www.themoviedb.org/movie/1754364
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:movie-1666787@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Avedon
@@ -1564,8 +293,23 @@ URL:https://www.themoviedb.org/movie/1666787
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:movie-1754364@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Making Marie Antoinette
+DESCRIPTION:Directed by Eleanor Coppola\n\nEleanor Coppola turns her came
+ ra on her daughter\, Sofia\, as she shoots Marie Antoinette. Catching ev
+ ery detail of the behind-the-scenes and on-set action\, Eleanor captures
+  the feat of Sofia’s directing a landmark film aged 34\, and muses on 
+ what it means for a mother to watch her daughter at work.\n\nhttps://www
+ .themoviedb.org/movie/1754364
+URL:https://www.themoviedb.org/movie/1754364
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:movie-1652192@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Finding Faith
@@ -1578,8 +322,43 @@ URL:https://www.themoviedb.org/movie/1652192
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ep-36695-8027311@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Manhood (BBC Storyville)
+DESCRIPTION:From BBC Storyville\n\nDallas businessman Bill Moore aims to 
+ make penis enlargement as commonplace as Botox and bring the procedure i
+ nto the mainstream\, positioning male cosmetic surgery as a growing part
+  of the aesthetics industry.\n\nThe documentary follows several men\, in
+ cluding an OnlyFans creator and a father of five\, as they put their bod
+ ies on the line and undergo surgery in pursuit of physical transformatio
+ n.\n\nThrough intimate access to both the practitioners selling the drea
+ m and the men buying into it\, the film traces the insecurities\, trauma
+  and societal pressures driving each of them\, while raising uncomfortab
+ le questions about the ethics of an industry built on male self-doubt.\n
+ \nFilmed over two years\, with dark humour and unexpected tenderness\, t
+ his is a timely and revealing portrait of identity and self-image as cos
+ metic surgery among men continues to rise.\n\nhttps://www.themoviedb.org
+ /tv/36695/season/30/episode/16
+URL:https://www.themoviedb.org/tv/36695/season/30/episode/16
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1808411@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Magic in the Mundane
+DESCRIPTION:Directed by Leigh Brooks\n\nA cinematic journey into the over
+ looked miracles of everyday existence.\n\nhttps://www.themoviedb.org/mov
+ ie/1808411
+URL:https://www.themoviedb.org/movie/1808411
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:movie-1309373@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Whispers in the Woods
@@ -1597,7 +376,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movie-1595210@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Nuisance Bear
@@ -1611,7 +390,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movie-1637730@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Whiddy (ARTE)
@@ -1626,7 +405,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movie-1771402@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:1 in 2
@@ -1640,8 +419,22 @@ URL:https://www.themoviedb.org/movie/1771402
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:movie-951018@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:A Fox Under a Pink Moon
+DESCRIPTION:Directed by Mehrdad Oskouei\n\nAt just 16\, Soraya is already
+  creating stunning drawings and sculptures that are as beautiful as they
+  are dark. This strong-willed Afghan sculptor and illustrator has been t
+ rying for five years to escape Iran and join her mother in Austria.\n\nh
+ ttps://www.themoviedb.org/movie/951018
+URL:https://www.themoviedb.org/movie/951018
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:movie-1796550@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Women and War (ARTE)
@@ -1655,7 +448,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movie-1748010@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:The Neighbourhood is Changing
@@ -1666,8 +459,111 @@ URL:https://www.themoviedb.org/movie/1748010
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:movie-1596270@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:When a Witness Recants (HBO Documentary Films)
+DESCRIPTION:Directed by Dawn Porter\n\nFrom HBO Documentary Films\n\nIn 1
+ 983\, author Ta-Nehisi Coates learned that a 14-year-old boy was murdere
+ d in his Baltimore middle school. Upon revisiting the case\, he uncovers
+  the truth: Three innocent teenagers were wrongfully convicted and spent
+  36 years in prison — creating a lasting impact on the accused\, the w
+ itnesses\, and their community.\n\nhttps://www.themoviedb.org/movie/1596
+ 270
+URL:https://www.themoviedb.org/movie/1596270
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1715868@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Good Luck\, Kid
+DESCRIPTION:Directed by Renan Öztürk\n\nGrit\, gear\, growth – this f
+ ilm is a portrait of Taylor Shaffer’s coming-of-age as a photographer 
+ and filmmaker\, following his creative trajectory as he shepherds Alex H
+ onnold and Tommy Caldwell through a 2\,500-mile expedition to attempt a 
+ single-day traverse of the Devil’s Thumb massif and finds his artistic
+  voice amid risk\, friendship\, and a changing Alaskan landscape.\n\nhtt
+ ps://www.themoviedb.org/movie/1715868
+URL:https://www.themoviedb.org/movie/1715868
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1442281@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Observer
+DESCRIPTION:Directed by Ian Cheney\n\nFilmmaker Ian Cheney embarks on an 
+ experiment in which he brings a series of keen-eyed observers - scientis
+ ts\, artists\, a hunter - to a range of locations around the world\, oft
+ en without telling them where they are going\, and asks them simply to d
+ escribe what they see. What unfolds is a deep exploration and celebratio
+ n of the power of observation: what happens when you find new ways to se
+ nse and perceive the world around you?\n\nhttps://www.themoviedb.org/mov
+ ie/1442281
+URL:https://www.themoviedb.org/movie/1442281
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1614912@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Robson
+DESCRIPTION:Directed by Philip Forsey\n\nTwo of the world’s most accomp
+ lished ski mountaineers\, Christina Lustenberger and Guillaume Pierrel\,
+  have carved their names into history with bold first descents across th
+ e globe. Now\, turning their sights on Mount Robson\, the highest and mo
+ st formidable peak in the Canadian Rockies\, they retrace the steps of p
+ ioneering alpinists who came before them\, pushing the line between past
+  and present. Battling towering walls of ice\, snow and rock\, unpredict
+ able weather\, and the weight of a dream that has challenged generations
+ \, their journey becomes as much about resilience and legacy as it is ab
+ out the pursuit of a descent few have ever dared to imagine.\n\nhttps://
+ www.themoviedb.org/movie/1614912
+URL:https://www.themoviedb.org/movie/1614912
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1622868@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:My Grandmother’s Sketchbook: Under Mont Blanc
+DESCRIPTION:Directed by Max Romey\n\nA 30-year-old sketchbook leads Max R
+ omey to the Mont Blanc region. The Alaska-based watercolor artist and en
+ vironmental advocate sets out to follow in the footsteps of his grandmot
+ her\, who visited this landscape in the late 1990s and captured it in do
+ zens of drawings. With mountain guide Hillary Gerardi\, Max attempts to 
+ locate each sketch’s exact origin point. Many match perfectly—until 
+ the Mer de Glace throws him off course. The glacier has changed too much
+  in 30 years to recognize.\n\nhttps://www.themoviedb.org/movie/1622868
+URL:https://www.themoviedb.org/movie/1622868
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1810492@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:The Himalayas in My Heart
+DESCRIPTION:Directed by Jérémy Bigé\n\nIn 1802\, the Survey of India I
+ nstitute launched the Great Trigonometrical Survey\, a colossal undertak
+ ing aimed at precisely mapping British India from which the world became
+  aware of the vast scale of the Himalayan range. From August to November
+  2024\, using these historical maps\, Jérémy Bigé makes his way on fo
+ ot over 2\,300km from Indian Kashmir to central Nepal. His goal: to conn
+ ect the various Himalayan cultures in a single journey by following rout
+ es from the past.\n\nhttps://www.themoviedb.org/movie/1810492
+URL:https://www.themoviedb.org/movie/1810492
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:movie-1806288@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:À bord du vide
@@ -1681,7 +577,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movie-1807161@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Back By Tea Time
@@ -1697,8 +593,102 @@ URL:https://www.themoviedb.org/movie/1807161
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:movie-1810954@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:It Takes Two To Tandem
+DESCRIPTION:Directed by Cat Aeppel\n\nLongtime riding partners Sam and Ja
+ zz take a tandem bike across some of their favourite trails in the Rocki
+ es\, marking ten years since their first tandem adventure together. Part
+  celebration\, part reflection\, the film explores friendship\, trust\, 
+ and the rare joy of moving through the world in sync.\n\nhttps://www.the
+ moviedb.org/movie/1810954
+URL:https://www.themoviedb.org/movie/1810954
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1812576@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Nininbaori
+DESCRIPTION:Directed by Mathieu Achermann\n\nFollows three para-climbers 
+ through fragments of their daily lives\, where ordinary domestic gesture
+ s intertwine with the quiet precision of athletic practice. Moving seaml
+ essly from one to the next\, the film refuses hierarchy\, unfolding inst
+ ead like the pages of a single book written by multiple hands.\n\nhttps:
+ //www.themoviedb.org/movie/1812576
+URL:https://www.themoviedb.org/movie/1812576
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1812462@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:My Ride or Die
+DESCRIPTION:Directed by Charlotte Percle\n\nMorgan McGlashon (professiona
+ l mountain guide) and Caite Zeliff (professional skier) picked obscure p
+ aths. Those paths collided and became intertwined. When their careers to
+ ok off they found themselves spending less time in the mountains togethe
+ r but they always dreamed of one day coming back together on a proper ad
+ venture. On a 10-day expedition in Alaska\, the two reconnect.\n\nhttps:
+ //www.themoviedb.org/movie/1812462
+URL:https://www.themoviedb.org/movie/1812462
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1812068@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:More than Everest: The Life of T.H. Somervell
+DESCRIPTION:Directed by Simon Pierse\n\nT. Howard Somervell (1890-1975) i
+ s best known for his role in the 1922 and 1924 expeditions to climb Ever
+ est. This film explores the lesser known aspects of Somervell's remarkab
+ le life as a missionary surgeon\, artist and composer of music.\n\nhttps
+ ://www.themoviedb.org/movie/1812068
+URL:https://www.themoviedb.org/movie/1812068
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1811846@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Kidical Mass
+DESCRIPTION:Directed by Isaac Seigel-Boettner\n\nAfter years of exploring
+  their world by bicycle\, the Moss family knew that they wanted to raise
+  their kids on two wheels. But after a frightening accident on the way t
+ o school\, they had to take a step back from their pedal-powered ambitio
+ ns. Then they found Kidical Mass. This is the story of how one family is
+  helping to reclaim their streets\, one giant kid bike party at a time.\
+ n\nhttps://www.themoviedb.org/movie/1811846
+URL:https://www.themoviedb.org/movie/1811846
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1814498@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:The Search for Milliseconds
+DESCRIPTION:Directed by Darcy Wittenburg\n\nInside mountain bike downhill
+  phenom Jackson Goldstone's high-stakes bid to become one of the younges
+ t riders in history to claim the UCI DH Elite overall title. From pre-se
+ ason testing to the tense\, pressure-filled moments leading into the las
+ t race of the year\, the film follows Jackson and the team that supports
+  him as they hunt for every possible edge in a sport where the smallest 
+ fractions of time can define a champion. With the title on the line and 
+ only one decisive run remaining\, Jackson prepares to risk everything fo
+ r the win.\n\nhttps://www.themoviedb.org/movie/1814498
+URL:https://www.themoviedb.org/movie/1814498
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:movie-1765072@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:You Can See Everything
@@ -1711,8 +701,26 @@ URL:https://www.themoviedb.org/movie/1765072
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:movie-1603262@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Everest: The Other Side (National Geographic Documentary Films)
+DESCRIPTION:Directed by Jimmy Chin\n\nFrom National Geographic Documentar
+ y Films\n\nAn intimate portrait of two people bound by love\, ambition\,
+  and the pursuit of the impossible. Elite ski mountaineers Jim Morrison 
+ and Hilaree Nelson fell deeply in love while reaching the pinnacle of th
+ eir sport. Their drive sharpened into a shared dream: to climb and ski t
+ he direct North Face of Mount Everest—the most difficult and dangerous
+  climb on the mountain and the most coveted ski line on Earth—somethin
+ g only a handful have ever achieved\, and no one has successfully skied 
+ down.\n\nhttps://www.themoviedb.org/movie/1603262
+URL:https://www.themoviedb.org/movie/1603262
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:movie-1596332@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:American Doctor
@@ -1726,23 +734,111 @@ URL:https://www.themoviedb.org/movie/1596332
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:movie-1749739@doc-radar
-DTSTAMP:20261026T120350Z
+UID:movie-1782278@doc-radar
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:Phantom 814
-DESCRIPTION:Directed by Jake Hanrahan\n\nHeavy Weekend 03: Unique access 
- to the most mysterious organisation in France. Jake Hanrahan travels wit
- h the bizarre syndicate known as "814SSR". They shoot guns\, host fight 
- clubs\, and make money in the underground. Yet still\, they insist they'
- re not a gang and are simply doing hardcore trolling. The truth? Decide 
- for yourself...\n\nhttps://www.themoviedb.org/movie/1749739
-URL:https://www.themoviedb.org/movie/1749739
+SUMMARY:Obsession: The Beryl Burton Story
+DESCRIPTION:Directed by Stuart Pollitt\n\nA documentary about Britain’s
+  greatest athlete. Undefeated for 25 years\, Leeds-born amateur cyclist 
+ Beryl Burton won seven World Championships\, beat men’s records and tr
+ ansformed women’s sport; all while working on a Yorkshire rhubarb farm
+ . Through unseen archive\, letters and intimate interviews\, the film ex
+ plores the glory of her achievements and the cost of her obsession\, par
+ ticularly on her relationship with her daughter Denise\, who followed he
+ r into competitive cycling.\n\nhttps://www.themoviedb.org/movie/1782278
+URL:https://www.themoviedb.org/movie/1782278
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1807466@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Bloomin' Octopus!
+DESCRIPTION:Directed by David Palfrey\n\nExplores the sudden rise in octo
+ pus numbers in south west England through a series of interconnected per
+ spectives\, showing how shifts beneath the surface ripple outward\, affe
+ cting ecosystems and people alike.\n\nhttps://www.themoviedb.org/movie/1
+ 807466
+URL:https://www.themoviedb.org/movie/1807466
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1631611@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:SILA
+DESCRIPTION:Directed by Ciril Jazbec\n\nSet on an island 600 kilometers n
+ orth of the Arctic Circle\, this intimate vérité portrait follows two 
+ young Inuit coming of age. Created in close collaboration with a local c
+ hildren’s home and filmed in the Greenlandic language\, the story trac
+ es identity\, tradition\, loss\, and resilience. Living alongside its pr
+ otagonists\, the film observes a fragile passage between deep cultural r
+ oots and an uncertain\, rapidly changing world.\n\nhttps://www.themovied
+ b.org/movie/1631611
+URL:https://www.themoviedb.org/movie/1631611
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1650016@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Same Sun - Cycling through Africa
+DESCRIPTION:Directed by Fabienne Engel\n\nThe story of Wiebke Lühmann's 
+ journey from Freiburg to the Cape of Good Hope. Honest\, raw\, and close
+  to the inner and outer challenges of a 430-day bicycle trip. Her journe
+ y takes her through 22 countries\, Sahara storms\, the rain season\, the
+  Congo Basin\, and the deserts of Namibia. What begins as a search for i
+ ndependence becomes an intimate exploration of identity.\n\nhttps://www.
+ themoviedb.org/movie/1650016
+URL:https://www.themoviedb.org/movie/1650016
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1807374@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Big Jim: An American on Everest
+DESCRIPTION:Directed by Jim Aikman\n\n“Big Jim” Whittaker (1929-2026)
+  was a legendary Pacific Northwest mountaineer who became the first Amer
+ ican to summit Mount Everest on May 1\, 1963. This short documentary exp
+ lores his “brotherhood of the rope” with his twin brother\, Lou\, as
+  well as Nawang Gombu Sherpa\, his Everest climbing partner and lifelong
+  friend. Featuring rarely seen 16mm footage from the 1963 Everest Expedi
+ tion\, archival images from the Whittaker family collection\, and interv
+ iews filmed in Jim’s late 80s\, the film is both an intimate portrait 
+ of an extraordinary life and a celebration of the adventurous spirit tha
+ t helped define a generation of climbers.\n\nhttps://www.themoviedb.org/
+ movie/1807374
+URL:https://www.themoviedb.org/movie/1807374
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1809835@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:The Hillbilly Scientist
+DESCRIPTION:Directed by Paul Mellor\n\nWhile modern running has evolved t
+ oward sleek curation\, optimisation\, and commercialisation\, Lazarus La
+ ke has spent 50 years designing formats with an unapologetic\, honest di
+ fficulty. The Hillbilly Scientist reveals that Laz’s cruellest courses
+  are rooted in a deeply scientific understanding of human psychology and
+  physical limits. This is the only official documentary dedicated to the
+  creator of the Barkley Marathons and Big’s Backyard Ultra. Filmed ove
+ r more than a year\, it reveals the man behind the myth through never-be
+ fore-seen footage\, exclusive testimonials\, and exceptional access to L
+ az’s world.\n\nhttps://www.themoviedb.org/movie/1809835
+URL:https://www.themoviedb.org/movie/1809835
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movie-1776026@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Borrowed from the Earth
@@ -1759,8 +855,366 @@ URL:https://www.themoviedb.org/movie/1776026
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:movie-1625174@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Glacier's Requiem
+DESCRIPTION:Directed by Saddiq Abubakar\n\nIn isolation on Iceland’s Sn
+ æfellsnes Peninsula\, Nigerian-born modular synthesis artist Colloboh t
+ ransforms glacial and oceanic recordings into sonic compositions; uncove
+ ring a dialogue between ice and sea that reshapes his understanding of c
+ onsciousness\, ecological collapse\, and humanity’s place within both.
+ \n\nhttps://www.themoviedb.org/movie/1625174
+URL:https://www.themoviedb.org/movie/1625174
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1805666@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:75 Seconds
+DESCRIPTION:Directed by Marco Tribelhorn\n\nOn a foggy March evening in N
+ orway\, freeskier Jacob Wester triggers an avalanche and is swept off a 
+ cliff. For 75 seconds\, he fights for his life inside a roaring mass of 
+ snow\, while his wife Sofia waits in silence below. This is an account o
+ f chaos\, fear\, and hope inside an avalanche.\n\nhttps://www.themoviedb
+ .org/movie/1805666
+URL:https://www.themoviedb.org/movie/1805666
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1803403@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Dreamrime
+DESCRIPTION:Directed by Alastair Lee\n\nSit back and marvel at this cinem
+ atic wonder as we see the famous Cerro Torre towers of Patagonia like ne
+ ver before. Filmed by local drone expert Ty Lekki and produced by multi-
+ award winner Alastair Lee\, this film is a glorious marriage of sound an
+ d vision as we enter a new phase of mountain film making. A team of thre
+ e Argentinian and one German Alpinists attempt the Punta Hernon/Torre Eg
+ ger traverse\, encountering the unique rime and mushroom formations foun
+ d only in this special part of the world.\n\nhttps://www.themoviedb.org/
+ movie/1803403
+URL:https://www.themoviedb.org/movie/1803403
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1807429@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Blank Patterns
+DESCRIPTION:Directed by Alexi Godbout\n\nA collection of athlete portrait
+ s following Jacob Bélanger\, Emma Patterson\, and Ugo Troubat. Through 
+ their individual stories\, the film explores the experiences\, choices\,
+  and communities that shaped the lives they lead today. While each has t
+ aken a different path\, together they reflect the many ways people find 
+ their place within skiing and contribute to the culture in their own way
+ .\n\nhttps://www.themoviedb.org/movie/1807429
+URL:https://www.themoviedb.org/movie/1807429
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1807188@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Bas Van Steenbergen - Interlude
+DESCRIPTION:Directed by Scott Secco\n\nBas Van Steenbergen heads up Mt. S
+ eymour on Vancouver's North Shore — the birthplace of freeride —ridi
+ ng with a rhythm all his own.\n\nhttps://www.themoviedb.org/movie/180718
+ 8
+URL:https://www.themoviedb.org/movie/1807188
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1806591@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Aldo's Raptor Roundup
+DESCRIPTION:Directed by Neil Losin\n\nSix-year old Aldo spends an excitin
+ g weekend banding migrating raptors in Cape May\, New Jersey with his fr
+ iend John\, a volunteer bander with the Cape May Raptor Banding Project.
+ \n\nhttps://www.themoviedb.org/movie/1806591
+URL:https://www.themoviedb.org/movie/1806591
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1749739@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Phantom 814
+DESCRIPTION:Directed by Jake Hanrahan\n\nHeavy Weekend 03: Unique access 
+ to the most mysterious organisation in France. Jake Hanrahan travels wit
+ h the bizarre syndicate known as "814SSR". They shoot guns\, host fight 
+ clubs\, and make money in the underground. Yet still\, they insist they'
+ re not a gang and are simply doing hardcore trolling. The truth? Decide 
+ for yourself...\n\nhttps://www.themoviedb.org/movie/1749739
+URL:https://www.themoviedb.org/movie/1749739
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1567157@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:A Mystical Ornithology
+DESCRIPTION:Directed by Jeremy Seifert\n\nImmersed in the songs of blue j
+ ays\, yellow-throated warblers\, and red-shouldered hawks on his forty-s
+ ix-acre farm in rural South Carolina\, acclaimed poet and ornithologist 
+ J. Drew Lanham exchanges calls with the birds that stop over at his home
+  during their seasonal migrations. For Drew\, these creatures are gods\,
+  transcendent beings who summon a response of reverence. Reverberating w
+ ith sound\, music\, light\, and ethereal cinematic expression\, A Mystic
+ al Ornithology weaves a kinetic texture for the senses and invites you i
+ nto a poetic evocation of the paradox of love and grief within the chang
+ ing nature of the seasons.\n\nhttps://www.themoviedb.org/movie/1567157
+URL:https://www.themoviedb.org/movie/1567157
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1807882@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Planet Health Stories - Breathe Her In
+DESCRIPTION:Directed by Ava Martinez-Lambert\n\nFor the women and non-bin
+ ary runners of 10Ironwomen - a collective addressing the gender imbalanc
+ e in endurance sports - Bristol's green trails offer what city streets c
+ an't: space to breathe.\n\nhttps://www.themoviedb.org/movie/1807882
+URL:https://www.themoviedb.org/movie/1807882
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1746956@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Find Mòr
+DESCRIPTION:Directed by Steve Small\n\nScotland still has its mysteries r
+ oaring in remote glens and sometimes hidden in plain sight. Find Mòr fo
+ llows a group of canyoneers over the span of two years as they embark on
+  a journey of exploration into the hidden corners of the Scottish Highla
+ nds. The film offers a unique perspective from within the relatively unk
+ nown niche community and discovers the myriad motivations that drive thi
+ s passion of curiosity. Setting out in search of uncharted canyons\, the
+ y find true adventure and forge deep connections to people and place.\n\
+ nhttps://www.themoviedb.org/movie/1746956
+URL:https://www.themoviedb.org/movie/1746956
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1645388@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:The Last of the Lookouts
+DESCRIPTION:Directed by Ryan Wilkes\n\nHigh atop Sinkut Mountain in north
+ ern British Columbia\, Bart Vanderlinde begins each summer's day the way
+  he has for the past nine years: scanning the forest for smoke. He's amo
+ ng the last lookout people in the province. Where three hundred lookouts
+  once formed an interconnected network across the region\, Bart now ofte
+ n keeps watch alone. This is an intimate portrait of a man and a profess
+ ion facing obsolescence. The film gives insight into the craft of fire d
+ etection while capturing the quiet solitude of a life lived in observati
+ on.\n\nhttps://www.themoviedb.org/movie/1645388
+URL:https://www.themoviedb.org/movie/1645388
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1807886@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Building Apollo 13
+DESCRIPTION:Directed by Bianca Fidani\n\nWhat begins as a challenge on th
+ e rock becomes a profound process of dedication and commitment. Caro Nor
+ th\, Fay Manners\, Rocio Rodriguez Guiñazú and Belén Prados devote th
+ eir time\, bodies\, and hearts to opening a new route in a remote place\
+ , Turbio IV in Patagonia\, Argentina\, building not only a challenge but
+  also a way of inhabiting and sharing the mountain. What makes it unique
+  is their willingness to dedicate the necessary time and care to leave t
+ he route immaculate and safe for other climbers to enjoy; not simply to 
+ climb a wall\, but to create something that can be shared with others.\n
+ \nhttps://www.themoviedb.org/movie/1807886
+URL:https://www.themoviedb.org/movie/1807886
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1803682@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:The Kelp Collector
+DESCRIPTION:Directed by Jack Breedon\n\nAfter a career in science\, Sandy
+  Webb has found a new passion in retirement: collecting and cataloguing 
+ the diverse algae species that inhabit the waters near her Melbourne hom
+ e. With the precision of a scientist and the eye of an artist\, she tran
+ sforms her discoveries into exquisite pressed-seaweed specimens\, The ke
+ lp collector reveals how Sandy's dedication to documenting local marine 
+ life connects her to the coastal environment she calls home.\n\nhttps://
+ www.themoviedb.org/movie/1803682
+URL:https://www.themoviedb.org/movie/1803682
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1813716@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Rongo
+DESCRIPTION:Directed by Finlay Woods\n\nWith plenty of powder to go aroun
+ d\, un-ridden waves rolling into secret golden beaches\, and local chara
+ cters to greet you with a smile\, six professional athletes make the mos
+ t of every moment during an action-packed adventure through Aotearoa\, N
+ Z!\n\nhttps://www.themoviedb.org/movie/1813716
+URL:https://www.themoviedb.org/movie/1813716
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1809124@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Forward
+DESCRIPTION:Directed by Nic Collar\n\nCelebrate the power of adaptive adv
+ enture through the inspiring journey of Clay March — a young man with 
+ cerebral palsy whose passion for skiing\, surfing\, and exploring the ou
+ tdoors knows no bounds. Set against the awe-inspiring landscapes of Brit
+ ish Columbia\, Clay\, his triplet brother Tanner\, and a vibrant cast of
+  renowned adaptive athletes set out to defy expectations and redefine wh
+ at inclusion in the outdoors truly means.\n\nhttps://www.themoviedb.org/
+ movie/1809124
+URL:https://www.themoviedb.org/movie/1809124
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1797220@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Against the Clock
+DESCRIPTION:Directed by John Baikie\n\nA short documentary exploring the 
+ life and passion of cyclist Alasdair Washington. Blending race footage w
+ ith moments of personal reflection\, the film offers an honest portrait 
+ of his lasting connection to the sport. It looks at the discipline\, det
+ ermination and enjoyment that continue to fuel his competitive spirit. R
+ ather than focusing on results alone\, the story captures the essence of
+  what it means to keep showing up and pushing forward. What keeps the wh
+ eels turning when time refuses to slow down? Both intimate and authentic
+ \, the film celebrates a lifelong passion for cycling and community.\n\n
+ https://www.themoviedb.org/movie/1797220
+URL:https://www.themoviedb.org/movie/1797220
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1808194@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Elsewhere: Randi Skaug
+DESCRIPTION:Directed by Toby Roney\n\nRandi Skaug was the first Norwegian
+  woman to climb Mount Everest and went on to complete the Seven Summits.
+  She has led expeditions around the world\, written books and inspired t
+ housands of people to embrace the outdoors. Now going through cancer tre
+ atment and unable to return to her remote island house\, Randi welcomes 
+ us into her eclectic home in Oslo. As her world grows smaller\, her pers
+ pective grows clearer. For Randi\, a lifetime of extraordinary achieveme
+ nt has led to one simple conclusion: be kind.\n\nhttps://www.themoviedb.
+ org/movie/1808194
+URL:https://www.themoviedb.org/movie/1808194
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1807273@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Beura
+DESCRIPTION:Directed by Gregor D. Sinclair\n\nThe tale of the Cailleach B
+ heur\, the Celtic goddess of nature\, storms and winter\, is well known 
+ to many in the Gàidhealtachd. Said to have carved the mountains and gle
+ ns with ice\, and borne the islands like children on her back\, the Cail
+ leach disappeared long ago leaving us only with her song – a sad\, cau
+ tionary tale. This Gaelic arts project brings music\, film and verse tog
+ ether to reimagine Cailleach’s story for the modern era.\n\nhttps://ww
+ w.themoviedb.org/movie/1807273
+URL:https://www.themoviedb.org/movie/1807273
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1807922@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Casey
+DESCRIPTION:Directed by Erica Gianesini\n\nCasey is a young woman on a jo
+ urney of self-empowerment\, shaped by community and a fierce love for sk
+ ateboarding. This short film is a tribute to trans+ joy and the spaces t
+ hat allow people to be unapologetically themselves. Made in collaboratio
+ n with Transkaters and Not A Phase charity.\n\nhttps://www.themoviedb.or
+ g/movie/1807922
+URL:https://www.themoviedb.org/movie/1807922
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1809154@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Framed
+DESCRIPTION:Directed by Bernardo Giménez\n\nSiebe Vanhee sets out to ons
+ ight Voie Petit\, a brutal 12-pitch 8a+ line at 3\,500m on the Grand Cap
+ ucin\, completely alone - no partner\, no static ropes\, just lead rope-
+ solo technique and a drone circling above. But even a solo mission as a 
+ professional climber has a crew: a manager on the phone\, a sponsor wait
+ ing for footage\, a director on the glacier\, and Vanhee himself playing
+  climber\, cameraman and storyteller all at once\, selfie-interviewing h
+ is own exhaustion pitch by pitch.\n\nhttps://www.themoviedb.org/movie/18
+ 09154
+URL:https://www.themoviedb.org/movie/1809154
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1810500@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Hotpipe Hillbillies
+DESCRIPTION:Directed by Stephanie Hubbard\n\nA documentary about communit
+ y\, resilience\, and finding joy in the most unlikely of places. Against
+  the backdrop of Shoreham’s industrial shoreline\, a diverse crew of s
+ urfers gather at an industrial outflow pipe to ride waves that are often
+  messy\, fickle\, and short-lived. This ain’t Cornwall. It sure ain’
+ t California. But for this crew\, it’s home\n\nhttps://www.themoviedb.
+ org/movie/1810500
+URL:https://www.themoviedb.org/movie/1810500
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1813610@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Ripple
+DESCRIPTION:Directed by Ryder Schwartz\n\nTwo women sit by the lake that 
+ raised them and have a conversation about what it means to be a freeride
+  skier. After dedicating their lives to the sport\, they question the me
+ aning of it all. More than anything\, this is a story about surrendering
+  to the present moment. A story about being water.\n\nhttps://www.themov
+ iedb.org/movie/1813610
+URL:https://www.themoviedb.org/movie/1813610
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:movie-1700311@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The Anti Expedition
@@ -1780,55 +1234,79 @@ URL:https://www.themoviedb.org/movie/1700311
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:movie-1797220@doc-radar
-DTSTAMP:20261026T120350Z
+UID:movie-1808451@doc-radar
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:Against the Clock
-DESCRIPTION:Directed by John Baikie\n\nA short documentary exploring the 
- life and passion of cyclist Alasdair Washington. Blending race footage w
- ith moments of personal reflection\, the film offers an honest portrait 
- of his lasting connection to the sport. It looks at the discipline\, det
- ermination and enjoyment that continue to fuel his competitive spirit. R
- ather than focusing on results alone\, the story captures the essence of
-  what it means to keep showing up and pushing forward. What keeps the wh
- eels turning when time refuses to slow down? Both intimate and authentic
- \, the film celebrates a lifelong passion for cycling and community.\n\n
- https://www.themoviedb.org/movie/1797220
-URL:https://www.themoviedb.org/movie/1797220
+SUMMARY:Folk Who Roam
+DESCRIPTION:Directed by Emma Crome\n\nSheffield-based violin maker Emma H
+ ardy is bridging the gap between nature and music by designing and hand-
+ crafting a uniquely decorated violin inspired by the Peak District’s h
+ istory of folk music and land access rights.\n\nhttps://www.themoviedb.o
+ rg/movie/1808451
+URL:https://www.themoviedb.org/movie/1808451
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:movie-1805666@doc-radar
-DTSTAMP:20261026T120350Z
+UID:movie-1807143@doc-radar
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:75 Seconds
-DESCRIPTION:Directed by Marco Tribelhorn\n\nOn a foggy March evening in N
- orway\, freeskier Jacob Wester triggers an avalanche and is swept off a 
- cliff. For 75 seconds\, he fights for his life inside a roaring mass of 
- snow\, while his wife Sofia waits in silence below. This is an account o
- f chaos\, fear\, and hope inside an avalanche.\n\nhttps://www.themoviedb
- .org/movie/1805666
-URL:https://www.themoviedb.org/movie/1805666
+SUMMARY:The Art of Hold Shaping
+DESCRIPTION:Directed by Dean Tucker\n\nAn intimate documentary exploring 
+ the world of Dan Yagmin as the creative force behind Decoy Holds. Moving
+  between wild landscapes\, workshop processes and climbing walls\, the f
+ ilm is a portrait of an artist shaping not just holds\, but the way we e
+ xperience climbing itself.\n\nhttps://www.themoviedb.org/movie/1807143
+URL:https://www.themoviedb.org/movie/1807143
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:movie-1806591@doc-radar
-DTSTAMP:20261026T120350Z
+UID:movie-1647235@doc-radar
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:Aldo's Raptor Roundup
-DESCRIPTION:Directed by Neil Losin\n\nSix-year old Aldo spends an excitin
- g weekend banding migrating raptors in Cape May\, New Jersey with his fr
- iend John\, a volunteer bander with the Cape May Raptor Banding Project.
- \n\nhttps://www.themoviedb.org/movie/1806591
-URL:https://www.themoviedb.org/movie/1806591
+SUMMARY:I Follow Rivers
+DESCRIPTION:Directed by Barbora Hollan\n\nMariann Sæther is one of the b
+ est whitewater kayakers in the world. Since she was a teenager\, she has
+  challenged expectations within sport and society. When she becomes a mo
+ ther\, she is determined she can both be an extreme sports athlete and h
+ ave a family. But is life on the river really worth the risk?\n\nhttps:/
+ /www.themoviedb.org/movie/1647235
+URL:https://www.themoviedb.org/movie/1647235
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1810964@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:It's What You Make It
+DESCRIPTION:Directed by Liam Tristan Hall\n\nLars has figured out what he
+  loves - snowboarding. This film explores his approach to surfstyle carv
+ ing and what keeps him coming back after 35 years. For him\, carving bec
+ omes a form of expression\, feeling and freedom.\n\nhttps://www.themovie
+ db.org/movie/1810964
+URL:https://www.themoviedb.org/movie/1810964
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1808054@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:CeCe's Way
+DESCRIPTION:Directed by Vicky Balfour\n\nAs a young woman with additional
+  needs\, CeCe understands how it can feel to find things difficult\, and
+  she brings that compassion and understanding to her role as a ride lead
+ er with the New Forest Off Road Club.\n\nhttps://www.themoviedb.org/movi
+ e/1808054
+URL:https://www.themoviedb.org/movie/1808054
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movie-1805455@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:3 Peaks Cyclocross
@@ -1843,85 +1321,171 @@ URL:https://www.themoviedb.org/movie/1805455
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:movie-1807466@doc-radar
-DTSTAMP:20261026T120350Z
+UID:movie-1700871@doc-radar
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:Bloomin' Octopus!
-DESCRIPTION:Directed by David Palfrey\n\nExplores the sudden rise in octo
- pus numbers in south west England through a series of interconnected per
- spectives\, showing how shifts beneath the surface ripple outward\, affe
- cting ecosystems and people alike.\n\nhttps://www.themoviedb.org/movie/1
- 807466
-URL:https://www.themoviedb.org/movie/1807466
+SUMMARY:The Oldest Munro Bagger
+DESCRIPTION:Directed by Jay Golian\n\nFilmed over four years\, the film f
+ ollows 80 year-old Nick Gardner as he attempts to complete all 282 of Sc
+ otland's Munros in the wake of his beloved wife's dementia diagnosis. A 
+ moving\, authentic story of enduring love and growth\, told against the 
+ breathtaking backdrop of the Scottish Highlands.\n\nhttps://www.themovie
+ db.org/movie/1700871
+URL:https://www.themoviedb.org/movie/1700871
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:movie-1807143@doc-radar
-DTSTAMP:20261026T120350Z
+UID:movie-1808066@doc-radar
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:The Art of Hold Shaping
-DESCRIPTION:Directed by Dean Tucker\n\nAn intimate documentary exploring 
- the world of Dan Yagmin as the creative force behind Decoy Holds. Moving
-  between wild landscapes\, workshop processes and climbing walls\, the f
- ilm is a portrait of an artist shaping not just holds\, but the way we e
- xperience climbing itself.\n\nhttps://www.themoviedb.org/movie/1807143
-URL:https://www.themoviedb.org/movie/1807143
+SUMMARY:Chuey
+DESCRIPTION:Directed by Sami Kimberley\n\nSince moving from Malaysia to L
+ ondon in the 1970s\, Malaysian-Chinese Buddhist and therapist Chuey has 
+ transformed the garden of her family home into a sanctuary of global flo
+ ra; blending plants from across continents\, her garden and personal sto
+ ry entwine in quiet narratives of migration\, memory\, and finding belon
+ ging. Set in the suburbs of North-West London as summer winds down\, thi
+ s meditative short invites us into her intimate reflections\, offering a
+  story of resilience\, unity\, and nature's power to dissolve barriers.
+  \n\nhttps://www.themoviedb.org/movie/1808066
+URL:https://www.themoviedb.org/movie/1808066
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:movie-1807188@doc-radar
-DTSTAMP:20261026T120350Z
+UID:movie-1813729@doc-radar
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:Bas Van Steenbergen - Interlude
-DESCRIPTION:Directed by Scott Secco\n\nBas Van Steenbergen heads up Mt. S
- eymour on Vancouver's North Shore — the birthplace of freeride —ridi
- ng with a rhythm all his own.\n\nhttps://www.themoviedb.org/movie/180718
- 8
-URL:https://www.themoviedb.org/movie/1807188
+SUMMARY:Roots
+DESCRIPTION:Directed by George Madison\n\nMore than 200 days of the year\
+ , you can find local Vermonter and ski patroller Ethan Parrish skiing so
+ me of the most extreme terrain in the Vermont backcountry. Ethan is awar
+ e of the impact of outsiders on local life\, from the strain on communit
+ y to reckless practices in the backcountry. While clearing the land surr
+ ounding his great-uncle’s farmhouse\, he dreams of his own future\, li
+ ving off the land and skiing Vermont’s Green Mountains. Roots explores
+  his deep connection to the mountains\, the people in his life\, and his
+  home.\n\nhttps://www.themoviedb.org/movie/1813729
+URL:https://www.themoviedb.org/movie/1813729
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:movie-1807374@doc-radar
-DTSTAMP:20261026T120350Z
+UID:movie-1812004@doc-radar
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:Big Jim: An American on Everest
-DESCRIPTION:Directed by Jim Aikman\n\n“Big Jim” Whittaker (1929-2026)
-  was a legendary Pacific Northwest mountaineer who became the first Amer
- ican to summit Mount Everest on May 1\, 1963. This short documentary exp
- lores his “brotherhood of the rope” with his twin brother\, Lou\, as
-  well as Nawang Gombu Sherpa\, his Everest climbing partner and lifelong
-  friend. Featuring rarely seen 16mm footage from the 1963 Everest Expedi
- tion\, archival images from the Whittaker family collection\, and interv
- iews filmed in Jim’s late 80s\, the film is both an intimate portrait 
- of an extraordinary life and a celebration of the adventurous spirit tha
- t helped define a generation of climbers.\n\nhttps://www.themoviedb.org/
- movie/1807374
-URL:https://www.themoviedb.org/movie/1807374
+SUMMARY:The Long Way Home
+DESCRIPTION:Directed by Amon Barker\n\nKelly Halpin has long dreamed of c
+ ompleting a full traverse of the beautiful and seldom travelled Gros Ven
+ tre mountain range right in her backyard in Wyoming. The route is 50 mil
+ es off-trail over technical terrain and hits every major summit in the r
+ ange. After years of scouting and two failed attempts the film shows the
+  power of perseverance and dreaming big while staying close to home.\n\n
+ https://www.themoviedb.org/movie/1812004
+URL:https://www.themoviedb.org/movie/1812004
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:movie-1807429@doc-radar
-DTSTAMP:20261026T120350Z
+UID:movie-1812053@doc-radar
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:Blank Patterns
-DESCRIPTION:Directed by Alexi Godbout\n\nA collection of athlete portrait
- s following Jacob Bélanger\, Emma Patterson\, and Ugo Troubat. Through 
- their individual stories\, the film explores the experiences\, choices\,
-  and communities that shaped the lives they lead today. While each has t
- aken a different path\, together they reflect the many ways people find 
- their place within skiing and contribute to the culture in their own way
- .\n\nhttps://www.themoviedb.org/movie/1807429
-URL:https://www.themoviedb.org/movie/1807429
+SUMMARY:Marcus & Me
+DESCRIPTION:Directed by Dominic Gill\n\nAs a participant in the Outdoor I
+ nclusion Coalition\, 'little' Marcus explores the less-known corners of 
+ his Pittsburgh back yard to seek out opportunities for climbing and conn
+ ection with nature.\n\nhttps://www.themoviedb.org/movie/1812053
+URL:https://www.themoviedb.org/movie/1812053
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1812678@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Not Just Running
+DESCRIPTION:Directed by Joel Badia Vila\n\nAn intimate portrait of an ath
+ lete who finds in movement a way to understand herself\, grow\, and cont
+ inue shaping her own path. Through her preparation\, training sessions\,
+  and the quiet moments that come before competition\, the film approache
+ s Joyce Njeru not only as an elite runner\, but as a person shaped by he
+ r culture\, determination\, discipline\, and a deep connection with the 
+ terrain.\n\nhttps://www.themoviedb.org/movie/1812678
+URL:https://www.themoviedb.org/movie/1812678
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1813701@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Rodeo On Ice
+DESCRIPTION:Directed by Lindsey Hagen\n\nWith skijoring poised to become 
+ a potential addition to the 2030 Winter Olympics\, lifelong equestrian B
+ ritta Nancarrow assembles a team to push her skijoring to the next level
+ . The film follows Nancarrow as she trains with skier Mike King and snow
+ boarder Sandra Hillen\, taking their on-snow skills to their very first 
+ competition.\n\nhttps://www.themoviedb.org/movie/1813701
+URL:https://www.themoviedb.org/movie/1813701
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1813390@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Ridgeline
+DESCRIPTION:Directed by Anna Brannon\n\nProfessional musician and compose
+ r Liz Derstine heads into the wilderness to chase a very different goal:
+  attempting a self-supported Fastest Known Time on the Pacific Crest Tra
+ il.\n\nhttps://www.themoviedb.org/movie/1813390
+URL:https://www.themoviedb.org/movie/1813390
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1814667@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Searching for SuperCrust: The Lost Tapes
+DESCRIPTION:Directed by Chris Burkard\n\nFive cyclists set out to cross E
+ urope's largest glacier by bike. An expedition 30 years in the making\, 
+ the film explores the past\, present\, and future of Vatnajökull throug
+ h the stories of those who have braved the glacier’s icy expanse on tw
+ o wheels.\n\nhttps://www.themoviedb.org/movie/1814667
+URL:https://www.themoviedb.org/movie/1814667
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1814412@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Sam Hodgson - The Story of a Freerider
+DESCRIPTION:Directed by Andre Nutini\n\nThere was never a plan B. Not out
+  of stubbornness\, but because Sam Hodgson never needed one. Growing up 
+ on a farm\, somewhere between dirt\, shovels and bikes\, it was clear ea
+ rly on: if there’s nothing to ride\, you build it yourself.\n\nhttps:/
+ /www.themoviedb.org/movie/1814412
+URL:https://www.themoviedb.org/movie/1814412
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1814885@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Secret Rivers of the Nakanai
+DESCRIPTION:Directed by Alexandre Lopez\n\nhttps://www.themoviedb.org/mov
+ ie/1814885
+URL:https://www.themoviedb.org/movie/1814885
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movie-1643130@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Remember the Summit
@@ -1938,23 +1502,151 @@ URL:https://www.themoviedb.org/movie/1643130
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:movie-1786136@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:The Lost Cache
+DESCRIPTION:Directed by Todd Jones\n\nHistory\, science and exploration c
+ onverged in a quest to find the lost camera of one of climbing’s most 
+ iconic photographers and cartographers\, Bradford Washburn. Set against 
+ the backdrop of the pioneering lensmen’s storied 1937 Mount Lucania ex
+ pedition\, this film blurs the lines between adventure documentary\, tre
+ asure hunt and meditation on why we risk everything to chase the improba
+ ble.\n\nhttps://www.themoviedb.org/movie/1786136
+URL:https://www.themoviedb.org/movie/1786136
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1685479@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Chasing Sub 2
+DESCRIPTION:A shared dream. A common belief.  Chasing Sub 2 is the journe
+ y towards realizing the impossible: running the world's first sub-two-ho
+ ur marathon. A decade-long pursuit sparked by Haile Gebrselassie at the 
+ 2008 Berlin Marathon\, which became a reality at the 2026 London Maratho
+ n.  Kenyan marathoner\, Sabastian Sawe\, has won all four of the maratho
+ ns he has competed in. Adding to his extensive list of accolades is the 
+ historic 1:59:30 finish\, powered by the latest Adizero innovation: the 
+ Adizero Adios Pro Evo 3. The fastest and lightest Adizero super-shoe eve
+ r made\, weighing less than 100 grams.  Humanity just got faster.\n\nhtt
+ ps://www.themoviedb.org/movie/1685479
+URL:https://www.themoviedb.org/movie/1685479
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1801245@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:The Impossible Journey
+DESCRIPTION:Directed by Mike Douglas\n\nIn 2013 Danish adventurer\, Thor 
+ Pedersen\, left his loved ones behind and set off in an attempt to becom
+ e the first person to visit every country in the world without flying. H
+ e wanted adventure\, a title\, and to show that the world is a much bett
+ er place than is portrayed in the news. He got an experience that tested
+  every layer of him as a human being.\n\nhttps://www.themoviedb.org/movi
+ e/1801245
+URL:https://www.themoviedb.org/movie/1801245
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:movie-1648243@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Black Eyes
-DESCRIPTION:Directed by Matteo Arango Guerrero\n\nIn Mongolia's timeless 
- Altai Mountains\, 13-year-old Kharakoz embodies a captivating blend of a
- ncestral traditions and modern influences. As she learns the ancient art
-  of eagle-hunting\, the film delves into the powerful ripple effect of p
- assing this sacred knowledge to girls.\n\nhttps://www.themoviedb.org/mov
- ie/1648243
+DESCRIPTION:Directed by Mateo Arango\n\nIn Mongolia's timeless Altai Moun
+ tains\, 13-year-old Kharakoz embodies a captivating blend of ancestral t
+ raditions and modern influences. As she learns the ancient art of eagle-
+ hunting\, the film delves into the powerful ripple effect of passing thi
+ s sacred knowledge to girls.\n\nhttps://www.themoviedb.org/movie/1648243
 URL:https://www.themoviedb.org/movie/1648243
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:movie-1679802@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Excalibur\, A Pursuit in Process
+DESCRIPTION:Directed by Ben Neilson\n\nBrooke Raboutou takes on Excalibur
+  (5.15c / 9b+) in Arco\, Italy. This film documents the process\, hardsh
+ ips\, and relentless perseverance—both mental and physical—behind he
+ r pursuit of one of the hardest routes in the world. At just 18 moves\, 
+ Excalibur is a brutally condensed testpiece of pure power endurance on r
+ azor-sharp holds. Brooke’s ascent not only marks a leap in her career 
+ – becoming the first woman to climb 5.15c / 9b+ – but also represent
+ s a meaningful step in closing the long-standing gap between men and wom
+ en at the absolute cutting edge of sport climbing.\n\nhttps://www.themov
+ iedb.org/movie/1679802
+URL:https://www.themoviedb.org/movie/1679802
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1808111@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Small People\, Big Adventures - Currents of Curiosity
+DESCRIPTION:Renowned explorer Leo Houlding embarks on a remarkable family
+  expedition to the Calvados Island chain - one of the most remote inhabi
+ ted regions on Earth\, located 300km off the coast of Papua New Guinea. 
+ Here\, money is meaningless and life is sustained through subsistence li
+ ving\, deep connection to nature and community exchange.\n\nhttps://www.
+ themoviedb.org/movie/1808111
+URL:https://www.themoviedb.org/movie/1808111
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1808139@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:The Dawn Wall By Your Side
+DESCRIPTION:Directed by Soline Kentzel\n\nThe Dawn Wall is the hardest bi
+ g wall in the world. After his failure in 2021\, Seb Berthe sets sail ag
+ ain for a second attempt. Strongly supported by Soline Kentzel\, Seb wil
+ l have to give his all to\, maybe\, achieve his lifetime dream. But he i
+ s not the only one with a dream\, and Soline also embarks on an extremel
+ y ambitious ascent. More than a story of performance\, this documentary 
+ intimately and deeply questions\, through Soline’s perspective\, the m
+ eaning of the climbing partnership.\n\nhttps://www.themoviedb.org/movie/
+ 1808139
+URL:https://www.themoviedb.org/movie/1808139
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1686182@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Skyclimber: Scaling the Eiffel Tower
+DESCRIPTION:Directed by Nick Hardie\n\nA climber attempts to scale the Ei
+ ffel Tower in a documentary that is equal parts high-altitude adventure 
+ and intimate personal portrait.\n\nhttps://www.themoviedb.org/movie/1686
+ 182
+URL:https://www.themoviedb.org/movie/1686182
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1731654@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Hunter's Moon
+DESCRIPTION:Directed by Guillaume Pierrel\n\nSki mountaineers Christina 
+ ‘Lusti’ Lustenberger and Guillaume ‘Gee’ Pierrel carve a first s
+ ki descent on New Zealand's Aoraki / Mt. Cook.\n\nhttps://www.themoviedb
+ .org/movie/1731654
+URL:https://www.themoviedb.org/movie/1731654
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:movie-1806534@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Alaska
@@ -1965,8 +1657,28 @@ URL:https://www.themoviedb.org/movie/1806534
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:movie-1620941@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:All Rivers Spill Their Stories to the Sea
+DESCRIPTION:Directed by Jeanie Finlay\n\nOn England’s North East coast\
+ , where rivers\, heavy industry and the sea have shaped lives for genera
+ tions\, fisherman Stan Rennie is watching the world he knows disappear. 
+ His family have worked these waters for generations. Then\, almost overn
+ ight\, thousands of dead crabs and lobsters wash ashore\, and a communit
+ y already living with uncertainty is pushed into crisis. Teesside filmma
+ ker Jeanie Finlay brings warmth\, wit and deep local feeling to this Dav
+ id-and-Goliath story of environmental damage\, official evasions and wor
+ king-class resilience. At its centre is Stan: funny\, stubborn\, vulnera
+ ble and increasingly determined to be heard.\n\nhttps://www.themoviedb.o
+ rg/movie/1620941
+URL:https://www.themoviedb.org/movie/1620941
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:movie-1496304@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Amazomania
@@ -1981,20 +1693,117 @@ URL:https://www.themoviedb.org/movie/1496304
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:movie-1798327@doc-radar
-DTSTAMP:20261026T120350Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:SO ALIVE!
-DESCRIPTION:Directed by yennik arual\n\nA fictional boy aims to become a 
- non-fictional rapper. His label has other plans.\n\nhttps://www.themovie
- db.org/movie/1798327
-URL:https://www.themoviedb.org/movie/1798327
+UID:movie-1805276@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:No Trees\, No Seas
+DESCRIPTION:Directed by James Stuart\n\nA people-led climate documentary 
+ rooted in Cornwall\, where stories\, science and surfing come together t
+ o reveal how restoring the connections between land\, sea and community 
+ could change everything.\n\nhttps://www.themoviedb.org/movie/1805276
+URL:https://www.themoviedb.org/movie/1805276
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-21880@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:E11
+DESCRIPTION:Directed by Paul Diffley\n\nMulti-award winning E11 tells the
+  story behind the first ascent of Rhapsody\, a route considered to be th
+ e hardest traditional rock climb in the world. Told in an offbeat dramad
+ oc style the film attempts to understand what it takes to climb a route 
+ of this standard and strives to get inside the head of its first ascenti
+ onist\, the understated yet quite remarkable Dave MacLeod.\n\nhttps://ww
+ w.themoviedb.org/movie/21880
+URL:https://www.themoviedb.org/movie/21880
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1703761@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:NIO KO BOKK (This Belongs to All of Us)
+DESCRIPTION:Directed by David Clancy\n\nPape and Seydi are two young men 
+ who find purpose and community in the ocean\, choosing a different path 
+ than the perilous journeys many peers take in search of opportunity abro
+ ad. Through their story\, the film explores how belonging at home can be
+  as powerful as the promise of elsewhere.\n\nhttps://www.themoviedb.org/
+ movie/1703761
+URL:https://www.themoviedb.org/movie/1703761
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1808211@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Escape the Indoors: A 5pm-9am Cargo Bike Adventure
+DESCRIPTION:Directed by Tracy Moseley\n\nSchool's out and the cargo bike 
+ is loaded. One night\, one tent\, one bag of marshmallows. World-class c
+ yclist Tracy Moseley and family swap four walls for moonlight\, time out
+ side\, s'mores by the campfire and a spot of rain.\n\nhttps://www.themov
+ iedb.org/movie/1808211
+URL:https://www.themoviedb.org/movie/1808211
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1801862@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Running High
+DESCRIPTION:Directed by Aaron Rolph\n\nDutch ultrarunner Noor van der Vee
+ n sets out to achieve a Fastest Known Time (FKT) on the Pyrenean Haute R
+ oute.\n\nhttps://www.themoviedb.org/movie/1801862
+URL:https://www.themoviedb.org/movie/1801862
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1811875@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Kirsten Van Horne - Rising Tide
+DESCRIPTION:Directed by Andre Nutini\n\nFrom a shy\, small-town kid to co
+ mpeting on the biggest stage in freeride mountain biking\, Kristen’s j
+ ourney shows what can happen when you give yourself permission to try.\n
+ \nhttps://www.themoviedb.org/movie/1811875
+URL:https://www.themoviedb.org/movie/1811875
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1812797@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Oly's Dean
+DESCRIPTION:Directed by Asher Koles\n\nSet along British Columbia’s rem
+ ote Dean River\, the film follows 9-year-old Oly Hickman as he moves thr
+ ough his family’s fishing lodge in the heart of steelhead country.\n\n
+ https://www.themoviedb.org/movie/1812797
+URL:https://www.themoviedb.org/movie/1812797
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1812793@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Old Ladies Against Underwater Garbage
+DESCRIPTION:Directed by Liz McGregor\n\nFollow Susan Baur\, the 85-year-o
+ ld leader\, and her crew of fearless women as they defy limits\, protect
+  the environment\, and rediscover wonder and joy through water and commu
+ nity.\n\nhttps://www.themoviedb.org/movie/1812793
+URL:https://www.themoviedb.org/movie/1812793
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movie-1802703@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Rob Lowe: The Outsider
@@ -2006,8 +1815,34 @@ URL:https://www.themoviedb.org/movie/1802703
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:movie-1798327@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:SO ALIVE!
+DESCRIPTION:Directed by yennik arual\n\nA fictional boy aims to become a 
+ non-fictional rapper. His label has other plans.\n\nhttps://www.themovie
+ db.org/movie/1798327
+URL:https://www.themoviedb.org/movie/1798327
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1596276@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:To Hold a Mountain
+DESCRIPTION:Directed by Biljana Tutorov\n\nIn the remote highlands of Mon
+ tenegro\, a shepherd mother and daughter proudly defend their ancestral 
+ mountain from the threat of becoming a NATO military training ground\, s
+ tirring memories of the violence that shattered their family.\n\nhttps:/
+ /www.themoviedb.org/movie/1596276
+URL:https://www.themoviedb.org/movie/1596276
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:movie-1732479@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:14th
@@ -2020,8 +1855,80 @@ URL:https://www.themoviedb.org/movie/1732479
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:movie-1520514@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Who Is Still Alive
+DESCRIPTION:Directed by Nicolas Wadimoff\n\nA map of Gaza\, its towns\, c
+ amps and neighbourhoods. White paint on a black ground. Within the crude
+ ly drawn outlines\, nine refugees who escaped the inferno tell their sto
+ ries.\n\nhttps://www.themoviedb.org/movie/1520514
+URL:https://www.themoviedb.org/movie/1520514
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1351951@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Maverick: The Epic Adventures of David Lean
+DESCRIPTION:Directed by Barnaby Thompson\n\nProfiles the double Oscar win
+ ner\, who helmed some of the most well-respected movies of all time\, vi
+ a never-before-seen archive and contributions from leading film director
+ s. Haunted by the shadow of his dismissive father and his puritan upbrin
+ ging\, Lean was married six times\, and he created layered and complex n
+ arratives in his work while struggling to find connection and meaning in
+  his personal life.\n\nhttps://www.themoviedb.org/movie/1351951
+URL:https://www.themoviedb.org/movie/1351951
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1809504@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Slava: Shooting with Music
+DESCRIPTION:Directed by Jacqui Morris\n\nSviatoslav Vakarchuk is the lead
+  singer of Okean Elzy\, Ukraine's most successful rock band. He is a for
+ mer politician and activist who has a PhD in theoretical physics. Slava 
+ has been compared to Bruce Springsteen and Paul McCartney and his songs 
+ are an important part of Ukrainian identity\, part of the country's cult
+ ural DNA. He is now channeling his talents to liberate his country.\n\nh
+ ttps://www.themoviedb.org/movie/1809504
+URL:https://www.themoviedb.org/movie/1809504
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1515139@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Back to the Beginning: Ozzy's Final Bow
+DESCRIPTION:Directed by Ben Wainwright-Pearce\n\nA powerful return to roo
+ ts\, this concert captures Black Sabbath in peak form - reuniting to del
+ iver classic hits with raw energy and legendary precision.\n\nhttps://ww
+ w.themoviedb.org/movie/1515139
+URL:https://www.themoviedb.org/movie/1515139
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movie-1616135@doc-radar
+DTSTAMP:20261102T142919Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Tutu
+DESCRIPTION:Directed by Sam Pollard\n\nThrough never-before-seen archival
+  footage and first-hand accounts of those who knew him best\, the film t
+ races Archbishop Desmond Tutu’s rise as the voice of the oppressed\, g
+ uided by faith\, hope and an understanding of the power of forgiveness.\
+ n\nhttps://www.themoviedb.org/movie/1616135
+URL:https://www.themoviedb.org/movie/1616135
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:movie-1666864@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:Rehearsals for a Revolution
@@ -2039,7 +1946,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movie-1785124@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:Each Day in a Moment: 2026
@@ -2051,7 +1958,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movie-1747216@doc-radar
-DTSTAMP:20261026T120350Z
+DTSTAMP:20261102T142919Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
 SUMMARY:Renoir & Love
