@@ -5,7 +5,7 @@
     <link>https://doc-radar-weld.vercel.app</link>
     <description>Upcoming documentary releases from the distributors, broadcasters, streamers and sales agents that matter. Updated weekly.</description>
     <language>en-ie</language>
-    <lastBuildDate>Mon, 09 Nov 2026 14:53:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 14:29:51 GMT</lastBuildDate>
     <item>
       <title>Blue Planet III</title>
       <link>https://www.themoviedb.org/tv/208929</link>
@@ -19,6 +19,13 @@
       <guid isPermaLink="false">movie-1575273</guid>
       <pubDate>Sun, 01 Nov 2026 09:00:00 GMT</pubDate>
       <description>Directed by Christoph Farwig. &quot;Don't Let The Bastards Grind You Down&quot; is a documentary film about British social policy. The focus is on the political struggle against neoliberal austerity policies, which have their origins in the hated Thatcher government.  The film features the former socialist MP Dave Nellist, who is now the national chair of the Trade Unionist &amp; Socialist Coalition and Hannah Sell, the general secretary of the Socialist Party. The film features a local election campaign in the miners' town of Nuneaton, students campaigning against an increase in tuition fees and refuse workers from Birmingham striking against massive cuts to their wages.</description>
+    </item>
+    <item>
+      <title>Jean Gabin - La guerre, c'est pas du cinéma (ARTE)</title>
+      <link>https://www.themoviedb.org/movie/1767102</link>
+      <guid isPermaLink="false">movie-1767102</guid>
+      <pubDate>Mon, 02 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Patrick Jeudy. From Hollywood and Marlene Dietrich to the battles of the 2nd Armored Division, the seldom-known tale of monumental French actor Jean Gabin during the war.</description>
     </item>
     <item>
       <title>Allies in Exile (BBC Storyville)</title>
@@ -65,13 +72,6 @@ Turning the camera on themselves, they document a new chapter in their own lives
       <description>Directed by Thibaut de Longeville. At the height of his success in 2025, French rap star Ninho considers leaving music behind. This documentary looks back on the triumphs, sacrifices and personal challenges that brought him to that crossroads.</description>
     </item>
     <item>
-      <title>Children of Palestine</title>
-      <link>https://www.themoviedb.org/movie/1815215</link>
-      <guid isPermaLink="false">movie-1815215</guid>
-      <pubDate>Wed, 04 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Stefano Zito. The documentary reflects on the situation in Palestine from the perspective of a journalist, an activist, and a geopolitical analyst. It offers a deeply human perspective that seeks to raise public awareness. In a world where numbers are counted every day, the director attempts here to count the names. An important message of love for Palestine and for humanity, reminding us that «we are all children of Palestine»—meaning that each of us must consider ourselves part of the same human family.</description>
-    </item>
-    <item>
       <title>Body to Heart</title>
       <link>https://www.themoviedb.org/movie/1651821</link>
       <guid isPermaLink="false">movie-1651821</guid>
@@ -86,11 +86,18 @@ Turning the camera on themselves, they document a new chapter in their own lives
       <description>Directed by Will Glitch. Deep in the &quot;grassroots&quot; world of the booming British stand-up comedy scene, real performers give their unique insights of their real life stories, aspirations, and struggles - on and off stage</description>
     </item>
     <item>
-      <title>This is the House: If I Don’t See You, I Love You</title>
-      <link>https://www.themoviedb.org/movie/1786268</link>
-      <guid isPermaLink="false">movie-1786268</guid>
+      <title>A House in One Night</title>
+      <link>https://www.themoviedb.org/movie/1819766</link>
+      <guid isPermaLink="false">movie-1819766</guid>
       <pubDate>Wed, 04 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Claudia Owusu. A Ghanaian-American father and daughter duo work through their crowded basement in search of family archives. Through intimate questions and answers, they reconcile the distance caused by immigration, divorce, and loss.</description>
+      <description>Directed by Lily Tonkin-Wells. It is said that Penrhos cottage was built in one night. According to Welsh folklore, if you could build a house overnight on common land, with smoke rising from the chimney by dawn, the place would be yours to keep. 200 years later in rural Pembrokeshire, the house stands still in time. Beneath its thatched roof lived Rachel and Maria, two sisters who spent their days crafting a life that defied societal rules written for women. Quietly radical, the pair were celebrated by the whole community. Tŷ Unnos is a fairytale documentary told through the eyes of the children who once visited. Recounting memories of Penrhos and the legacy of its last owners, the past flickers back to life.</description>
+    </item>
+    <item>
+      <title>Children of Palestine</title>
+      <link>https://www.themoviedb.org/movie/1815215</link>
+      <guid isPermaLink="false">movie-1815215</guid>
+      <pubDate>Wed, 04 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Stefano Zito. The documentary reflects on the situation in Palestine from the perspective of a journalist, an activist, and a geopolitical analyst. It offers a deeply human perspective that seeks to raise public awareness. In a world where numbers are counted every day, the director attempts here to count the names. An important message of love for Palestine and for humanity, reminding us that «we are all children of Palestine»—meaning that each of us must consider ourselves part of the same human family.</description>
     </item>
     <item>
       <title>Every Grain of Dirt</title>
@@ -100,18 +107,18 @@ Turning the camera on themselves, they document a new chapter in their own lives
       <description>Directed by Aya Chouaib. Every Grain of Dirt documents life in South Lebanon under ongoing threats of displacement and war. As sweeping evacuation orders force over a million people from their homes, some choose to remain. Among them is Ismail, a shepherd who refuses to leave his village — even as bulldozers arrive to erase it, nearly burying him alive as he stands in defiance before the machine.</description>
     </item>
     <item>
+      <title>This is the House: If I Don’t See You, I Love You</title>
+      <link>https://www.themoviedb.org/movie/1786268</link>
+      <guid isPermaLink="false">movie-1786268</guid>
+      <pubDate>Wed, 04 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Claudia Owusu. A Ghanaian-American father and daughter duo work through their crowded basement in search of family archives. Through intimate questions and answers, they reconcile the distance caused by immigration, divorce, and loss.</description>
+    </item>
+    <item>
       <title>Portraits of Slovak and Czech Britain</title>
       <link>https://www.themoviedb.org/movie/1804814</link>
       <guid isPermaLink="false">movie-1804814</guid>
       <pubDate>Wed, 04 Nov 2026 09:00:00 GMT</pubDate>
       <description>Directed by Simona Vrabcová. Transitioning from a photographic exhibition to film, this documentary captures multi-generational stories of Slovak and Czech migrants building lives and finding belonging in Britain. It highlights individuals who have impacted modern British society through personal archives and intimate conversations.</description>
-    </item>
-    <item>
-      <title>A House in One Night</title>
-      <link>https://www.themoviedb.org/movie/1819766</link>
-      <guid isPermaLink="false">movie-1819766</guid>
-      <pubDate>Wed, 04 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Lily Tonkin-Wells. It is said that Penrhos cottage was built in one night. According to Welsh folklore, if you could build a house overnight on common land, with smoke rising from the chimney by dawn, the place would be yours to keep. 200 years later in rural Pembrokeshire, the house stands still in time. Beneath its thatched roof lived Rachel and Maria, two sisters who spent their days crafting a life that defied societal rules written for women. Quietly radical, the pair were celebrated by the whole community. Tŷ Unnos is a fairytale documentary told through the eyes of the children who once visited. Recounting memories of Penrhos and the legacy of its last owners, the past flickers back to life.</description>
     </item>
     <item>
       <title>High End: The Watch Theft Ring (Netflix)</title>
@@ -121,39 +128,11 @@ Turning the camera on themselves, they document a new chapter in their own lives
       <description>Directed by Cristóbal Valenzuela Berrios. Investigates Chile's high-profile Caso Relojes (&quot;Watch Case&quot;) scandal, in which a suitcase full of smuggled luxury watches and jewelry unmasked an illicit underground network, connecting criminal elements to Chile's social elite.</description>
     </item>
     <item>
-      <title>Beyond</title>
-      <link>https://www.themoviedb.org/movie/1778040</link>
-      <guid isPermaLink="false">movie-1778040</guid>
-      <pubDate>Thu, 05 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Ben Menashe. Follows people living with and beyond cancer as they discover strength, connection, and a new sense of possibility through climbing. Set between indoor walls and wild mountain rock, it is a powerful story about recovery becoming adventure.</description>
-    </item>
-    <item>
       <title>Dear Henry: Our Fight for Justice</title>
       <link>https://www.themoviedb.org/movie/1820408</link>
       <guid isPermaLink="false">movie-1820408</guid>
       <pubDate>Thu, 05 Nov 2026 09:00:00 GMT</pubDate>
       <description>Directed by Tim Maynard. Henry Nowak’s family speak for the first time.  In this documentary, they say they may have been “manipulated in their darkest hours” by both Hampshire and Isle of Wight Constabulary and the police watchdog in the months following his murder.  Bodycam footage shows the officers arresting Henry as he lay dying on the ground.  The family has spoken to ITV News’ UK Editor Paul Brand about the way Henry was treated and their own dealings with the police in the months after his death.</description>
-    </item>
-    <item>
-      <title>A Town Called Needville</title>
-      <link>https://www.themoviedb.org/movie/1801318</link>
-      <guid isPermaLink="false">movie-1801318</guid>
-      <pubDate>Thu, 05 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Audrey Lane. Told through 35mm photographs and first-person narration, A TOWN CALLED NEEDVILLE traces the filmmaker's four-month inpatient stay at an all-women’s mental health facility in Needville, Texas.</description>
-    </item>
-    <item>
-      <title>The Emerald Underground</title>
-      <link>https://www.themoviedb.org/movie/1750366</link>
-      <guid isPermaLink="false">movie-1750366</guid>
-      <pubDate>Thu, 05 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Darren Kelly. A short documentary following the stories of three independent bands from across Ireland; The Psychs, IMLÉ and Dead Assets. Each band shares their passion for music, the many struggles they face on their journey, and what keeps them going.</description>
-    </item>
-    <item>
-      <title>Fault Lines</title>
-      <link>https://www.themoviedb.org/movie/1817054</link>
-      <guid isPermaLink="false">movie-1817054</guid>
-      <pubDate>Thu, 05 Nov 2026 09:00:00 GMT</pubDate>
-      <description>For Noah Lane, the ocean has always been a place of freedom. But when a near-fatal accident at infamous Irish big wave spot Mullaghmore brings him face to face with his own mortality, the life he has built around the water begins to take on a different meaning.</description>
     </item>
     <item>
       <title>My Friend, Kev</title>
@@ -163,11 +142,18 @@ Turning the camera on themselves, they document a new chapter in their own lives
       <description>Directed by Colin Peppard. A filmmaker reconnects with an old friend, quietly revealing the distance time can create.</description>
     </item>
     <item>
-      <title>Journey to the End of the Ego</title>
-      <link>https://www.themoviedb.org/movie/1803407</link>
-      <guid isPermaLink="false">movie-1803407</guid>
+      <title>A Town Called Needville</title>
+      <link>https://www.themoviedb.org/movie/1801318</link>
+      <guid isPermaLink="false">movie-1801318</guid>
       <pubDate>Thu, 05 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Alastair Lee. The scene is the almost mythical landscape of Ben Loyal, one of Scotland's most remote mountains towering over the Arctic Ocean. The cliff is one of the finest sweeps of clean unclimbed rock to be found anywhere in the land. The climber is the thought-provoking controversial live-wire, who goes by the name of Franco Cookson. This is the epic story of the UK's most dangerous trad route and the 105 days of climbing it took to realise one man's dream; 'Nothing is Lost' E12 7a.</description>
+      <description>Directed by Audrey Lane. Told through 35mm photographs and first-person narration, A TOWN CALLED NEEDVILLE traces the filmmaker's four-month inpatient stay at an all-women’s mental health facility in Needville, Texas.</description>
+    </item>
+    <item>
+      <title>Beyond</title>
+      <link>https://www.themoviedb.org/movie/1778040</link>
+      <guid isPermaLink="false">movie-1778040</guid>
+      <pubDate>Thu, 05 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Ben Menashe. Follows people living with and beyond cancer as they discover strength, connection, and a new sense of possibility through climbing. Set between indoor walls and wild mountain rock, it is a powerful story about recovery becoming adventure.</description>
     </item>
     <item>
       <title>Life Sure Is Sweet</title>
@@ -177,11 +163,46 @@ Turning the camera on themselves, they document a new chapter in their own lives
       <description>Directed by Drew Coalson. Two years in the making, &quot;Life Sure Is Sweet&quot; is a independent coming-of-age snowboard documentary produced by the creative collective TDI (Technically Doing It). Featuring an all-Black and Brown crew of riders travelling and filming across the globe, the film moves beyond high-level action sports progression to explore deep themes of cultural identity, community, lifelong friendship, and charting your own path in the mountains.</description>
     </item>
     <item>
+      <title>Fault Lines</title>
+      <link>https://www.themoviedb.org/movie/1817054</link>
+      <guid isPermaLink="false">movie-1817054</guid>
+      <pubDate>Thu, 05 Nov 2026 09:00:00 GMT</pubDate>
+      <description>For Noah Lane, the ocean has always been a place of freedom. But when a near-fatal accident at infamous Irish big wave spot Mullaghmore brings him face to face with his own mortality, the life he has built around the water begins to take on a different meaning.</description>
+    </item>
+    <item>
+      <title>Journey to the End of the Ego</title>
+      <link>https://www.themoviedb.org/movie/1803407</link>
+      <guid isPermaLink="false">movie-1803407</guid>
+      <pubDate>Thu, 05 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Alastair Lee. The scene is the almost mythical landscape of Ben Loyal, one of Scotland's most remote mountains towering over the Arctic Ocean. The cliff is one of the finest sweeps of clean unclimbed rock to be found anywhere in the land. The climber is the thought-provoking controversial live-wire, who goes by the name of Franco Cookson. This is the epic story of the UK's most dangerous trad route and the 105 days of climbing it took to realise one man's dream; 'Nothing is Lost' E12 7a.</description>
+    </item>
+    <item>
+      <title>Senu</title>
+      <link>https://www.themoviedb.org/movie/1814904</link>
+      <guid isPermaLink="false">movie-1814904</guid>
+      <pubDate>Thu, 05 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Marianne Skeffington. Told surfing wasn't for girls, Senu Madushani learned on broken, discarded boards and became Sri Lanka's first female national surfer. An intimate portrait of a young woman and her bond with the ocean.</description>
+    </item>
+    <item>
+      <title>The Emerald Underground</title>
+      <link>https://www.themoviedb.org/movie/1750366</link>
+      <guid isPermaLink="false">movie-1750366</guid>
+      <pubDate>Thu, 05 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Darren Kelly. A short documentary following the stories of three independent bands from across Ireland; The Psychs, IMLÉ and Dead Assets. Each band shares their passion for music, the many struggles they face on their journey, and what keeps them going.</description>
+    </item>
+    <item>
       <title>Unprotected: Murder in Galicia (Netflix)</title>
       <link>https://www.themoviedb.org/movie/1794569</link>
       <guid isPermaLink="false">movie-1794569</guid>
       <pubDate>Fri, 06 Nov 2026 09:00:00 GMT</pubDate>
       <description>Directed by Jorge Laplace. Documentary film that tells the story of Isabel Fuentes. In April 2015, alleged burglars left her on the brink of death in her own home, in the village of Pazos, in Verín. From the very beginning, the Guardia Civil sergeant in charge of the case suspected that the account of what had happened did not add up and tried to protect Isabel from further attack.</description>
+    </item>
+    <item>
+      <title>Avedon (Netflix)</title>
+      <link>https://www.themoviedb.org/movie/1666787</link>
+      <guid isPermaLink="false">movie-1666787</guid>
+      <pubDate>Fri, 06 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Ron Howard. Richard Avedon's photographs didn't just reflect culture, they shaped it, and continue to do so. The feature documentary AVEDON traces the life and legacy of an artist who used fashion, portraiture, and commercial photography to explore identity, power, fear and beauty. With unprecedented access to Avedon's archive, including never before seen photos, behind the scenes recordings, and interviews with those who knew him best, AVEDON is a visually stunning examination of the mind of an artist who shaped our collective image of the 20th century.</description>
     </item>
     <item>
       <title>Awkwafina: The Unlikely Cook (Apple Original Films)</title>
@@ -198,11 +219,11 @@ Turning the camera on themselves, they document a new chapter in their own lives
       <description>Directed by Eleanor Coppola. Eleanor Coppola turns her camera on her daughter, Sofia, as she shoots Marie Antoinette. Catching every detail of the behind-the-scenes and on-set action, Eleanor captures the feat of Sofia’s directing a landmark film aged 34, and muses on what it means for a mother to watch her daughter at work.</description>
     </item>
     <item>
-      <title>Avedon</title>
-      <link>https://www.themoviedb.org/movie/1666787</link>
-      <guid isPermaLink="false">movie-1666787</guid>
+      <title>Klaus Nomi - Chanteur du troisième type (ARTE)</title>
+      <link>https://www.themoviedb.org/movie/1820005</link>
+      <guid isPermaLink="false">movie-1820005</guid>
       <pubDate>Fri, 06 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Ron Howard. Richard Avedon's photographs didn't just reflect culture, they shaped it, and continue to do so. The feature documentary AVEDON traces the life and legacy of an artist who used fashion, portraiture, and commercial photography to explore identity, power, fear and beauty. With unprecedented access to Avedon's archive, including never before seen photos, behind the scenes recordings, and interviews with those who knew him best, AVEDON is a visually stunning examination of the mind of an artist who shaped our collective image of the 20th century.</description>
+      <description>Directed by Thomas Boujut. A documentary that traces the brief, radical life of German countertenor Klaus Sperber as he becomes the extraterrestrial New Wave icon Klaus Nomi. Narrated by Melvil Poupaud, the documentary follows him from his post-war Bavarian childhood and classical opera roots in West Berlin to 1970s New York City. In the East Village underground scene, Nomi fuses baroque opera arias with cold-wave synth-pop, crafting a striking persona with white clown makeup and retro-futuristic outfits. The film highlights his 1981 breakthrough in France with &quot;The Cold Song&quot; before turning to his tragic final days. In August 1983, Nomi died alone in a Manhattan hospital at age 39, isolated by the fear and stigma surrounding AIDS. Blending rare archival footage with interviews from collaborators like Joey Arias and Kristian Hoffman, alongside artists like Christine and the Queens, the film celebrates his legacy as a pioneering queer icon.</description>
     </item>
     <item>
       <title>Finding Faith</title>
@@ -212,18 +233,18 @@ Turning the camera on themselves, they document a new chapter in their own lives
       <description>Directed by Mary McCartney. A short film contextualising the cultural significance of George Michael's Faith album via unheard interview voice-over, unseen images by Herb Ritts, and behind-the-scenes footage of the Faith music video.</description>
     </item>
     <item>
-      <title>Klaus Nomi - Chanteur du troisième type (ARTE)</title>
-      <link>https://www.themoviedb.org/movie/1820005</link>
-      <guid isPermaLink="false">movie-1820005</guid>
-      <pubDate>Fri, 06 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Thomas Boujut.</description>
-    </item>
-    <item>
       <title>Haus Tumbuna</title>
       <link>https://www.themoviedb.org/movie/1754517</link>
       <guid isPermaLink="false">movie-1754517</guid>
       <pubDate>Fri, 06 Nov 2026 09:00:00 GMT</pubDate>
       <description>Directed by Matty Hannon. A socially engaged project and commissioned documentary film in Ulingan Bay, Papua New Guinea that documents the establishment of a self-sustaining, culturally specific timber surfboard factory within the local community. The project, founded by Nickolas Kirriwom and Nicholas Wynnychuk, aims to decolonize cultural impact, foster cultural revival and healing, and highlight the connection between community, culture, spirit, and the natural world through the sustainable practice of building traditional ocean-going craft.</description>
+    </item>
+    <item>
+      <title>Stacey Dooley's Australia: Off the Beaten Track</title>
+      <link>https://www.themoviedb.org/tv/340370</link>
+      <guid isPermaLink="false">tv-340370</guid>
+      <pubDate>Sun, 08 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Stacey is off the beaten track, exploring a side of Australia few outsiders see - from an isolated cattle station to a very special island and heading deep inside the rainforest.</description>
     </item>
     <item>
       <title>Do You See What I See? Cinéma Fantastique Then and Now</title>
@@ -246,11 +267,32 @@ Through intimate access to both the practitioners selling the dream and the men 
 Filmed over two years, with dark humour and unexpected tenderness, this is a timely and revealing portrait of identity and self-image as cosmetic surgery among men continues to rise.</description>
     </item>
     <item>
-      <title>Jean Gabin - La guerre, c'est pas du cinéma ! (ARTE)</title>
-      <link>https://www.themoviedb.org/movie/1767102</link>
-      <guid isPermaLink="false">movie-1767102</guid>
+      <title>Get Huge: Looksmaxxing to Death</title>
+      <link>https://www.themoviedb.org/tv/340053</link>
+      <guid isPermaLink="false">tv-340053</guid>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 GMT</pubDate>
+      <description>An unflinching portrait of masculinity in the influencer age, where extreme biohacking, online performance and a series of suspicious deaths converge.</description>
+    </item>
+    <item>
+      <title>History's Mystery Files</title>
+      <link>https://www.themoviedb.org/tv/340067</link>
+      <guid isPermaLink="false">tv-340067</guid>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 GMT</pubDate>
+      <description>History has spent decades investigating the mysteries that challenge what we know about the past, and what we think is possible. HISTORY'S MYSTERY FILES revisits the most unforgettable cases, from sacred discoveries and bizarre weapons to unsolved disappearances and high strangeness. Hosted by Jorge Garcia, each episode follows the clues, the evidence and the questions that refuse to go away.</description>
+    </item>
+    <item>
+      <title>The Unthinkable Daughter (Netflix)</title>
+      <link>https://www.themoviedb.org/movie/1664682</link>
+      <guid isPermaLink="false">movie-1664682</guid>
       <pubDate>Wed, 11 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Patrick Jeudy.</description>
+      <description>Directed by Lygia M. Barbosa. Decades of questions and a crime that shook Brazil. Suzane von Richthofen, convicted for the murder of her parents, tells the whole story in her own words.</description>
+    </item>
+    <item>
+      <title>At War with Next Door</title>
+      <link>https://www.themoviedb.org/tv/341464</link>
+      <guid isPermaLink="false">tv-341464</guid>
+      <pubDate>Wed, 11 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Exclusive access to the battles raging across Britain as people face off with neighbours from hell. From noisy pets to wonky sheds, creepy neighbours spying on your every move, to music blaring day and night, we meet the people pushed to breaking point by those next door. With raw testimony and shocking doorbell footage, this series is not for the faint-hearted.</description>
     </item>
     <item>
       <title>Magic in the Mundane</title>
@@ -260,11 +302,46 @@ Filmed over two years, with dark humour and unexpected tenderness, this is a tim
       <description>Directed by Leigh Brooks. A cinematic journey into the overlooked miracles of everyday existence.</description>
     </item>
     <item>
+      <title>Lucio's Tour de France</title>
+      <link>https://www.themoviedb.org/movie/1826944</link>
+      <guid isPermaLink="false">movie-1826944</guid>
+      <pubDate>Wed, 11 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Étienne Barrier. Lucio, 26, suffers from dystonia, a condition that causes speech and movement disorders. However, he has embarked on a crazy challenge: to walk and cycle around France in less than 99 days. Accompanied by his mother, he will discover France, his country that he only knows through television, and prove that with enough determination, you can make your dreams come true.</description>
+    </item>
+    <item>
+      <title>The Jigsaw Puzzle Murder</title>
+      <link>https://www.themoviedb.org/tv/340784</link>
+      <guid isPermaLink="false">tv-340784</guid>
+      <pubDate>Thu, 12 Nov 2026 09:00:00 GMT</pubDate>
+      <description>When a dismembered torso is discovered in woodland on the edge of Salford, detectives launch a murder investigation with no DNA match, witnesses or obvious suspects. As a national media storm unfolds, forensic clues, new suspects and further discoveries across Greater Manchester begin to reveal the shocking truth behind the killing</description>
+    </item>
+    <item>
+      <title>Cobra Mist: CIA, Seals &amp; Orford</title>
+      <link>https://www.themoviedb.org/movie/1823512</link>
+      <guid isPermaLink="false">movie-1823512</guid>
+      <pubDate>Thu, 12 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Ralph Cochrane. At the height of the Cold War, a secret CIA base was built on the Suffolk Coast at Orford Ness. Over $1 Billion was spent trying to spy on the Soviets. Today Cobra Mist is off limits and not open to the public. In this special film Ralph Cochrane goes behind the scenes to find out what really happened and how a small dedicated team are helping to keep this fascinating piece of history alive for future generations. Featuring rare footage of Orford Ness lighthouse which was pulled down in 2020 due to coastal erosion and the new seal colony that's formed on Orford Ness this film is beautifully shot by the event.video team.</description>
+    </item>
+    <item>
+      <title>Russell Brand: Open Secret</title>
+      <link>https://www.themoviedb.org/movie/1823907</link>
+      <guid isPermaLink="false">movie-1823907</guid>
+      <pubDate>Fri, 13 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Olivia Issacs. From comedy stardom to a criminal trial, inside voices and archive footage charts British comedian Russell Brand's meteoric rise and steep fall following allegations of sexual offences.</description>
+    </item>
+    <item>
       <title>Whispers in the Woods</title>
       <link>https://www.themoviedb.org/movie/1309373</link>
       <guid isPermaLink="false">movie-1309373</guid>
       <pubDate>Fri, 13 Nov 2026 09:00:00 GMT</pubDate>
       <description>Directed by Vincent Munier. In the heart of the tranquil Vosges forests, where lynxes, bears and deer roam freely, Vincent Munier accompanies his father on his expeditions. He not only seeks to capture the visual wonders of this forest kingdom, but also aims to make its sounds audible. Every whisper of the forest is a reminder of the knowledge of nature that his father once imbued in him – knowledge that Vincent now passes on to his own son. Vincent Munier combines breathtaking footage of nature and its sounds to create a fairytale-like cinematic experience that slows time down.</description>
+    </item>
+    <item>
+      <title>Clangold</title>
+      <link>https://www.themoviedb.org/tv/341950</link>
+      <guid isPermaLink="false">tv-341950</guid>
+      <pubDate>Fri, 13 Nov 2026 09:00:00 GMT</pubDate>
+      <description>A 100-kilogram gold coin called the Big Maple Leaf is stolen from Berlin's Bode Museum, leading investigators into the city's clan gang milieu in a cat-and-mouse pursuit of the perpetrators.</description>
     </item>
     <item>
       <title>Nuisance Bear</title>
@@ -274,18 +351,18 @@ Filmed over two years, with dark humour and unexpected tenderness, this is a tim
       <description>Directed by Gabriela Osio Vanden. A polar bear is forced to navigate a human world of tourists, wildlife officers, and hunters as its ancient migration collides with modern life. When a sacred predator is branded a nuisance, it becomes unclear who truly belongs in this shared landscape.</description>
     </item>
     <item>
+      <title>Maniacs of the Truth</title>
+      <link>https://www.themoviedb.org/tv/341027</link>
+      <guid isPermaLink="false">tv-341027</guid>
+      <pubDate>Fri, 13 Nov 2026 09:00:00 GMT</pubDate>
+      <description>This two-part documentary series explores Hungary’s most notorious and high-profile criminal cases following the fall of communism through the regular dinner gatherings of a unique group of friends - including retired detective Ernő Tóth and his former colleagues.</description>
+    </item>
+    <item>
       <title>A Fox Under a Pink Moon</title>
       <link>https://www.themoviedb.org/movie/951018</link>
       <guid isPermaLink="false">movie-951018</guid>
       <pubDate>Fri, 13 Nov 2026 09:00:00 GMT</pubDate>
       <description>Directed by Mehrdad Oskouei. At just 16, Soraya is already creating stunning drawings and sculptures that are as beautiful as they are dark. This strong-willed Afghan sculptor and illustrator has been trying for five years to escape Iran and join her mother in Austria.</description>
-    </item>
-    <item>
-      <title>Whiddy (ARTE)</title>
-      <link>https://www.themoviedb.org/movie/1637730</link>
-      <guid isPermaLink="false">movie-1637730</guid>
-      <pubDate>Fri, 13 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Adrian McCarthy. A small rural community in Ireland welcomes in a major, global oil company with open arms but just 10 years and numerous oil spills later, that dream turns into an unimaginable nightmare. 50 lives lost in a tragedy that silenced and divided the community and still haunts it to this day.</description>
     </item>
     <item>
       <title>1 in 2</title>
@@ -295,11 +372,18 @@ Filmed over two years, with dark humour and unexpected tenderness, this is a tim
       <description>Directed by David Wilkinson. Nearly one in two of us will be diagnosed with cancer at some point in our lives. David Nicholas Wilkinson is one of them, twice over. 1 in 2 follows Wilkinson through his own treatment, where he discovers a steep rise in bowel cancer among people far too young to be screened for it, and far too young, it seems, to be believed.</description>
     </item>
     <item>
-      <title>Flhorrida 2: Even Flhorrider</title>
-      <link>https://www.themoviedb.org/movie/1821546</link>
-      <guid isPermaLink="false">movie-1821546</guid>
+      <title>Whiddy (ARTE)</title>
+      <link>https://www.themoviedb.org/movie/1637730</link>
+      <guid isPermaLink="false">movie-1637730</guid>
       <pubDate>Fri, 13 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Phil Rankin. In 2017, a horrid holiday happened... Now, in 2025, a holiday happened horridly... again! SmellBad Films present, a rubbish sequel no one in the universe asked for. But this time, it will be... EPIC!</description>
+      <description>Directed by Adrian McCarthy. A small rural community in Ireland welcomes in a major, global oil company with open arms but just 10 years and numerous oil spills later, that dream turns into an unimaginable nightmare. 50 lives lost in a tragedy that silenced and divided the community and still haunts it to this day.</description>
+    </item>
+    <item>
+      <title>POG1: The Making of a Legend</title>
+      <link>https://www.themoviedb.org/movie/1822271</link>
+      <guid isPermaLink="false">movie-1822271</guid>
+      <pubDate>Fri, 13 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Filippo Barcatta. More than a story of victories, POG1 – The Making of a Legend is a portrait of Tadej Pogačar beyond the finish line.  The documentary explores the people, relationships and defining moments that shaped one of the greatest cyclists of his generation, revealing the mindset, character and passion behind an athlete who is redefining the history of the sport.</description>
     </item>
     <item>
       <title>Answering The Call</title>
@@ -307,6 +391,20 @@ Filmed over two years, with dark humour and unexpected tenderness, this is a tim
       <guid isPermaLink="false">movie-1819807</guid>
       <pubDate>Fri, 13 Nov 2026 09:00:00 GMT</pubDate>
       <description>Directed by Martin Danneels. On Ireland’s rugged west coast, a rare call cuts through the summer night: a corncrake has returned. For those who have grown up with its rasping cry, this is more than the return of a bird. It is the sound of home, of childhood summers and a living connection to a landscape shaped by generations. But that familiar voice is disappearing, and with it, a piece of who these communities are.  In Answering the Call, communities of farmers, locals and naturalists unite in a race to save what few corncrake remain. As the community rallies to answer the call, one question becomes impossible to ignore: if they fail to act now, will they be the last generation to hear this extraordinary sound?</description>
+    </item>
+    <item>
+      <title>Flhorrida 2: Even Flhorrider</title>
+      <link>https://www.themoviedb.org/movie/1821546</link>
+      <guid isPermaLink="false">movie-1821546</guid>
+      <pubDate>Fri, 13 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Phil Rankin. In 2017, a horrid holiday happened... Now, in 2025, a holiday happened horridly... again! SmellBad Films present, a rubbish sequel no one in the universe asked for. But this time, it will be... EPIC!</description>
+    </item>
+    <item>
+      <title>Life Where Land Ends - Tom Crowe</title>
+      <link>https://www.themoviedb.org/movie/1825913</link>
+      <guid isPermaLink="false">movie-1825913</guid>
+      <pubDate>Sat, 14 Nov 2026 09:00:00 GMT</pubDate>
+      <description>A surfer, RNLI and Coastguard volunteer, and coach at his local surf-lifesaving club, Tom Crowe’s life has been shaped around and by the ocean. From helping with his own search for identity, to passing on its lessons to the next generation, we explore Tom's relationship with the ocean and how he lives a life where land ends.</description>
     </item>
     <item>
       <title>Women and War (ARTE)</title>
@@ -337,11 +435,18 @@ Filmed over two years, with dark humour and unexpected tenderness, this is a tim
       <description>Directed by Dawn Porter. In 1983, author Ta-Nehisi Coates learned that a 14-year-old boy was murdered in his Baltimore middle school. Upon revisiting the case, he uncovers the truth: Three innocent teenagers were wrongfully convicted and spent 36 years in prison — creating a lasting impact on the accused, the witnesses, and their community.</description>
     </item>
     <item>
-      <title>Trade Secret</title>
-      <link>https://www.themoviedb.org/movie/1510284</link>
-      <guid isPermaLink="false">movie-1510284</guid>
-      <pubDate>Thu, 19 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Abraham Joffe. Three unlikely allies are on a mission to protect polar bears from international commercial trade. Filmed over six years across 13 countries, the film exposes the sanctioned sale of hundreds of polar bears each year on the global market. But as the investigation deepens, it uncovers a disturbing truth: those entrusted with safeguarding the species may be entangled in their continued commercialisation. The film raises urgent questions about how we protect vulnerable wildlife in a world where the lines between protection and exploitation have become blurred.</description>
+      <title>The Last Spy (Dogwoof)</title>
+      <link>https://www.themoviedb.org/movie/1453149</link>
+      <guid isPermaLink="false">movie-1453149</guid>
+      <pubDate>Tue, 17 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Katharina Otto-Bernstein. The riveting biography of 102-year-old CIA spymaster Peter Sichel, who unpacks the obscured roots of conflicts that plague today’s world and the toll espionage took on his personal life.</description>
+    </item>
+    <item>
+      <title>KI - Die letzte Erfindung der Menschheit? (ARTE)</title>
+      <link>https://www.themoviedb.org/movie/1822061</link>
+      <guid isPermaLink="false">movie-1822061</guid>
+      <pubDate>Tue, 17 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Philipp Grüll.</description>
     </item>
     <item>
       <title>Women &amp; the Wind</title>
@@ -351,60 +456,11 @@ Filmed over two years, with dark humour and unexpected tenderness, this is a tim
       <description>Directed by Alizé Jireh. Shot over the course of 30 days at sea, filmmaker Alizé Jireh documents the group’s voyage across the North Atlantic—from moments of stillness and calm to the chaos of storms and setbacks. With an observational approach and an eye for the emotional and physical rhythms of life at sea, Jireh captures not just the external landscape, but the internal shifts that come with navigating the vast unknown.</description>
     </item>
     <item>
-      <title>Observer</title>
-      <link>https://www.themoviedb.org/movie/1442281</link>
-      <guid isPermaLink="false">movie-1442281</guid>
+      <title>Trade Secret</title>
+      <link>https://www.themoviedb.org/movie/1510284</link>
+      <guid isPermaLink="false">movie-1510284</guid>
       <pubDate>Thu, 19 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Ian Cheney. Filmmaker Ian Cheney embarks on an experiment in which he brings a series of keen-eyed observers - scientists, artists, a hunter - to a range of locations around the world, often without telling them where they are going, and asks them simply to describe what they see. What unfolds is a deep exploration and celebration of the power of observation: what happens when you find new ways to sense and perceive the world around you?</description>
-    </item>
-    <item>
-      <title>Nininbaori</title>
-      <link>https://www.themoviedb.org/movie/1812576</link>
-      <guid isPermaLink="false">movie-1812576</guid>
-      <pubDate>Thu, 19 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Mathieu Achermann. Follows three para-climbers through fragments of their daily lives, where ordinary domestic gestures intertwine with the quiet precision of athletic practice. Moving seamlessly from one to the next, the film refuses hierarchy, unfolding instead like the pages of a single book written by multiple hands.</description>
-    </item>
-    <item>
-      <title>À bord du vide</title>
-      <link>https://www.themoviedb.org/movie/1806288</link>
-      <guid isPermaLink="false">movie-1806288</guid>
-      <pubDate>Thu, 19 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Thomas Guerrin. A poetic exploration of the art of steep skiing with Aurélien Lardy. This film celebrates the art of the movement, the commitment, and the intimate relationship between the man and the mountain, and what draws us to vertical places.</description>
-    </item>
-    <item>
-      <title>My Ride or Die</title>
-      <link>https://www.themoviedb.org/movie/1812462</link>
-      <guid isPermaLink="false">movie-1812462</guid>
-      <pubDate>Thu, 19 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Charlotte Percle. Morgan McGlashon (professional mountain guide) and Caite Zeliff (professional skier) picked obscure paths. Those paths collided and became intertwined. When their careers took off they found themselves spending less time in the mountains together but they always dreamed of one day coming back together on a proper adventure. On a 10-day expedition in Alaska, the two reconnect.</description>
-    </item>
-    <item>
-      <title>The Search for Milliseconds</title>
-      <link>https://www.themoviedb.org/movie/1814498</link>
-      <guid isPermaLink="false">movie-1814498</guid>
-      <pubDate>Thu, 19 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Darcy Wittenburg. Inside mountain bike downhill phenom Jackson Goldstone's high-stakes bid to become one of the youngest riders in history to claim the UCI DH Elite overall title. From pre-season testing to the tense, pressure-filled moments leading into the last race of the year, the film follows Jackson and the team that supports him as they hunt for every possible edge in a sport where the smallest fractions of time can define a champion. With the title on the line and only one decisive run remaining, Jackson prepares to risk everything for the win.</description>
-    </item>
-    <item>
-      <title>Still Rider</title>
-      <link>https://www.themoviedb.org/movie/1803128</link>
-      <guid isPermaLink="false">movie-1803128</guid>
-      <pubDate>Thu, 19 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Daniel Stark. After a mountain bike crash resulted in a life altering injury, Chantelle Grafton and her husband Warren have gone to great lengths to get Chantelle back out on the trails. Still Rider explores this journey, highlighting the unanticipated complexities that come with a major spinal cord injury and more importantly the benefits of prioritising adaptive design for those with and without accessibility issues.</description>
-    </item>
-    <item>
-      <title>My Grandmother’s Sketchbook: Under Mont Blanc</title>
-      <link>https://www.themoviedb.org/movie/1622868</link>
-      <guid isPermaLink="false">movie-1622868</guid>
-      <pubDate>Thu, 19 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Max Romey. A 30-year-old sketchbook leads Max Romey to the Mont Blanc region. The Alaska-based watercolor artist and environmental advocate sets out to follow in the footsteps of his grandmother, who visited this landscape in the late 1990s and captured it in dozens of drawings. With mountain guide Hillary Gerardi, Max attempts to locate each sketch’s exact origin point. Many match perfectly—until the Mer de Glace throws him off course. The glacier has changed too much in 30 years to recognize.</description>
-    </item>
-    <item>
-      <title>Too Old Not To</title>
-      <link>https://www.themoviedb.org/movie/1815426</link>
-      <guid isPermaLink="false">movie-1815426</guid>
-      <pubDate>Thu, 19 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Clementine Bourke. “Feel the fear and do it anyway” is the motto that 55-year-old Heli Murray teaches, and practices, as a birth doula and endurance athlete. Parallel to navigating motherhood, divorce, menopause and grandmotherhood, the ocean has been Heli’s sanctuary and outlet for expanding her own edges.</description>
+      <description>Directed by Abraham Joffe. Three unlikely allies are on a mission to protect polar bears from international commercial trade. Filmed over six years across 13 countries, the film exposes the sanctioned sale of hundreds of polar bears each year on the global market. But as the investigation deepens, it uncovers a disturbing truth: those entrusted with safeguarding the species may be entangled in their continued commercialisation. The film raises urgent questions about how we protect vulnerable wildlife in a world where the lines between protection and exploitation have become blurred.</description>
     </item>
     <item>
       <title>Robson</title>
@@ -414,6 +470,55 @@ Filmed over two years, with dark humour and unexpected tenderness, this is a tim
       <description>Directed by Philip Forsey. Two of the world’s most accomplished ski mountaineers, Christina Lustenberger and Guillaume Pierrel, have carved their names into history with bold first descents across the globe. Now, turning their sights on Mount Robson, the highest and most formidable peak in the Canadian Rockies, they retrace the steps of pioneering alpinists who came before them, pushing the line between past and present. Battling towering walls of ice, snow and rock, unpredictable weather, and the weight of a dream that has challenged generations, their journey becomes as much about resilience and legacy as it is about the pursuit of a descent few have ever dared to imagine.</description>
     </item>
     <item>
+      <title>Observer</title>
+      <link>https://www.themoviedb.org/movie/1442281</link>
+      <guid isPermaLink="false">movie-1442281</guid>
+      <pubDate>Thu, 19 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Ian Cheney. Filmmaker Ian Cheney embarks on an experiment in which he brings a series of keen-eyed observers - scientists, artists, a hunter - to a range of locations around the world, often without telling them where they are going, and asks them simply to describe what they see. What unfolds is a deep exploration and celebration of the power of observation: what happens when you find new ways to sense and perceive the world around you?</description>
+    </item>
+    <item>
+      <title>The Search for Milliseconds</title>
+      <link>https://www.themoviedb.org/movie/1814498</link>
+      <guid isPermaLink="false">movie-1814498</guid>
+      <pubDate>Thu, 19 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Darcy Wittenburg. Inside mountain bike downhill phenom Jackson Goldstone's high-stakes bid to become one of the youngest riders in history to claim the UCI DH Elite overall title. From pre-season testing to the tense, pressure-filled moments leading into the last race of the year, the film follows Jackson and the team that supports him as they hunt for every possible edge in a sport where the smallest fractions of time can define a champion. With the title on the line and only one decisive run remaining, Jackson prepares to risk everything for the win.</description>
+    </item>
+    <item>
+      <title>Rat Story</title>
+      <link>https://www.themoviedb.org/movie/1798966</link>
+      <guid isPermaLink="false">movie-1798966</guid>
+      <pubDate>Thu, 19 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by John Kelly. I woke up at 5am with a giant rat lying on my chest.</description>
+    </item>
+    <item>
+      <title>My Ride or Die</title>
+      <link>https://www.themoviedb.org/movie/1812462</link>
+      <guid isPermaLink="false">movie-1812462</guid>
+      <pubDate>Thu, 19 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Charlotte Percle. Morgan McGlashon (professional mountain guide) and Caite Zeliff (professional skier) picked obscure paths. Those paths collided and became intertwined. When their careers took off they found themselves spending less time in the mountains together but they always dreamed of one day coming back together on a proper adventure. On a 10-day expedition in Alaska, the two reconnect.</description>
+    </item>
+    <item>
+      <title>My Grandmother’s Sketchbook: Under Mont Blanc</title>
+      <link>https://www.themoviedb.org/movie/1622868</link>
+      <guid isPermaLink="false">movie-1622868</guid>
+      <pubDate>Thu, 19 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Max Romey. A 30-year-old sketchbook leads Max Romey to the Mont Blanc region. The Alaska-based watercolor artist and environmental advocate sets out to follow in the footsteps of his grandmother, who visited this landscape in the late 1990s and captured it in dozens of drawings. With mountain guide Hillary Gerardi, Max attempts to locate each sketch’s exact origin point. Many match perfectly—until the Mer de Glace throws him off course. The glacier has changed too much in 30 years to recognize.</description>
+    </item>
+    <item>
+      <title>Nininbaori</title>
+      <link>https://www.themoviedb.org/movie/1812576</link>
+      <guid isPermaLink="false">movie-1812576</guid>
+      <pubDate>Thu, 19 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Mathieu Achermann. Follows three para-climbers through fragments of their daily lives, where ordinary domestic gestures intertwine with the quiet precision of athletic practice. Moving seamlessly from one to the next, the film refuses hierarchy, unfolding instead like the pages of a single book written by multiple hands.</description>
+    </item>
+    <item>
+      <title>Back By Tea Time</title>
+      <link>https://www.themoviedb.org/movie/1807161</link>
+      <guid isPermaLink="false">movie-1807161</guid>
+      <pubDate>Thu, 19 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Tom Hill. In a world where it feels like we have everything we could ever want at our fingertips – Amazon, Spotify, next-day delivery, door-to-door, Uber, Netflix, Deliveroo, quicker than ever before, pure convenience and luxury without a second thought – in that world, perhaps there is something to be said for choosing the long way round. When Alice Lemkes realises she's out of milk, it is an excuse for an adventure in ‘Scotland's Last Great Wilderness.’</description>
+    </item>
+    <item>
       <title>Good Luck, Kid</title>
       <link>https://www.themoviedb.org/movie/1715868</link>
       <guid isPermaLink="false">movie-1715868</guid>
@@ -421,11 +526,18 @@ Filmed over two years, with dark humour and unexpected tenderness, this is a tim
       <description>Directed by Renan Öztürk. Grit, gear, growth – this film is a portrait of Taylor Shaffer’s coming-of-age as a photographer and filmmaker, following his creative trajectory as he shepherds Alex Honnold and Tommy Caldwell through a 2,500-mile expedition to attempt a single-day traverse of the Devil’s Thumb massif and finds his artistic voice amid risk, friendship, and a changing Alaskan landscape.</description>
     </item>
     <item>
-      <title>It Takes Two To Tandem</title>
-      <link>https://www.themoviedb.org/movie/1810954</link>
-      <guid isPermaLink="false">movie-1810954</guid>
+      <title>À bord du vide</title>
+      <link>https://www.themoviedb.org/movie/1806288</link>
+      <guid isPermaLink="false">movie-1806288</guid>
       <pubDate>Thu, 19 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Cat Aeppel. Longtime riding partners Sam and Jazz take a tandem bike across some of their favourite trails in the Rockies, marking ten years since their first tandem adventure together. Part celebration, part reflection, the film explores friendship, trust, and the rare joy of moving through the world in sync.</description>
+      <description>Directed by Thomas Guerrin. A poetic exploration of the art of steep skiing with Aurélien Lardy. This film celebrates the art of the movement, the commitment, and the intimate relationship between the man and the mountain, and what draws us to vertical places.</description>
+    </item>
+    <item>
+      <title>Too Old Not To</title>
+      <link>https://www.themoviedb.org/movie/1815426</link>
+      <guid isPermaLink="false">movie-1815426</guid>
+      <pubDate>Thu, 19 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Clementine Bourke. “Feel the fear and do it anyway” is the motto that 55-year-old Heli Murray teaches, and practices, as a birth doula and endurance athlete. Parallel to navigating motherhood, divorce, menopause and grandmotherhood, the ocean has been Heli’s sanctuary and outlet for expanding her own edges.</description>
     </item>
     <item>
       <title>The TransAtlantic Way</title>
@@ -435,18 +547,25 @@ Filmed over two years, with dark humour and unexpected tenderness, this is a tim
       <description>Directed by Fergus Coyle. At dawn, riders set off from Cork City on a self-supported journey of up to 2,400km, bound for the finish line across Derry’s Peace Bridge, battling fierce winds, rugged terrain, and shifting light. Narrated by veteran long-distance cyclist and event organiser Adrian O’Sullivan, the film immerses viewers in Ireland’s dark and mystical landscape, capturing the endurance, solitude, and raw beauty of the western coast.</description>
     </item>
     <item>
-      <title>The Himalayas in My Heart</title>
-      <link>https://www.themoviedb.org/movie/1810492</link>
-      <guid isPermaLink="false">movie-1810492</guid>
+      <title>Kidical Mass</title>
+      <link>https://www.themoviedb.org/movie/1811846</link>
+      <guid isPermaLink="false">movie-1811846</guid>
       <pubDate>Thu, 19 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Jérémy Bigé. In 1802, the Survey of India Institute launched the Great Trigonometrical Survey, a colossal undertaking aimed at precisely mapping British India from which the world became aware of the vast scale of the Himalayan range. From August to November 2024, using these historical maps, Jérémy Bigé makes his way on foot over 2,300km from Indian Kashmir to central Nepal. His goal: to connect the various Himalayan cultures in a single journey by following routes from the past.</description>
+      <description>Directed by Isaac Seigel-Boettner. After years of exploring their world by bicycle, the Moss family knew that they wanted to raise their kids on two wheels. But after a frightening accident on the way to school, they had to take a step back from their pedal-powered ambitions. Then they found Kidical Mass. This is the story of how one family is helping to reclaim their streets, one giant kid bike party at a time.</description>
     </item>
     <item>
-      <title>Back By Tea Time</title>
-      <link>https://www.themoviedb.org/movie/1807161</link>
-      <guid isPermaLink="false">movie-1807161</guid>
+      <title>Still Rider</title>
+      <link>https://www.themoviedb.org/movie/1803128</link>
+      <guid isPermaLink="false">movie-1803128</guid>
       <pubDate>Thu, 19 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Tom Hill. In a world where it feels like we have everything we could ever want at our fingertips – Amazon, Spotify, next-day delivery, door-to-door, Uber, Netflix, Deliveroo, quicker than ever before, pure convenience and luxury without a second thought – in that world, perhaps there is something to be said for choosing the long way round. When Alice Lemkes realises she's out of milk, it is an excuse for an adventure in ‘Scotland's Last Great Wilderness.’</description>
+      <description>Directed by Daniel Stark. After a mountain bike crash resulted in a life altering injury, Chantelle Grafton and her husband Warren have gone to great lengths to get Chantelle back out on the trails. Still Rider explores this journey, highlighting the unanticipated complexities that come with a major spinal cord injury and more importantly the benefits of prioritising adaptive design for those with and without accessibility issues.</description>
+    </item>
+    <item>
+      <title>It Takes Two To Tandem</title>
+      <link>https://www.themoviedb.org/movie/1810954</link>
+      <guid isPermaLink="false">movie-1810954</guid>
+      <pubDate>Thu, 19 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Cat Aeppel. Longtime riding partners Sam and Jazz take a tandem bike across some of their favourite trails in the Rockies, marking ten years since their first tandem adventure together. Part celebration, part reflection, the film explores friendship, trust, and the rare joy of moving through the world in sync.</description>
     </item>
     <item>
       <title>More than Everest: The Life of T.H. Somervell</title>
@@ -463,11 +582,11 @@ Filmed over two years, with dark humour and unexpected tenderness, this is a tim
       <description>Directed by Luis Arrieta Etxeberria. This is the story of Hiba, Bachir and Manan. Three young people who migrated from their countries as children and arrived in Navarre without any adult with them and alone. Here they have discovered climbing and the mountains, but their paths will gradually begin to diverge.</description>
     </item>
     <item>
-      <title>Kidical Mass</title>
-      <link>https://www.themoviedb.org/movie/1811846</link>
-      <guid isPermaLink="false">movie-1811846</guid>
+      <title>The Himalayas in My Heart</title>
+      <link>https://www.themoviedb.org/movie/1810492</link>
+      <guid isPermaLink="false">movie-1810492</guid>
       <pubDate>Thu, 19 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Isaac Seigel-Boettner. After years of exploring their world by bicycle, the Moss family knew that they wanted to raise their kids on two wheels. But after a frightening accident on the way to school, they had to take a step back from their pedal-powered ambitions. Then they found Kidical Mass. This is the story of how one family is helping to reclaim their streets, one giant kid bike party at a time.</description>
+      <description>Directed by Jérémy Bigé. In 1802, the Survey of India Institute launched the Great Trigonometrical Survey, a colossal undertaking aimed at precisely mapping British India from which the world became aware of the vast scale of the Himalayan range. From August to November 2024, using these historical maps, Jérémy Bigé makes his way on foot over 2,300km from Indian Kashmir to central Nepal. His goal: to connect the various Himalayan cultures in a single journey by following routes from the past.</description>
     </item>
     <item>
       <title>You Can See Everything</title>
@@ -475,6 +594,13 @@ Filmed over two years, with dark humour and unexpected tenderness, this is a tim
       <guid isPermaLink="false">movie-1765072</guid>
       <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
       <description>Directed by Nathan Fielder. Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.</description>
+    </item>
+    <item>
+      <title>American Doctor</title>
+      <link>https://www.themoviedb.org/movie/1596332</link>
+      <guid isPermaLink="false">movie-1596332</guid>
+      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Poh Si Teng. United by a shared oath to save lives, three American doctors—Palestinian, Jewish, and Zoroastrian—work in a besieged hospital in Gaza in the middle of a genocide comitted by Israel, and return to the United States to fight for the patients and colleagues they left behind.</description>
     </item>
     <item>
       <title>Time and Water (National Geographic Documentary Films)</title>
@@ -491,67 +617,11 @@ Filmed over two years, with dark humour and unexpected tenderness, this is a tim
       <description>Directed by Biljana Tutorov. In the remote highlands of Montenegro, a shepherd mother and daughter proudly defend their ancestral mountain from the threat of becoming a NATO military training ground, stirring memories of the violence that shattered their family.</description>
     </item>
     <item>
-      <title>American Doctor</title>
-      <link>https://www.themoviedb.org/movie/1596332</link>
-      <guid isPermaLink="false">movie-1596332</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Poh Si Teng. United by a shared oath to save lives, three American doctors—Palestinian, Jewish, and Zoroastrian—work in a besieged hospital in Gaza in the middle of a genocide comitted by Israel, and return to the United States to fight for the patients and colleagues they left behind.</description>
-    </item>
-    <item>
       <title>Tin Castle</title>
       <link>https://www.themoviedb.org/movie/1666146</link>
       <guid isPermaLink="false">movie-1666146</guid>
       <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
       <description>Directed by Alexander Murphy. Along a long-forgotten road, the O’Reillys live in a rundown trailer stranded in the middle of the fields. Pa’, Lisa, and their ten children weather the seasons in their tin castle, heirs to a way of life on borrowed time. Under threat of eviction, their tenuous balance falters, yet – steadfast in their tradition – they resist. The children laugh, the dogs bark, the trailer holds on – but for how long?</description>
-    </item>
-    <item>
-      <title>Zahir</title>
-      <link>https://www.themoviedb.org/movie/1584595</link>
-      <guid isPermaLink="false">movie-1584595</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Julien Nadiras. When Katherine Choong suggested to her friend Éline Le Menestrel that they tackle the Zahir, a classic route in the Swiss Alps and a demanding gem of the Wendenstöcke, Éline agreed... on one condition: that they only use sustainable transport to get to the foot of the wall.  As the days passed suspended on the rock, they realized the scale of the challenge: intense commitment, tiny holds, accumulated fatigue from cycling... every movement became a challenge.  Between motivation and euphoria, perseverance and doubt, would Katherine and Éline manage to reach their Zahir, that summit where audacity and wild beauty come together?</description>
-    </item>
-    <item>
-      <title>Obsession: The Beryl Burton Story</title>
-      <link>https://www.themoviedb.org/movie/1782278</link>
-      <guid isPermaLink="false">movie-1782278</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Stuart Pollitt. A documentary about Britain’s greatest athlete. Undefeated for 25 years, Leeds-born amateur cyclist Beryl Burton won seven World Championships, beat men’s records and transformed women’s sport; all while working on a Yorkshire rhubarb farm. Through unseen archive, letters and intimate interviews, the film explores the glory of her achievements and the cost of her obsession, particularly on her relationship with her daughter Denise, who followed her into competitive cycling.</description>
-    </item>
-    <item>
-      <title>Inside the Mountain</title>
-      <link>https://www.themoviedb.org/movie/1778412</link>
-      <guid isPermaLink="false">movie-1778412</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Jack Homan. In 1988, Paul Eastwood and his climbing partner became the first men to free-climb Britain's deepest open cave shaft, rising from within the UK's largest underground chamber and traversing around its highest unbroken waterfall, three times the height of Niagara falls. The iconic route will have gone unrepeated for almost 40 years. Decades later a new team of climbers, Olympian Molly Thompson-Smith and legend Steve McClure, will tackle the climb once again, hoping to join the few who have ever free-climbed the route.</description>
-    </item>
-    <item>
-      <title>75 Seconds</title>
-      <link>https://www.themoviedb.org/movie/1805666</link>
-      <guid isPermaLink="false">movie-1805666</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Marco Tribelhorn. On a foggy March evening in Norway, freeskier Jacob Wester triggers an avalanche and is swept off a cliff. For 75 seconds, he fights for his life inside a roaring mass of snow, while his wife Sofia waits in silence below. This is an account of chaos, fear, and hope inside an avalanche.</description>
-    </item>
-    <item>
-      <title>Big Jim: An American on Everest</title>
-      <link>https://www.themoviedb.org/movie/1807374</link>
-      <guid isPermaLink="false">movie-1807374</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Jim Aikman. “Big Jim” Whittaker (1929-2026) was a legendary Pacific Northwest mountaineer who became the first American to summit Mount Everest on May 1, 1963. This short documentary explores his “brotherhood of the rope” with his twin brother, Lou, as well as Nawang Gombu Sherpa, his Everest climbing partner and lifelong friend. Featuring rarely seen 16mm footage from the 1963 Everest Expedition, archival images from the Whittaker family collection, and interviews filmed in Jim’s late 80s, the film is both an intimate portrait of an extraordinary life and a celebration of the adventurous spirit that helped define a generation of climbers.</description>
-    </item>
-    <item>
-      <title>Glacier's Requiem</title>
-      <link>https://www.themoviedb.org/movie/1625174</link>
-      <guid isPermaLink="false">movie-1625174</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Saddiq Abubakar. In isolation on Iceland’s Snæfellsnes Peninsula, Nigerian-born modular synthesis artist Colloboh transforms glacial and oceanic recordings into sonic compositions; uncovering a dialogue between ice and sea that reshapes his understanding of consciousness, ecological collapse, and humanity’s place within both.</description>
-    </item>
-    <item>
-      <title>Framed</title>
-      <link>https://www.themoviedb.org/movie/1809154</link>
-      <guid isPermaLink="false">movie-1809154</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Bernardo Giménez. Siebe Vanhee sets out to onsight Voie Petit, a brutal 12-pitch 8a+ line at 3,500m on the Grand Capucin, completely alone - no partner, no static ropes, just lead rope-solo technique and a drone circling above. But even a solo mission as a professional climber has a crew: a manager on the phone, a sponsor waiting for footage, a director on the glacier, and Vanhee himself playing climber, cameraman and storyteller all at once, selfie-interviewing his own exhaustion pitch by pitch.</description>
     </item>
     <item>
       <title>The Hillbilly Scientist</title>
@@ -568,6 +638,69 @@ Filmed over two years, with dark humour and unexpected tenderness, this is a tim
       <description>Directed by Finlay Woods. With plenty of powder to go around, un-ridden waves rolling into secret golden beaches, and local characters to greet you with a smile, six professional athletes make the most of every moment during an action-packed adventure through Aotearoa, NZ!</description>
     </item>
     <item>
+      <title>Zahir</title>
+      <link>https://www.themoviedb.org/movie/1584595</link>
+      <guid isPermaLink="false">movie-1584595</guid>
+      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Julien Nadiras. When Katherine Choong suggested to her friend Éline Le Menestrel that they tackle the Zahir, a classic route in the Swiss Alps and a demanding gem of the Wendenstöcke, Éline agreed... on one condition: that they only use sustainable transport to get to the foot of the wall.  As the days passed suspended on the rock, they realized the scale of the challenge: intense commitment, tiny holds, accumulated fatigue from cycling... every movement became a challenge.  Between motivation and euphoria, perseverance and doubt, would Katherine and Éline manage to reach their Zahir, that summit where audacity and wild beauty come together?</description>
+    </item>
+    <item>
+      <title>Secret Rivers of the Nakanai</title>
+      <link>https://www.themoviedb.org/movie/1814885</link>
+      <guid isPermaLink="false">movie-1814885</guid>
+      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Alexandre Lopez. In the village of Ruraï, in Papua New Guinea, people tell of a water hidden deep within the Nakanai Mountains so pure that anyone who drinks it is said to gain extraordinary powers. Immersed in the heart of a tropical rainforest, a team of cavers including the inimitable Cédric Lachat, set out to uncover this mysterious underground river system.</description>
+    </item>
+    <item>
+      <title>Obsession: The Beryl Burton Story</title>
+      <link>https://www.themoviedb.org/movie/1782278</link>
+      <guid isPermaLink="false">movie-1782278</guid>
+      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Stuart Pollitt. A documentary about Britain’s greatest athlete. Undefeated for 25 years, Leeds-born amateur cyclist Beryl Burton won seven World Championships, beat men’s records and transformed women’s sport; all while working on a Yorkshire rhubarb farm. Through unseen archive, letters and intimate interviews, the film explores the glory of her achievements and the cost of her obsession, particularly on her relationship with her daughter Denise, who followed her into competitive cycling.</description>
+    </item>
+    <item>
+      <title>The Last of the Lookouts</title>
+      <link>https://www.themoviedb.org/movie/1645388</link>
+      <guid isPermaLink="false">movie-1645388</guid>
+      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Ryan Wilkes. High atop Sinkut Mountain in northern British Columbia, Bart Vanderlinde begins each summer's day the way he has for the past nine years: scanning the forest for smoke. He's among the last lookout people in the province. Where three hundred lookouts once formed an interconnected network across the region, Bart now often keeps watch alone. This is an intimate portrait of a man and a profession facing obsolescence. The film gives insight into the craft of fire detection while capturing the quiet solitude of a life lived in observation.</description>
+    </item>
+    <item>
+      <title>Big Jim: An American on Everest</title>
+      <link>https://www.themoviedb.org/movie/1807374</link>
+      <guid isPermaLink="false">movie-1807374</guid>
+      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Jim Aikman. “Big Jim” Whittaker (1929-2026) was a legendary Pacific Northwest mountaineer who became the first American to summit Mount Everest on May 1, 1963. This short documentary explores his “brotherhood of the rope” with his twin brother, Lou, as well as Nawang Gombu Sherpa, his Everest climbing partner and lifelong friend. Featuring rarely seen 16mm footage from the 1963 Everest Expedition, archival images from the Whittaker family collection, and interviews filmed in Jim’s late 80s, the film is both an intimate portrait of an extraordinary life and a celebration of the adventurous spirit that helped define a generation of climbers.</description>
+    </item>
+    <item>
+      <title>Borrowed from the Earth</title>
+      <link>https://www.themoviedb.org/movie/1776026</link>
+      <guid isPermaLink="false">movie-1776026</guid>
+      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Zach Johaneson. Tells the story of the powerful connection between the Blackfeet people and horses, and how that life-giving relationship remains alive today. Throughout their histories, both horse and Indigenous people have been corralled - horses by fences, and Indigenous people onto reservations. Yet centuries-long attempts to subdue both ultimately strengthened the bond between them. Saddle up for a visually poetic journey from the origin story of the horse to the modern day Indian Relay Race. Filmed on the Blackfeet Reservation in Browning, Montana.</description>
+    </item>
+    <item>
+      <title>Glacier's Requiem</title>
+      <link>https://www.themoviedb.org/movie/1625174</link>
+      <guid isPermaLink="false">movie-1625174</guid>
+      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Saddiq Abubakar. In isolation on Iceland’s Snæfellsnes Peninsula, Nigerian-born modular synthesis artist Colloboh transforms glacial and oceanic recordings into sonic compositions; uncovering a dialogue between ice and sea that reshapes his understanding of consciousness, ecological collapse, and humanity’s place within both.</description>
+    </item>
+    <item>
+      <title>Inside the Mountain</title>
+      <link>https://www.themoviedb.org/movie/1778412</link>
+      <guid isPermaLink="false">movie-1778412</guid>
+      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Jack Homan. In 1988, Paul Eastwood and his climbing partner became the first men to free-climb Britain's deepest open cave shaft, rising from within the UK's largest underground chamber and traversing around its highest unbroken waterfall, three times the height of Niagara falls. The iconic route will have gone unrepeated for almost 40 years. Decades later a new team of climbers, Olympian Molly Thompson-Smith and legend Steve McClure, will tackle the climb once again, hoping to join the few who have ever free-climbed the route.</description>
+    </item>
+    <item>
+      <title>A Mystical Ornithology</title>
+      <link>https://www.themoviedb.org/movie/1567157</link>
+      <guid isPermaLink="false">movie-1567157</guid>
+      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Directed by Jeremy Seifert. Immersed in the songs of blue jays, yellow-throated warblers, and red-shouldered hawks on his forty-six-acre farm in rural South Carolina, acclaimed poet and ornithologist J. Drew Lanham exchanges calls with the birds that stop over at his home during their seasonal migrations. For Drew, these creatures are gods, transcendent beings who summon a response of reverence. Reverberating with sound, music, light, and ethereal cinematic expression, A Mystical Ornithology weaves a kinetic texture for the senses and invites you into a poetic evocation of the paradox of love and grief within the changing nature of the seasons.</description>
+    </item>
+    <item>
       <title>Same Sun - Cycling through Africa</title>
       <link>https://www.themoviedb.org/movie/1650016</link>
       <guid isPermaLink="false">movie-1650016</guid>
@@ -580,139 +713,6 @@ Filmed over two years, with dark humour and unexpected tenderness, this is a tim
       <guid isPermaLink="false">movie-1806591</guid>
       <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
       <description>Directed by Neil Losin. Six-year old Aldo spends an exciting weekend banding migrating raptors in Cape May, New Jersey with his friend John, a volunteer bander with the Cape May Raptor Banding Project.</description>
-    </item>
-    <item>
-      <title>The Last of the Lookouts</title>
-      <link>https://www.themoviedb.org/movie/1645388</link>
-      <guid isPermaLink="false">movie-1645388</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Ryan Wilkes. High atop Sinkut Mountain in northern British Columbia, Bart Vanderlinde begins each summer's day the way he has for the past nine years: scanning the forest for smoke. He's among the last lookout people in the province. Where three hundred lookouts once formed an interconnected network across the region, Bart now often keeps watch alone. This is an intimate portrait of a man and a profession facing obsolescence. The film gives insight into the craft of fire detection while capturing the quiet solitude of a life lived in observation.</description>
-    </item>
-    <item>
-      <title>Beura</title>
-      <link>https://www.themoviedb.org/movie/1807273</link>
-      <guid isPermaLink="false">movie-1807273</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Gregor D. Sinclair. The tale of the Cailleach Bheur, the Celtic goddess of nature, storms and winter, is well known to many in the Gàidhealtachd. Said to have carved the mountains and glens with ice, and borne the islands like children on her back, the Cailleach disappeared long ago leaving us only with her song – a sad, cautionary tale. This Gaelic arts project brings music, film and verse together to reimagine Cailleach’s story for the modern era.</description>
-    </item>
-    <item>
-      <title>A Mystical Ornithology</title>
-      <link>https://www.themoviedb.org/movie/1567157</link>
-      <guid isPermaLink="false">movie-1567157</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Jeremy Seifert. Immersed in the songs of blue jays, yellow-throated warblers, and red-shouldered hawks on his forty-six-acre farm in rural South Carolina, acclaimed poet and ornithologist J. Drew Lanham exchanges calls with the birds that stop over at his home during their seasonal migrations. For Drew, these creatures are gods, transcendent beings who summon a response of reverence. Reverberating with sound, music, light, and ethereal cinematic expression, A Mystical Ornithology weaves a kinetic texture for the senses and invites you into a poetic evocation of the paradox of love and grief within the changing nature of the seasons.</description>
-    </item>
-    <item>
-      <title>Borrowed from the Earth</title>
-      <link>https://www.themoviedb.org/movie/1776026</link>
-      <guid isPermaLink="false">movie-1776026</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Zach Johaneson. Tells the story of the powerful connection between the Blackfeet people and horses, and how that life-giving relationship remains alive today. Throughout their histories, both horse and Indigenous people have been corralled - horses by fences, and Indigenous people onto reservations. Yet centuries-long attempts to subdue both ultimately strengthened the bond between them. Saddle up for a visually poetic journey from the origin story of the horse to the modern day Indian Relay Race. Filmed on the Blackfeet Reservation in Browning, Montana.</description>
-    </item>
-    <item>
-      <title>SILA</title>
-      <link>https://www.themoviedb.org/movie/1631611</link>
-      <guid isPermaLink="false">movie-1631611</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Ciril Jazbec. Set on an island 600 kilometers north of the Arctic Circle, this intimate vérité portrait follows two young Inuit coming of age. Created in close collaboration with a local children’s home and filmed in the Greenlandic language, the story traces identity, tradition, loss, and resilience. Living alongside its protagonists, the film observes a fragile passage between deep cultural roots and an uncertain, rapidly changing world.</description>
-    </item>
-    <item>
-      <title>Secret Rivers of the Nakanai</title>
-      <link>https://www.themoviedb.org/movie/1814885</link>
-      <guid isPermaLink="false">movie-1814885</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Alexandre Lopez. In the village of Ruraï, in Papua New Guinea, people tell of a water hidden deep within the Nakanai Mountains so pure that anyone who drinks it is said to gain extraordinary powers. Immersed in the heart of a tropical rainforest, a team of cavers including the inimitable Cédric Lachat, set out to uncover this mysterious underground river system.</description>
-    </item>
-    <item>
-      <title>Teeth to the Wind</title>
-      <link>https://www.themoviedb.org/movie/1747364</link>
-      <guid isPermaLink="false">movie-1747364</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Ben Knight. Before Michael Gardner's death in Nepal in 2024, he and his climbing partner Sam Hennessey had started a film project about their friendship. Remarkable alpinists, but reluctant filmmakers, Teeth to the Wind realizes Gardner and Hennessey's original vision: a joyful and unassuming glimpse at what they referred to as “the spirit.”</description>
-    </item>
-    <item>
-      <title>Blank Patterns</title>
-      <link>https://www.themoviedb.org/movie/1807429</link>
-      <guid isPermaLink="false">movie-1807429</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Alexi Godbout. A collection of athlete portraits following Jacob Bélanger, Emma Patterson, and Ugo Troubat. Through their individual stories, the film explores the experiences, choices, and communities that shaped the lives they lead today. While each has taken a different path, together they reflect the many ways people find their place within skiing and contribute to the culture in their own way.</description>
-    </item>
-    <item>
-      <title>Ripple</title>
-      <link>https://www.themoviedb.org/movie/1813610</link>
-      <guid isPermaLink="false">movie-1813610</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Ryder Schwartz. Two women sit by the lake that raised them and have a conversation about what it means to be a freeride skier. After dedicating their lives to the sport, they question the meaning of it all. More than anything, this is a story about surrendering to the present moment. A story about being water.</description>
-    </item>
-    <item>
-      <title>Ridgeline</title>
-      <link>https://www.themoviedb.org/movie/1813390</link>
-      <guid isPermaLink="false">movie-1813390</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Anna Brannon. Professional musician and composer Liz Derstine heads into the wilderness to chase a very different goal: attempting a self-supported Fastest Known Time on the Pacific Crest Trail.</description>
-    </item>
-    <item>
-      <title>Casey</title>
-      <link>https://www.themoviedb.org/movie/1807922</link>
-      <guid isPermaLink="false">movie-1807922</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Erica Gianesini. Casey is a young woman on a journey of self-empowerment, shaped by community and a fierce love for skateboarding. This short film is a tribute to trans+ joy and the spaces that allow people to be unapologetically themselves. Made in collaboration with Transkaters and Not A Phase charity.</description>
-    </item>
-    <item>
-      <title>Zuma Rock</title>
-      <link>https://www.themoviedb.org/movie/1816291</link>
-      <guid isPermaLink="false">movie-1816291</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Luke Logan-Malik. Rotimi, an amateur climber and writer from London with deep family roots in Nigeria sets out to achieve the unthinkable: a first ascent of Zuma Rock, a 300m monolith considered sacred by the communities who live in its shadow. To do it, he enlists Olympic climbing champion Shauna Coxsey but neither of them has ever tackled a wall of this scale.</description>
-    </item>
-    <item>
-      <title>Searching for SuperCrust: The Lost Tapes</title>
-      <link>https://www.themoviedb.org/movie/1814667</link>
-      <guid isPermaLink="false">movie-1814667</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Chris Burkard. Five cyclists set out to cross Europe's largest glacier by bike. An expedition 30 years in the making, the film explores the past, present, and future of Vatnajökull through the stories of those who have braved the glacier’s icy expanse on two wheels.</description>
-    </item>
-    <item>
-      <title>Wild Ice</title>
-      <link>https://www.themoviedb.org/movie/1816232</link>
-      <guid isPermaLink="false">movie-1816232</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Mike Schwartz. As winter slowly reveals itself across the Canadian Rockies, artist and skater Elladj Baldé and photographer Paul Zizka chase the season’s first wild ice - a journey that becomes a reflection on freedom, connection, and the human desire to move through life with intention.</description>
-    </item>
-    <item>
-      <title>The Rare Folk 2</title>
-      <link>https://www.themoviedb.org/movie/1816677</link>
-      <guid isPermaLink="false">movie-1816677</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Joe Barnes. Follow up to The Rare Folk</description>
-    </item>
-    <item>
-      <title>Rodeo On Ice</title>
-      <link>https://www.themoviedb.org/movie/1813701</link>
-      <guid isPermaLink="false">movie-1813701</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Lindsey Hagen. With skijoring poised to become a potential addition to the 2030 Winter Olympics, lifelong equestrian Britta Nancarrow assembles a team to push her skijoring to the next level. The film follows Nancarrow as she trains with skier Mike King and snowboarder Sandra Hillen, taking their on-snow skills to their very first competition.</description>
-    </item>
-    <item>
-      <title>The Kelp Collector</title>
-      <link>https://www.themoviedb.org/movie/1803682</link>
-      <guid isPermaLink="false">movie-1803682</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Jack Breedon. After a career in science, Sandy Webb has found a new passion in retirement: collecting and cataloguing the diverse algae species that inhabit the waters near her Melbourne home. With the precision of a scientist and the eye of an artist, she transforms her discoveries into exquisite pressed-seaweed specimens, The kelp collector reveals how Sandy's dedication to documenting local marine life connects her to the coastal environment she calls home.</description>
-    </item>
-    <item>
-      <title>The Art of Hold Shaping</title>
-      <link>https://www.themoviedb.org/movie/1807143</link>
-      <guid isPermaLink="false">movie-1807143</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Dean Tucker. An intimate documentary exploring the world of Dan Yagmin as the creative force behind Decoy Holds. Moving between wild landscapes, workshop processes and climbing walls, the film is a portrait of an artist shaping not just holds, but the way we experience climbing itself.</description>
-    </item>
-    <item>
-      <title>Marcus &amp; Me</title>
-      <link>https://www.themoviedb.org/movie/1812053</link>
-      <guid isPermaLink="false">movie-1812053</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
-      <description>Directed by Dominic Gill. As a participant in the Outdoor Inclusion Coalition, 'little' Marcus explores the less-known corners of his Pittsburgh back yard to seek out opportunities for climbing and connection with nature.</description>
     </item>
   </channel>
 </rss>
